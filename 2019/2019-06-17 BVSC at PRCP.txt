@@ -1,0 +1,816 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Czarnik, Rebecca          12 PR                     39.92      36.90    5  
+  2 Purrier, Isidora          12 PR                     41.99      40.03    3  
+  3 Howes, Lola               11 PR                     47.02     x45.25  
+  4 Strickfaden, Amelie       11 Beechview-MI              NT      51.95    2  
+ -- Almas, Emily              12 PR                        NT     X44.89  
+ -- Pund, Iris                11 PR                   1:03.28     X52.49  
+ -- Cuda, Siena               11 PR                     57.85     X54.53  
+ -- Roelofs, Kalli            11 PR                     50.50   X1:03.07  
+ -- Nischan, Vega             11 PR                   1:11.72   X1:03.22  
+ -- Martin, Lauren            12 PR                     49.45   X1:03.88  
+ -- Reaume, Caroline          12 PR                        NT   X1:03.89  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Plymale, Walter           12 PR                     51.01      49.42    5  
+  2 Arnone, Dominik           12 PR                     56.10      50.47    3  
+  3 Salhaney, Dylan           11 Beechview-MI              NT      54.04    2  
+  4 Padgett, Lively           11 PR                     52.88     x54.31  
+  5 Seals, Ronin              10 Beechview-MI              NT    1:17.80    1  
+ -- Tacke, Trent              11 PR                     58.67     X59.55  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Scully, Bryce             13 PR                   1:18.36    1:18.42    5  
+      35.87   42.55                                                
+  2 Pund, Lucy                13 PR                   1:32.30    1:24.88    3  
+      38.53   46.35                                                
+  3 Jennings, Naima           14 Beechview-MI              NT    1:24.98    2  
+      37.29   47.69                                                
+  4 Francis, Chloe            14 PR                   1:31.51   x1:30.59  
+      40.76   49.83                                                
+  5 Hinckley, Abby            14 Beechview-MI              NT    1:31.21    1  
+      41.72   49.49                                                
+ -- Bock, Anneka              13 Beechview-MI              NT         DQ  
+      47.92   55.09                                                
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ludden, Daniel            13 Beechview-MI              NT    1:19.04    5  
+      36.92   42.12                                                
+  2 Curtin, Brady             14 PR                        NT    1:19.19    3  
+      36.05   43.14                                                
+  3 Nykanen, Ben              13 Beechview-MI              NT    1:24.58    2  
+      40.20   44.38                                                
+  4 Bray, Cosmo               13 PR                   1:36.89    1:35.36    1  
+      46.81   48.55                                                
+ 
+Event 5  Girls 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Borregard, Dayna          18 Beechview-MI              NT      36.95    5  
+  2 Scully, Brynne            15 PR                     40.77      41.86    3  
+  3 Chappell, Sarah           15 Beechview-MI              NT      44.33    2  
+  4 Panis, Rozy               16 PR                     44.92      44.34    1  
+  5 Arnone, Samantha          16 PR                     45.72     x45.16  
+  6 Wallace, Sequoia          16 PR                        NT     x49.51  
+ -- Bader, Abby               15 PR                     46.92     X46.14  
+ 
+Event 6  Boys 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kozara, Evan              17 Beechview-MI           36.75      34.02    5  
+  2 Hinckley, Drew            18 Beechview-MI           35.71      34.26    3  
+  3 Radomski, Alex            15 Beechview-MI           40.60     x38.50  
+  4 Gibson, Aidan             16 PR                     37.51      39.16    2  
+  5 Needham, Bailey           15 PR                     41.85      41.20    1  
+  6 Merten, Jack              17 PR                     43.48     x45.37  
+ -- Miller, Logan             17 Beechview-MI           41.61     X39.77  
+ -- Wickerham, Nick           17 PR                     43.95     X48.35  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Stricher, Jill             8 Beechview-MI           25.54      24.96    5  
+  2 McNamara, Ella             8 PR                     27.72      27.46    3  
+  3 Fuoco, Isabella            8 PR                     30.73      28.68    2  
+  4 Anzivino, Olivia           8 Beechview-MI           31.84      31.78    1  
+  5 Salhaney, Emma             8 Beechview-MI           31.20     x31.82  
+  6 Bowering, Sadie            7 PR                     33.84     x32.55  
+ -- Plymale, Esther            8 PR                     41.79     X28.40  
+ -- Bolach, Samantha           7 PR                     35.26     X29.65  
+ -- Burnham, Grace             8 Beechview-MI              NT     X33.50  
+ -- Fowler, Evi                6 Beechview-MI              NT     X35.76  
+ -- Black, Bree                8 Beechview-MI              NT     X36.14  
+ -- Marvar, Harper             7 PR                     38.71     X37.22  
+ -- Downey, Lola               8 PR                     42.29     X37.26  
+ -- Bloom, Poppy               8 PR                        NT     X39.00  
+ -- Smith, Lucy                6 PR                   1:15.85     X40.30  
+ -- Drozd, Sarah               6 Beechview-MI           36.24     X40.40  
+ -- Rentrop, Hila              5 PR                     58.32     X41.49  
+ -- Meehan, Layla              6 Beechview-MI           29.08     X41.99  
+ -- Matyas, Nina               7 PR                        NT     X42.27  
+ -- Gallagher, Cassie          6 PR                   1:22.64     X44.77  
+ -- McEvoy, Zoe                6 PR                     57.91     X46.28  
+ -- Black, Juliet              8 Beechview-MI              NT     X47.83  
+ -- Cranson, Raina             6 Beechview-MI           59.77     X51.49  
+ -- Pontes, Nadia              7 PR                   1:11.28     X54.24  
+ -- Jablonowski, Ashlyn        6 PR                        NT     X54.29  
+ -- de Four, Luca              7 Beechview-MI           52.60     X56.70  
+ -- Chapman, Harper            8 PR                   1:07.15     X59.17  
+ -- McCown, Maggie             6 Beechview-MI           44.54   X1:02.40  
+ -- Black, Catherine           6 Beechview-MI              NT   X1:03.67  
+ -- Jablonowski, Audrey        6 PR                   1:28.14   X1:08.55  
+ -- Cavicchioli, Olivia        5 PR                   1:09.82   X1:12.83  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Damico, Dominic            7 PR                     34.36      28.93    5  
+  2 Cooke, Oliver              7 PR                     38.44      36.15    3  
+  3 Richard, Alex              8 Beechview-MI           35.86      36.17    2  
+  4 McEvoy, Zander             8 PR                     42.49     x36.82  
+  5 Holmes, Christopher        7 Beechview-MI           44.54      41.80    1  
+  6 Moulliet, Henry            7 Beechview-MI              NT     x46.33  
+  7 Bander, Aiden              7 PR                        NT   x1:04.53  
+ -- Piggott, Edwin             7 Beechview-MI         1:25.39     X39.13  
+ -- Samoray, Gabriel           7 PR                     44.58     X42.62  
+ -- Rife, Logan                6 PR                   1:00.57     X48.16  
+ -- Schleicher, Edison         6 Beechview-MI           52.60   X1:06.73  
+ -- Howes, Milo                6 PR                   1:22.82   X1:58.46  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Francis, Samantha         10 PR                     48.86      46.10    5  
+  2 Rose, Ella                 9 PR                     48.26      47.74    3  
+  3 Foreman, Chantal          10 PR                   1:01.66   x1:01.43  
+  4 Vassas, Ada                9 Beechview-MI         1:10.83    1:01.81    2  
+  5 Cranson, Sona              9 Beechview-MI         1:11.87    1:02.02    1  
+  6 de Four, Maya              9 Beechview-MI         1:15.35   x1:12.26  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Stricher, Grayson         10 Beechview-MI           58.41    1:01.10    5  
+  2 Samoray, Max              10 PR                        NT    1:05.38    3  
+  3 Harris, Arthur             9 PR                        NT    1:07.12    2  
+  4 Lambert, Denny             9 PR                   1:32.41   x1:17.71  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Czarnik, Rebecca          12 PR                     36.85      32.59    5  
+  2 Soma, Sophia              12 PR                     40.03      37.35    3  
+  3 Buick, Scarlett           11 PR                     39.94     x39.88  
+  4 Strickfaden, Amelie       11 Beechview-MI           48.83      46.30    2  
+ -- Almas, Emily              12 PR                        NT     X38.24  
+ -- Roelofs, Kalli            11 PR                        NT     X39.58  
+ -- Barnett, Sarah            12 PR                     40.96     X39.73  
+ -- Harris, Lillian           11 PR                        NT     X39.89  
+ -- Malkowski, Gracie         11 PR                     46.03     X42.81  
+ -- Martin, Lauren            12 PR                     44.72     X42.94  
+ -- Pinho, Grace              11 PR                     49.49     X45.66  
+ -- Worcester, Zoey           11 PR                     48.13     X45.97  
+ -- Howes, Lola               11 PR                     45.50     X46.16  
+ -- Stacey, Harper            12 PR                     49.28     X49.62  
+ -- Chapman, Ryan             12 PR                     56.37     X51.18  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Arnone, Dominik           12 PR                     43.14      39.94    5  
+  2 McNamara, Miles           11 PR                     43.89      44.13    3  
+  3 Salhaney, Dylan           11 Beechview-MI           49.15      46.58    2  
+  4 Pannecouck, Ben           11 PR                     46.76     x48.36  
+  5 Seals, Ronin              10 Beechview-MI              NT    1:13.77    1  
+ -- Plymale, Walter           12 PR                     49.99     X40.75  
+ -- McCaffrey, Jaxon          12 PR                     46.82     X45.46  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Scully, Bryce             13 PR                     32.70      33.99    5  
+  2 Mateyak, Rachael          13 Beechview-MI           31.00      34.15    3  
+  3 Schwalm, Lily             14 Beechview-MI           32.00      36.35    2  
+  4 Pinho, Faye               14 PR                     40.79      38.22    1  
+  5 Rose, Alyssa              13 PR                     43.05     x41.94  
+  6 Kaczmar, Lillian          13 Beechview-MI           41.53     x44.01  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hess, Shane               13 Beechview-MI           34.00      33.54    5  
+  2 Laidlaw, Connor           13 PR                     35.19      34.72    3  
+ 
+Event 15  Girls 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 D'Errico, Ella            15 Beechview-MI           35.58      35.14    5  
+  2 Maurice, Maya             15 PR                     37.24      37.77    3  
+  3 Nykanen, Danielle         17 Beechview-MI              NT      38.38    2  
+  4 Oster, Evie               15 PR                     40.12      39.08    1  
+  5 Koon, Sophia              17 Beechview-MI           43.49     x40.94  
+  6 Harris, Mia               15 PR                     39.73     x41.20  
+ -- Rogers, Genevieve         15 PR                     41.74     X46.13  
+ -- Peters, Anja              17 PR                        NT     X47.29  
+ -- Harris, Maya Lane         18 PR                     52.86     X48.85  
+ -- Hunt, Zoe                 16 PR                     51.19     X50.93  
+ -- Bratic, Ellie             17 PR                     53.16     X51.28  
+ 
+Event 16  Boys 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Mateyak, Elliot           17 Beechview-MI           31.89      30.15    5  
+  2 Veasey, LaVaughn          15 PR                     33.11      30.58    3  
+  3 Solecki, Mason            16 PR                     30.99      31.11    2  
+  4 Xu, Daniel                16 Beechview-MI              NT      31.32    1  
+  5 Miller, Logan             17 Beechview-MI           35.23     x33.41  
+  6 Morais, Samuel            15 PR                     39.50     x40.26  
+ -- Pyykkonen, Kyle           16 PR                     40.84     X39.55  
+ -- Gibson, Aidan             16 PR                     39.84     X41.36  
+ -- Cole, Avery               15 PR                     40.60     X45.27  
+ -- Wickerham, Nick           17 PR                     41.65     X46.97  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Stricher, Jill             8 Beechview-MI           21.80      21.57    5  
+  2 Plymale, Esther            8 PR                     30.28      23.17    3  
+  3 Mroczek, Alexis            8 PR                     23.68      23.69    2  
+  4 Bolach, Samantha           7 PR                     27.96     x25.49  
+  5 Anzivino, Olivia           8 Beechview-MI           30.04      27.76    1  
+  6 Salhaney, Emma             8 Beechview-MI           33.34     x33.20  
+ -- Knudson, Olivia            7 PR                        NT     X22.49  
+ -- Burnham, Grace             8 Beechview-MI              NT     X24.84  
+ -- Janelle, Rowan             8 PR                     29.39     X25.31  
+ -- Seals, Zoe                 7 Beechview-MI           34.89     X28.51  
+ -- Zywicki, Natalia           8 PR                     39.88     X28.93  
+ -- Thompson-Lange, Sophie     8 Beechview-MI           34.19     X29.07  
+ -- Black, Bree                8 Beechview-MI              NT     X29.07  
+ -- Pontes, Sylvia             7 PR                     32.22     X31.09  
+ -- Pontes, Nadia              7 PR                     38.07     X31.68  
+ -- Worcester, Charlotte       8 PR                     28.77     X31.94  
+ -- Drozd, Sarah               6 Beechview-MI           37.36     X32.55  
+ -- Bowering, Sadie            7 PR                     32.09     X32.77  
+ -- Meehan, Layla              6 Beechview-MI           42.55     X32.99  
+ -- Gallagher, Cassie          6 PR                     40.84     X33.74  
+ -- Marvar, Harper             7 PR                     36.94     X34.38  
+ -- Janelle, Shae              6 PR                     46.72     X35.56  
+ -- McKee, Vivian              8 PR                     35.67     X35.97  
+ -- Downey, Lola               8 PR                     46.73     X36.31  
+ -- Bloom, Poppy               8 PR                        NT     X36.84  
+ -- Matyas, Nina               7 PR                        NT     X37.04  
+ -- Herzig, Chloe              6 PR                     36.86     X38.31  
+ -- Black, Juliet              8 Beechview-MI           40.03     X39.77  
+ -- Fowler, Evi                6 Beechview-MI           40.39     X40.33  
+ -- Smith, Lucy                6 PR                     46.73     X42.76  
+ -- de Four, Luca              7 Beechview-MI           52.20     X43.15  
+ -- Black, Catherine           6 Beechview-MI           53.56     X44.83  
+ -- Cranson, Raina             6 Beechview-MI           29.43     X47.63  
+ -- Cavicchioli, Olivia        5 PR                     51.35     X52.14  
+ -- Chapman, Harper            8 PR                   1:12.35     X55.03  
+ -- McCown, Maggie             6 Beechview-MI           50.43     X55.19  
+ -- Jablonowski, Ashlyn        6 PR                        NT   X1:06.73  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gallagher, Connor          8 PR                     19.57      17.43    5  
+  2 Murray, Evan               7 PR                     29.53      25.49    3  
+  3 Damico, Dominic            7 PR                     27.92     x26.43  
+  4 Holmes, Christopher        7 Beechview-MI           38.43      31.19    2  
+  5 Richard, Alex              8 Beechview-MI           31.36      36.38    1  
+  6 Schleicher, Edison         6 Beechview-MI           43.95     x48.45  
+ -- Cooke, Oliver              7 PR                     38.03     X35.74  
+ -- Piggott, Edwin             7 Beechview-MI           44.76     X37.91  
+ -- Leonard, Harrison          7 PR                     39.77     X38.12  
+ -- Koehler, Desmond           7 PR                     43.86     X38.31  
+ -- Moulliet, Henry            7 Beechview-MI              NT     X39.76  
+ -- Rife, Logan                6 PR                     58.03     X39.93  
+ -- Bander, Ashton             7 PR                     38.25     X41.63  
+ -- Vassas, Marcus             6 Beechview-MI         1:09.60     X51.52  
+ -- Bander, Aiden              7 PR                        NT     X53.22  
+ -- Samoray, Gabriel           7 PR                     44.42     X55.45  
+ -- Stricher, Jack             5 Beechview-MI         1:03.44   X1:02.31  
+ -- Howes, Milo                6 PR                   1:21.24   X1:46.53  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Francis, Samantha         10 PR                     56.45      55.07    5  
+  2 Marchak, Sydney            9 PR                     58.50      55.91    3  
+  3 Cranson, Sona              9 Beechview-MI         1:07.07    1:00.44    2  
+  4 Cranson, Shaila           10 Beechview-MI         1:08.52    1:01.51    1  
+  5 Vassas, Ada                9 Beechview-MI         1:11.00   x1:08.00  
+ -- Erwin, Savanna            10 PR                        NT   X1:06.38  
+ -- Monteiro, Brynn            9 PR                   1:08.81   X1:08.13  
+ -- Moulliet, Clara           10 Beechview-MI         1:22.44   X1:08.91  
+ -- Abrutyn, Hadley           10 PR                   1:10.86   X1:09.00  
+ -- Lane, Emma                 9 PR                        NT   X1:09.49  
+ -- Roelofs, Kolbie           10 PR                        NT   X1:12.46  
+ -- McCaffrey, Riley          10 PR                   1:09.84   X1:12.51  
+ -- Scully, Sloan             10 PR                     48.09         DQ  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Murray, Jack              10 PR                   1:01.73    1:00.42    5  
+  2 Wardowski, Edgar          10 PR                   1:07.79    1:08.01    3  
+  3 Piggott, Jackson           9 Beechview-MI         1:12.86    1:09.14    2  
+ -- Fineran, Colin            10 PR                   1:35.38   X1:25.57  
+ -- Samoray, Max              10 PR                   1:01.23         DQ  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Schwalm, Katy             11 Beechview-MI              NT    1:34.95    5  
+      42.24   52.71                                                
+  2 Barnett, Sarah            12 PR                   1:43.18    1:39.56    3  
+      44.18   55.38                                                
+  3 Pund, Iris                11 PR                        NT    1:51.21  
+      53.79   57.42                                                
+ -- Forsyth, Natalie          12 PR                        NT   X1:45.94  
+      49.10   56.84                                                
+ -- Kraniak, Raquel           12 PR                        NT   X1:49.83  
+      54.99   54.84                                                
+ -- Cuda, Siena               11 PR                        NT   X2:12.13  
+      58.32 1:13.81                                                
+ -- Masters, Willow           12 PR                        NT         DQ  
+      48.95   53.08                                                
+ -- Morais, Sonni             12 PR                        NT         DQ  
+      41.63   54.48                                                
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Foreman, Nicholas         12 PR                   1:42.52    1:38.54    5  
+      48.02   50.52                                                
+  2 Padgett, Lively           11 PR                   2:10.16    2:09.52    3  
+    1:00.92 1:08.60                                                
+ -- Hoey, Sean                12 PR                        NT         DQ  
+      57.46 1:05.52                                                
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Anzivino, Emma            14 Beechview-MI           42.52      42.06    5  
+  2 Pund, Lucy                13 PR                     42.44      42.43    3  
+  3 Schwalm, Lily             14 Beechview-MI           47.75      42.82    2  
+  4 Collins, Kerrigan         14 PR                     45.34      44.07    1  
+  5 Barnett, Jane             14 PR                     46.46     x48.47  
+ -- Owens, Sophie             13 PR                     48.88     X48.31  
+ -- Morello, Lainey           14 PR                     49.99     X49.58  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ludden, Daniel            13 Beechview-MI           41.54      39.47    5  
+  2 Nykanen, Ben              13 Beechview-MI           43.86      42.01    3  
+  3 Miller, Guy               13 PR                     46.11      44.90    2  
+  4 Bray, Cosmo               13 PR                     46.44      46.45    1  
+ 
+Event 25  Girls 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 D'Errico, Ella            15 Beechview-MI              NT    1:08.66    5  
+      32.47   36.19                                                
+  2 Oster, Evie               15 PR                   1:07.23    1:10.15    3  
+      32.81   37.34                                                
+  3 Carter, Maddy             17 Beechview-MI              NT    1:10.35    2  
+      33.58   36.77                                                
+  4 Graham, Erin              15 PR                   1:08.45    1:12.17    1  
+      34.56   37.61                                                
+  5 Maurice, Maya             15 PR                   1:07.45   x1:13.29  
+      35.44   37.85                                                
+  6 Koon, Sophia              17 Beechview-MI              NT   x1:15.67  
+    1:15.69                                                        
+ -- Needham, Jacey            17 PR                   1:13.44   X1:12.13  
+      34.28   37.85                                                
+ -- Bader, Abby               15 PR                        NT   X1:16.27  
+      36.82   39.45                                                
+ -- Arnone, Samantha          16 PR                   1:25.36   X1:19.49  
+      38.81   40.68                                                
+ -- Wallace, Sequoia          16 PR                        NT   X1:22.69  
+      39.01   43.68                                                
+ -- Harris, Mia               15 PR                        NT   X1:25.22  
+      40.05   45.17                                                
+ -- Rogers, Genevieve         15 PR                   1:18.45   X1:25.26  
+      38.93   46.33                                                
+ -- Hunt, Zoe                 16 PR                   1:26.70   X1:29.75  
+      41.79   47.96                                                
+ -- Peters, Anja              17 PR                        NT   X1:30.55  
+      42.15   48.40                                                
+ -- Harris, Maya Lane         18 PR                        NT   X1:37.90  
+      45.21   52.69                                                
+ -- Bratic, Ellie             17 PR                        NT   X1:54.23  
+      52.17 1:02.06                                                
+ 
+Event 26  Boys 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hinckley, Drew            18 Beechview-MI              NT      55.71    5  
+  2 Mateyak, Elliot           17 Beechview-MI              NT      57.79    3  
+  3 Cook, John                16 PR                     58.07      58.05    2  
+  4 Strasberger, Tristan      18 Beechview-MI              NT   x1:01.21  
+  5 Morais, Samuel            15 PR                   1:02.86    1:09.73    1  
+  6 Cole, Avery               15 PR                   1:06.45   x1:10.91  
+ -- Merten, Peter             15 PR                        NT   X1:07.09  
+      31.47   35.62                                                
+ -- Merten, Jack              17 PR                   1:12.55   X1:11.65  
+      33.34   38.31                                                
+ -- Pyykkonen, Kyle           16 PR                   1:15.40   X1:15.98  
+      35.52   40.46                                                
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Birmelin, Kinley           6 Beechview-MI           24.93      22.94    5  
+  2 Cavicchioli, Amelia        8 PR                     25.77      25.01    3  
+  3 Fuoco, Isabella            8 PR                     37.88      35.29    2  
+  4 Seals, Zoe                 7 Beechview-MI           53.00      36.14    1  
+ -- Pontes, Sylvia             7 PR                     46.82     X44.26  
+ -- Janelle, Shae              6 PR                        NT     X44.83  
+ -- Herzig, Chloe              6 PR                     44.56     X48.29  
+ -- McKee, Vivian              8 PR                        NT     X49.80  
+ -- Mroczek, Alexis            8 PR                     32.02         DQ  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gallagher, Connor          8 PR                        NT      26.37    5  
+  2 Murray, Evan               7 PR                     32.33      34.93    3  
+ -- Monteiro, Bowen            8 PR                        NT         DQ  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bitoff, Maryn             10 PR                     43.09      40.98    5  
+  2 Hougard, Ayla             10 Beechview-MI           49.47      46.35    3  
+  3 Scully, Sloan             10 PR                     48.59      49.88    2  
+  4 Rose, Ella                 9 PR                     49.81     x52.02  
+  5 Cranson, Shaila           10 Beechview-MI         1:06.03    1:08.66    1  
+  6 Thompson-Lange, Maddie     9 Beechview-MI         1:12.44   x1:10.61  
+ -- Johnston, Layne           10 PR                   1:13.32     X57.69  
+ -- Pauls, Grace               9 PR                   1:07.21   X1:02.24  
+ -- Lane, Emma                 9 PR                   1:02.65   X1:03.86  
+ -- Wahl, Charlotte            9 PR                   1:04.21   X1:05.25  
+ -- Jones, Rhea                9 PR                        NT   X1:06.53  
+ -- Iverson, Abigail          10 PR                   1:07.71   X1:10.25  
+ -- Anderson, Kaison           9 PR                   1:34.17   X1:17.60  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Stricher, Grayson         10 Beechview-MI           56.08      54.53    5  
+  2 Axe, Anderson              9 Beechview-MI         1:05.69      57.22    3  
+  3 Piggott, Jackson           9 Beechview-MI         1:09.48     x58.60  
+  4 Custard, Jacob            10 Beechview-MI         1:09.82   x1:03.40  
+  5 Ford, Christian           10 PR                   1:11.24    1:08.09    2  
+  6 Plymale, George           10 PR                   1:09.28    1:09.35    1  
+  7 Fineran, Colin            10 PR                   1:20.09   x1:15.77  
+ -- Cooke, Theodore            9 PR                        NT   X1:02.46  
+ -- Murray, London            10 PR                   1:47.10   X1:28.61  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Purrier, Isidora          12 PR                     40.04      40.63    5  
+  2 Soma, Sophia              12 PR                     46.66      43.24    3  
+  3 Schwalm, Katy             11 Beechview-MI           45.89      43.77    2  
+  4 Buick, Scarlett           11 PR                     48.78     x49.93  
+ -- Harris, Lillian           11 PR                        NT     X48.31  
+ -- Malkowski, Gracie         11 PR                     54.79     X52.30  
+ -- Stacey, Harper            12 PR                        NT   X1:04.05  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bray, Karl                11 PR                     47.46      46.06    5  
+  2 Hoey, Sean                12 PR                        NT    1:02.12    3  
+  3 Pannecouck, Ben           11 PR                     59.10   x1:05.67  
+ -- Tacke, Trent              11 PR                        NT   X1:14.60  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Mateyak, Rachael          13 Beechview-MI           36.19      35.71    5  
+  2 Jennings, Naima           14 Beechview-MI              NT      38.43    3  
+  3 Burke, Miranda            14 Beechview-MI           43.37     x40.87  
+  4 Collins, Kerrigan         14 PR                     40.10      41.85    2  
+  5 Pinho, Faye               14 PR                     43.78      43.13    1  
+  6 Rose, Alyssa              13 PR                     44.07     x44.76  
+ -- Wischman, Katherine       13 PR                     48.25     X45.12  
+ -- Grenier, Tanis            13 PR                     47.99     X46.44  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Curtin, Brady             14 PR                     37.84      37.76    5  
+  2 Axe, Jeremiah             13 Beechview-MI           45.54      42.57    3  
+  3 Bowden, John              13 PR                     50.30      46.44    2  
+  4 Harris, Oliver            13 PR                     58.84     x52.23  
+ -- London, Noah              14 PR                   1:07.53   X1:06.20  
+ 
+Event 35  Girls 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Borregard, Dayna          18 Beechview-MI              NT    1:13.37    5  
+      35.03   38.34                                                
+  2 Evers, Emily              15 Beechview-MI              NT    1:16.08    3  
+      35.28   40.80                                                
+  3 Emmi, Mary                17 PR                   1:15.99    1:19.17    2  
+      35.80   43.37                                                
+  4 Cross, Kayla              16 PR                   1:19.00    1:22.72    1  
+      35.03   47.69                                                
+  5 Scully, Brynne            15 PR                   1:18.47   x1:23.93  
+      39.50   44.43                                                
+  6 Nykanen, Danielle         17 Beechview-MI              NT   x1:25.77  
+      38.14   47.63                                                
+ 
+Event 36  Boys 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kozara, Evan              17 Beechview-MI              NT    1:06.09    5  
+      30.87   35.22                                                
+  2 Veasey, LaVaughn          15 PR                   1:08.38    1:08.60    3  
+      31.07   37.53                                                
+  3 Ludden, Andrew            17 Beechview-MI              NT    1:08.76    2  
+      31.97   36.79                                                
+  4 Radomski, Alex            15 Beechview-MI              NT   x1:14.44  
+      33.14   41.30                                                
+  5 Czarnik, Colin            15 PR                   1:18.15    1:18.44    1  
+      36.57   41.87                                                
+  6 Needham, Bailey           15 PR                   1:28.87   x1:24.97  
+      41.19   43.78                                                
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cavicchioli, Amelia        8 PR                     30.63      31.25    5  
+  2 McNamara, Ella             8 PR                     33.25      33.60    3  
+  3 Knudson, Olivia            7 PR                        NT     x34.56  
+  4 Thompson-Lange, Sophie     8 Beechview-MI              NT      36.23    2  
+  5 Birmelin, Kinley           6 Beechview-MI              NT      36.63    1  
+  6 Zywicki, Natalia           8 PR                        NT     x39.63  
+ -- Janelle, Rowan             8 PR                        NT     X33.63  
+ -- Worcester, Charlotte       8 PR                        NT     X56.72  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Leonard, Harrison          7 PR                     49.07      40.88    5  
+  2 McEvoy, Zander             8 PR                     46.49      44.47    3  
+  3 Monteiro, Bowen            8 PR                     56.49     x54.19  
+ -- Koehler, Desmond           7 PR                   1:07.28     X39.18  
+ -- Bander, Ashton             7 PR                   1:16.53   X1:09.13  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hougard, Ayla             10 Beechview-MI              NT      37.09    5  
+  2 Bitoff, Maryn             10 PR                     39.60      39.38    3  
+  3 Foreman, Chantal          10 PR                     48.96      48.48    2  
+  4 Marchak, Sydney            9 PR                     49.86     x48.90  
+  5 Moulliet, Clara           10 Beechview-MI              NT      53.03    1  
+  6 Thompson-Lange, Maddie     9 Beechview-MI              NT   x1:00.80  
+ -- Roelofs, Kolbie           10 PR                     52.70     X48.40  
+ -- Erwin, Savanna            10 PR                     50.10     X50.25  
+ -- Pauls, Grace               9 PR                     56.09     X52.60  
+ -- Abrutyn, Hadley           10 PR                     55.56     X53.04  
+ -- Johnston, Layne           10 PR                     57.56     X53.58  
+ -- Jones, Rhea                9 PR                        NT     X57.15  
+ -- Wahl, Charlotte            9 PR                     58.32     X58.86  
+ -- Iverson, Abigail          10 PR                   1:01.89     X59.64  
+ -- McCaffrey, Riley          10 PR                     58.53   X1:02.39  
+ -- de Four, Maya              9 Beechview-MI              NT   X1:04.26  
+ -- Monteiro, Brynn            9 PR                   1:08.43   X1:09.77  
+ -- Anderson, Kaison           9 PR                   1:24.57   X1:12.53  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Axe, Anderson              9 Beechview-MI              NT      40.20    5  
+  2 Murray, Jack              10 PR                     42.16      40.89    3  
+  3 Lambert, Denny             9 PR                   1:00.07      48.80    2  
+  4 Custard, Jacob            10 Beechview-MI              NT      52.05    1  
+  5 Wardowski, Edgar          10 PR                     59.00   x1:00.65  
+ -- Ford, Christian           10 PR                   1:00.83     X55.92  
+ -- Plymale, George           10 PR                   1:00.29     X57.05  
+ -- Harris, Arthur             9 PR                        NT   X1:00.30  
+ -- Cooke, Theodore            9 PR                        NT   X1:00.35  
+ -- Murray, London            10 PR                   1:21.89   X1:09.42  
+ -- Buick, Max                10 PR                        NT   X1:50.82  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kraniak, Raquel           12 PR                     48.50      48.88    5  
+  2 Morais, Sonni             12 PR                     50.64      51.38    3  
+  3 Pinho, Grace              11 PR                     53.54     x52.61  
+ -- Forsyth, Natalie          12 PR                     54.28     X50.48  
+ -- Masters, Willow           12 PR                     54.47     X54.15  
+ -- Worcester, Zoey           11 PR                     56.66     X56.50  
+ -- Chapman, Ryan             12 PR                        NT   X1:06.67  
+ -- Nischan, Vega             11 PR                   1:11.34   X1:12.66  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Foreman, Nicholas         12 PR                     43.97      45.72    5  
+  2 Bray, Karl                11 PR                     50.04      53.43    3  
+  3 McCaffrey, Jaxon          12 PR                     56.69     x55.32  
+ -- McNamara, Miles           11 PR                   1:02.53   X1:02.06  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Burke, Miranda            14 Beechview-MI              NT      33.82    5  
+  2 Francis, Chloe            14 PR                     34.64      34.53    3  
+  3 Owens, Sophie             13 PR                     34.72      35.18    2  
+  4 Kaczmar, Lillian          13 Beechview-MI              NT      37.55    1  
+  5 Bock, Anneka              13 Beechview-MI              NT     x38.58  
+ -- Anzivino, Emma            14 Beechview-MI              NT     X32.93  
+ -- Wischman, Katherine       13 PR                     40.36     X37.73  
+ -- Grenier, Tanis            13 PR                     40.93     X40.57  
+ -- Morello, Lainey           14 PR                     38.57     X40.73  
+ -- Barnett, Jane             14 PR                     41.82     X40.74  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hess, Shane               13 Beechview-MI              NT      28.49    5  
+  2 Laidlaw, Connor           13 PR                     32.21      32.08    3  
+  3 Bowden, John              13 PR                     35.16      34.72    2  
+  4 Miller, Guy               13 PR                     37.23     x34.83  
+  5 Axe, Jeremiah             13 Beechview-MI              NT      37.33    1  
+ -- Harris, Oliver            13 PR                     45.33     X45.16  
+ -- London, Noah              14 PR                     46.26     X46.82  
+ 
+Event 45  Girls 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cross, Kayla              16 PR                     30.86      33.41    5  
+  2 Emmi, Mary                17 PR                     34.71      34.17    3  
+  3 Evers, Emily              15 Beechview-MI              NT      34.38    2  
+  4 Carter, Maddy             17 Beechview-MI              NT      35.86    1  
+  5 Graham, Erin              15 PR                     34.71     x36.20  
+  6 Chappell, Sarah           15 Beechview-MI              NT     x39.27  
+ -- Panis, Rozy               16 PR                     35.64     X35.52  
+ -- Needham, Jacey            17 PR                     37.44     X37.63  
+ 
+Event 46  Boys 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cook, John                16 PR                     28.48      28.52    5  
+  2 Solecki, Mason            16 PR                     29.78      29.06    3  
+  3 Ludden, Andrew            17 Beechview-MI              NT      29.83    2  
+  4 Strasberger, Tristan      18 Beechview-MI              NT      30.37    1  
+  5 Xu, Daniel                16 Beechview-MI              NT     x31.39  
+  6 Czarnik, Colin            15 PR                     33.36     x32.48  
+ -- Merten, Peter             15 PR                        NT     X36.33  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Pleasant Ridge  'A'                               2:35.45    2:38.72    8  
+     1) Scully, Sloan W10               2) Foreman, Nicholas M12          
+     3) Gallagher, Connor M8            4) Murray, Jack M10               
+       43.56    33.65    42.06    39.45                                    
+  2 Beechview Swim Club-MI  'A'                            NT    2:53.51    4  
+     1) Axe, Anderson M9                2) Salhaney, Dylan M11            
+     3) Cranson, Shaila W10             4) Hougard, Ayla W10              
+     1:28.63    50.71    34.31                                             
+  3 Beechview Swim Club-MI  'B'                            NT   x3:29.78  
+     1) Burke, Miranda W14              2) Birmelin, Kinley W6            
+     3) Seals, Ronin M10                4) Piggott, Jackson M9            
+       33.94  1:00.47  2:01.80                                             
+  4 Pleasant Ridge  'B'                               3:27.73   x3:35.89  
+     1) Roelofs, Kolbie W10             2) Wardowski, Edgar M10           
+     3) Pauls, Grace W9                 4) Buick, Scarlett W11            
+       49.73  2:07.85    38.71                                             
+  5 Beechview Swim Club-MI  'C'                            NT   x3:53.50  
+     1) Vassas, Ada W9                  2) Thompson-Lange, Maddie W9      
+     3) de Four, Maya W9                4) Custard, Jacob M10             
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Pleasant Ridge  'A'                               2:44.18    3:10.46    8  
+     1) Bitoff, Maryn W10               2) Francis, Samantha W10          
+     3) Rose, Ella W9                   4) Cavicchioli, Amelia W8         
+  2 Pleasant Ridge  'B'                               3:37.28   x3:43.29  
+     1) Howes, Lola W11                 2) Marchak, Sydney W9             
+     3) Foreman, Chantal W10            4) Erwin, Savanna W10             
+  3 Beechview Swim Club-MI  'A'                            NT    3:43.91    4  
+     1) Strickfaden, Amelie W11         2) Cranson, Sona W9               
+     3) Stricher, Grayson M10           4) Moulliet, Clara W10            
+ 
+Event 49  Girls 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Pleasant Ridge  'A'                               2:27.78    2:26.36    8  
+     1) Czarnik, Rebecca 12             2) Pund, Lucy 13                  
+     3) Scully, Bryce 13                4) Graham, Erin 15                
+  2 Beechview Swim Club-MI  'A'                            NT    2:28.74    4  
+     1) Jennings, Naima 14              2) Anzivino, Emma 14              
+     3) Mateyak, Rachael 13             4) Schwalm, Katy 11               
+  3 Pleasant Ridge  'B'                               2:44.17   x2:46.40  
+     1) Rose, Alyssa 13                 2) Collins, Kerrigan 14           
+     3) Purrier, Isidora 12             4) Owens, Sophie 13               
+  4 Pleasant Ridge  'C'                               3:00.41   x2:53.12  
+     1) Pinho, Faye 14                  2) Kraniak, Raquel 12             
+     3) Barnett, Sarah 12               4) Barnett, Jane 14               
+ 
+Event 50  Boys 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                            NT    2:29.12    8  
+     1) Axe, Jeremiah 13                2) Ludden, Daniel 13              
+     3) Hess, Shane 13                  4) Nykanen, Ben 13                
+       42.25    39.67    33.97    33.23                                    
+  2 Pleasant Ridge  'A'                                 32.25    2:38.36    4  
+     1) Miller, Guy 13                  2) Laidlaw, Connor 13             
+     3) Bray, Cosmo 13                  4) Curtin, Brady 14               
+       46.11    48.94    34.27    29.04                                    
+  3 Pleasant Ridge  'B'                               3:09.91   x3:15.17  
+     1) Plymale, Walter 12              2) Bray, Karl 11                  
+     3) Bowden, John 13                 4) Arnone, Dominik 12             
+       50.17    52.91    50.73    41.36                                    
+  4 Pleasant Ridge  'C'                                    NT   x3:24.21  
+     1) Tacke, Trent 11                 2) McCaffrey, Jaxon 12            
+     3) Merten, Peter 15                4) McNamara, Miles 11             
+     1:05.03    56.78    36.04    46.36                                    
+ 
+Event 51  Girls 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                            NT    2:03.54    8  
+     1) D'Errico, Ella 15               2) Borregard, Dayna 18            
+     3) Carter, Maddy 17                4) Evers, Emily 15                
+  2 Pleasant Ridge  'A'                               2:06.34    2:06.15    4  
+     1) Oster, Evie 15                  2) Scully, Brynne 15              
+     3) Maurice, Maya 15                4) Emmi, Mary 17                  
+  3 Beechview Swim Club-MI  'B'                            NT   x2:14.85  
+     1) Nykanen, Danielle 17            2) Schwalm, Lily 14               
+     3) Koon, Sophia 17                 4) Chappell, Sarah 15             
+  4 Pleasant Ridge  'B'                               2:16.49   x2:15.32  
+     1) Cross, Kayla 16                 2) Harris, Mia 15                 
+     3) Bader, Abby 15                  4) Francis, Chloe 14              
+  5 Pleasant Ridge  'C'                               2:35.42   x2:34.09  
+     1) Grenier, Tanis 13               2) Harris, Maya Lane 18           
+     3) King, Kelly 13                  4) Arnone, Samantha 16            
+ 
+Event 52  Boys 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                            NT    1:44.87    8  
+     1) Hinckley, Drew 18               2) Xu, Daniel 16                  
+     3) Radomski, Alex 15               4) Kozara, Evan 17                
+  2 Pleasant Ridge  'A'                               1:50.53    1:49.87    4  
+     1) Cook, John 16                   2) Veasey, LaVaughn 15            
+     3) Solecki, Mason 16               4) Czarnik, Colin 15              
+  3 Pleasant Ridge  'B'                               2:12.70   x2:10.13  
+     1) Pyykkonen, Kyle 16              2) Gibson, Aidan 16               
+     3) Needham, Bailey 15              4) Morais, Samuel 15              
+  4 Pleasant Ridge  'C'                                    NT   x2:38.83  
+     1) Hoey, Sean 12                   2) Harris, Oliver 13              
+     3) Wickerham, Nick 17              4) Merten, Jack 17                

@@ -1,0 +1,692 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Jehle, Emma               12 Heart                     NT      43.00  
+  2 Archer, Brynn             11 SURF-NL                44.61      45.53  
+  3 Bahorski, Isabelle        11 Heart                     NT      49.69  
+  4 Monroe, Madison           10 SURF-NL                   NT      54.46  
+ -- Cosnowski, Ariel          11 Heart                     NT     X56.87  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Moffitt, Kevin            11 Heart                     NT      40.15  
+  2 Reif, Bobby               12 Heart                     NT      42.15  
+  3 Zidar, Owen               11 SURF-NL                47.77      44.30  
+  4 Parsons, Payton           12 SURF-NL                   NT      52.11  
+  5 Vollmayer, Vincent        11 Heart                     NT     x52.86  
+  6 Palazzolo, Anthony        11 Heart                     NT     x57.10  
+  7 Doria, Anthony            12 SURF-NL              1:02.62   x1:02.34  
+ -- Slazinski, Nick           11 SURF-NL                   NT     X55.83  
+ -- Atto, Matthew             11 SURF-NL              1:07.26   X1:02.33  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Zanoli, Emmakate          13 SURF-NL              1:12.50    1:14.59  
+  2 Franklin, Ellie           13 SURF-NL              1:16.52    1:16.45  
+  3 Delaere, Megan            14 Heart                     NT    1:16.58  
+  4 Murphy, Mary              13 Heart                     NT    1:28.53  
+  5 McCardell, Lucy           13 Heart                     NT   x2:06.50  
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Szachta, Andrew           13 SURF-NL              1:07.62    1:06.65  
+  2 Vollmert, Max             14 SURF-NL              1:17.95    1:17.17  
+  3 Barrett, Ryan             14 Heart                     NT    1:23.77  
+  4 McCardell, Lucky          12 Heart                     NT    1:55.90  
+ -- Hosch, Lucas              12 Heart                     NT         DQ  
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Agius, Grace              15 Heart                     NT      39.16  
+  2 Smythe, Sophie            18 Heart                     NT      41.05  
+  3 Rinke, Catherine          18 Heart                     NT     x44.68  
+  4 Kruse, Veronica           16 SURF-NL                43.39      44.90  
+  5 Kalusniak, Sarah          15 SURF-NL                45.57      51.25  
+  6 Wilcox, Natalie           18 SURF-NL                   NT     x52.60  
+ -- Evans, Kendall            17 Heart                     NT     X39.00  
+ -- Rieger, Madison           16 Heart                     NT     X45.47  
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Lockwood, Scott           17 SURF-NL                35.80      36.42  
+  2 Nowakowski, Declan        16 SURF-NL                39.78      38.81  
+  3 Kruse, Aidan              17 SURF-NL                37.91     x39.13  
+  4 Forlines, Joe             17 Heart                     NT      39.43  
+  5 Edrisinha, Nahil          11 Heart                     NT      41.06  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Cooper, Loghan             8 SURF-NL                37.31      24.32  
+  2 Rapetti, Claudia           7 Heart                     NT      29.18  
+  3 Angle, Elyse               7 SURF-NL                31.73      29.66  
+  4 Wilcox, Megan              8 Heart                     NT      30.62  
+  5 Schepper, Paige            8 SURF-NL                31.76     x31.23  
+  6 Rank, Riley                8 Heart                     NT     x31.52  
+  7 Kontos, Eva                8 Heart                     NT     x34.02  
+  8 Freels, Claire             8 Heart                     NT     x37.38  
+ -- Murphy, Maeve              8 Heart                     NT     X27.14  
+ -- Marx, Val                  7 SURF-NL                33.61     X32.93  
+ -- Bluethmann, Annabelle      6 SURF-NL                37.55     X34.56  
+ -- Alstead, Mackenzie         7 Heart                     NT     X34.60  
+ -- Doshi, Sofia               6 SURF-NL                45.39     X36.66  
+ -- Beyer, Lulu                7 SURF-NL                47.41     X39.85  
+ -- Rieger, Olivia             7 Heart                     NT     X40.32  
+ -- Schaffner, Lilyana         6 Heart                     NT     X41.56  
+ -- Durren, Ava                6 SURF-NL                52.52     X43.38  
+ -- Clinton, Julianna          6 SURF-NL                53.21     X46.01  
+ -- Durren, Grace              6 SURF-NL              1:13.30     X48.86  
+ -- Alstead, Caroline          4 Heart                     NT     X57.24  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Bachmann, Gabriel          7 SURF-NL                23.62      22.89  
+  2 Skinner, William           8 SURF-NL                31.32      30.78  
+  3 Franklin, Joey             7 SURF-NL                33.39     x36.60  
+  4 McMurtrie, Liam            7 SURF-NL                   NT     x37.91  
+ -- Najarian, Luca             8 SURF-NL                33.81     X34.26  
+ -- Bluethmann, Brendan        8 SURF-NL                44.12     X38.50  
+ -- Spence, Tristan            6 SURF-NL                51.90     X41.18  
+ -- VanGemert, Dash            7 SURF-NL                37.97     X43.22  
+ -- Boudreau, Christian        7 SURF-NL                   NT     X43.57  
+ -- Reamer, Gabe               7 SURF-NL                41.15     X43.94  
+ -- Connolly, Cormac           8 SURF-NL                   NT     X55.38  
+ -- Young, Levi                6 SURF-NL              1:09.79     X59.29  
+ -- Rank, Finn                 6 Heart                     NT   X1:03.93  
+ -- Damico, Vincenzo           6 Heart                     NT   X1:06.50  
+ -- Kratz, Trent               8 Heart                     NT         DQ  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Hurnevich, Carissa        10 SURF-NL                46.20      43.16  
+  2 Hierlihy, Ava             10 SURF-NL                48.40      43.21  
+  3 Max, Emma                 10 Heart                     NT      43.34  
+  4 Tarraf, Mira               9 SURF-NL                44.63     x43.85  
+  5 Gittner, Morgan            9 Heart                     NT      53.97  
+  6 Murphy, MacKenna          10 Heart                     NT     x55.83  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Goodwin, Aidan            10 SURF-NL                41.16      43.74  
+  2 Conroy, Jack              10 SURF-NL                51.18      51.75  
+  3 Desai, Roshan              9 SURF-NL              1:03.86     x59.44  
+  4 Nagy, Luke                10 Heart                     NT    1:00.99  
+ -- Hosch, Connor             10 Heart                     NT         DQ  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 McCauslin, Riley          11 Heart                     NT      32.46  
+  2 VanHowe, Sydney           12 Heart                     NT      33.95  
+  3 Gardner, Paige            11 SURF-NL                36.12      36.51  
+  4 Archer, Brynn             11 SURF-NL                42.06      40.75  
+  5 Bahorski, Isabelle        11 Heart                     NT     x41.94  
+  6 Wilcox, Chelsea           11 SURF-NL                49.61     x48.99  
+ -- Max, Alice                11 Heart                     NT     X38.51  
+ -- Cosnowski, Ariel          11 Heart                     NT     X53.15  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Harris, Evan              11 SURF-NL                30.90      31.70  
+  2 Hosch, Lucas              12 Heart                     NT      33.51  
+  3 Rheault, Drew             11 Heart                     NT      34.75  
+  4 Moffitt, Kevin            11 Heart                     NT     x35.45  
+  5 Zidar, Owen               11 SURF-NL                43.50      41.05  
+ -- Guettler, Ben             11 SURF-NL                49.17     X47.53  
+ -- Slazinski, Nick           11 SURF-NL                   NT     X48.69  
+ -- DeWitt, Dillon            11 Heart                     NT     X53.56  
+ -- Atto, Matthew             11 SURF-NL                49.92     X55.20  
+ -- Doria, Anthony            12 SURF-NL              1:00.26     X59.07  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Fanning, Emily            14 SURF-NL                36.55      35.40  
+  2 Delaere, Megan            14 Heart                     NT      35.74  
+  3 Zidar, Anna               13 SURF-NL                40.51      40.60  
+  4 Rheault, Lauren           13 Heart                     NT      42.03  
+  5 Murphy, Margaret          14 Heart                     NT     x42.27  
+  6 James, Caoilainn          13 SURF-NL                44.89     x52.53  
+ -- Vollmert, Sydney          13 SURF-NL                47.19     X49.33  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Sweetwood, Ben            13 SURF-NL                34.13      33.15  
+  2 Barrett, Ryan             14 Heart                     NT      40.23  
+  3 Ballew, Xander            14 SURF-NL                43.85      41.77  
+  4 Nagy, Luke                10 Heart                     NT      57.14  
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Gordon, Paige             15 Heart                     NT      36.81  
+  2 Gielow, Shannon           17 Heart                     NT      39.14  
+  3 Harris, Ella              15 SURF-NL                   NT      41.05  
+  4 Gruden, Elizabeth         15 Heart                     NT     x42.03  
+  5 Kruse, Veronica           16 SURF-NL                42.57      44.06  
+ -- Hrynkiw, Julia            17 Heart                     NT     X41.29  
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 VanHowe, Jack             15 Heart                     NT      30.57  
+  2 Hoag, Joe                 15 SURF-NL                33.64      33.34  
+  3 Nagel, Michael            15 SURF-NL                46.73      37.61  
+  4 Reif, Wesley              15 Heart                     NT      37.91  
+  5 Agius, Michael            11 Heart                     NT     x50.51  
+  6 Derian, Van               15 SURF-NL                46.04     x51.84  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Phillips, Emma             8 Heart                     NT      20.49  
+  2 Wilcox, Megan              8 Heart                     NT      22.79  
+  3 MacNeill, Lochlyn          7 SURF-NL                   NT      22.89  
+  4 Rapetti, Claudia           7 Heart                     NT     x27.49  
+  5 Kruse, Kiersten            7 SURF-NL                30.13      29.93  
+  6 Angle, Elyse               7 SURF-NL                28.43     x30.00  
+  7 Kontos, Eva                8 Heart                     NT     x30.84  
+  8 Nagy, Amelia               8 Heart                     NT     x37.61  
+ -- Hurnevich, Alina           7 SURF-NL                31.40     X27.97  
+ -- Rank, Riley                8 Heart                     NT     X28.31  
+ -- Marx, Val                  7 SURF-NL                35.17     X29.78  
+ -- Alstead, Mackenzie         7 Heart                     NT     X31.02  
+ -- Beyer, Lulu                7 SURF-NL                34.55     X33.63  
+ -- Gillett, Giuliana          7 SURF-NL                42.56     X34.98  
+ -- Bluethmann, Annabelle      6 SURF-NL                35.39     X35.79  
+ -- Atrasz, Mira               7 SURF-NL                   NT     X36.40  
+ -- Durren, Ava                6 SURF-NL                49.36     X37.32  
+ -- Doshi, Sofia               6 SURF-NL                40.74     X38.08  
+ -- Clinton, Julianna          6 SURF-NL                45.21     X41.56  
+ -- Rieger, Olivia             7 Heart                     NT     X42.14  
+ -- Schaffner, Lilyana         6 Heart                     NT     X44.96  
+ -- Durren, Grace              6 SURF-NL                54.69     X51.52  
+ -- Alstead, Caroline          4 Heart                     NT     X56.66  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Max, Joey                  8 Heart                     NT      17.79  
+  2 Bachmann, Gabriel          7 SURF-NL                19.12      18.70  
+  3 Cooper, Trey               8 SURF-NL                23.51      20.67  
+  4 Brown, Emmett              8 Heart                     NT      21.35  
+  5 Dronzkowski, Steven        8 SURF-NL                30.36     x27.38  
+  6 McMurtrie, Liam            7 SURF-NL                   NT     x41.22  
+  7 Damico, Vincenzo           6 Heart                     NT     x52.30  
+ -- Skinner, William           8 SURF-NL                28.99     X27.75  
+ -- Hurnevich, Colin           7 SURF-NL                30.17     X30.48  
+ -- Kratz, Trent               8 Heart                     NT     X30.50  
+ -- Spence, Tristan            6 SURF-NL                   NT     X33.38  
+ -- VanGemert, Dash            7 SURF-NL                34.23     X33.38  
+ -- Franklin, Joey             7 SURF-NL                33.18     X34.00  
+ -- Boudreau, Christian        7 SURF-NL                   NT     X34.00  
+ -- Obrien, Brady              7 SURF-NL                   NT     X37.57  
+ -- Connolly, Cormac           8 SURF-NL                   NT     X39.14  
+ -- Reamer, Gabe               7 SURF-NL                40.63     X41.22  
+ -- Young, Levi                6 SURF-NL                49.93     X42.27  
+ -- Rank, Finn                 6 Heart                     NT     X45.62  
+ -- Wilcox, Lucas              7 Heart                     NT   X1:06.52  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Bluethmann, Meghan        10 SURF-NL                47.26      47.44  
+  2 Bachmann, Kailey          10 SURF-NL                48.06      50.12  
+  3 VanGemert, Vivienne       10 SURF-NL                56.63     x55.64  
+  4 Vollmayer, Ella            9 Heart                     NT    1:05.25  
+  5 Barrett, Lauren           10 Heart                     NT    1:05.71  
+  6 McMurtrie, Lola            9 SURF-NL                   NT   x1:09.15  
+ -- Monroe, Samantha          10 SURF-NL              1:00.59   X1:00.44  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Goodwin, Aidan            10 SURF-NL                44.33      47.26  
+  2 Phillips, Bryce           10 Heart                     NT    1:05.52  
+  3 Jehle, Chet               10 Heart                     NT    1:10.30  
+  4 Callahan, Reese            9 SURF-NL              1:07.34    1:10.52  
+  5 Desai, Roshan              9 SURF-NL              1:18.03   x1:11.27  
+  6 Chamberlin, Zachary        9 Heart                     NT   x1:11.95  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 VanHowe, Sydney           12 Heart                     NT    1:23.07  
+  2 Jehle, Emma               12 Heart                     NT    1:34.05  
+  3 Roumayah, Jenna           11 SURF-NL              1:41.95    1:35.50  
+  4 Kruse, Juliana            12 SURF-NL              1:44.15    1:42.52  
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Harris, Evan              11 SURF-NL              1:23.10    1:22.50  
+  2 Reif, Bobby               12 Heart                     NT    1:28.77  
+  3 Brown, Drew               11 Heart                     NT    1:45.64  
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Zanoli, Emmakate          13 SURF-NL                37.59      38.97  
+  2 Lockwood, Aiden           13 SURF-NL                39.97      41.85  
+  3 McCardell, Lucy           13 Heart                     NT      49.08  
+  4 Murphy, Mary              13 Heart                     NT      49.11  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Guettler, Nick            13 SURF-NL                38.95      41.54  
+  2 MacLean, Tim              14 Heart                     NT      58.91  
+  3 Hunt, Ben                 14 SURF-NL              1:00.99      59.15  
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Sweetwood, Claire         15 SURF-NL              1:06.89    1:04.62  
+  2 Agius, Mikayla            17 Heart                     NT    1:08.86  
+  3 Hrynkiw, Jessica          15 Heart                     NT    1:10.11  
+  4 Smythe, Sophie            18 Heart                     NT   x1:11.33  
+  5 Harris, Ella              15 SURF-NL              1:18.39    1:13.82  
+  6 Wilcox, Natalie           18 SURF-NL                   NT   x1:45.16  
+ -- Hrynkiw, Julia            17 Heart                     NT     X56.81  
+ -- Rheault, Ryann            15 Heart                     NT   X1:03.67  
+ -- Rinke, Catherine          18 Heart                     NT   X1:08.92  
+ -- Rieger, Madison           16 Heart                     NT   X1:11.72  
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Hoag, Joe                 15 SURF-NL              1:03.10    1:03.24  
+  2 Kruse, Aidan              17 SURF-NL              1:04.34    1:08.52  
+  3 Nagel, Jake               18 SURF-NL              1:03.78   x1:10.13  
+  4 Brown, Drew               11 Heart                     NT    1:27.22  
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Phillips, Emma             8 Heart                     NT      25.85  
+  2 Murphy, Maeve              8 Heart                     NT      29.46  
+  3 Hurnevich, Alina           7 SURF-NL                44.57      37.56  
+  4 Nagy, Amelia               8 Heart                     NT     x41.53  
+  5 Kruse, Kiersten            7 SURF-NL                40.60      44.22  
+ -- Farr, Juliet               7 Heart                     NT     X39.00  
+ -- MacNeill, Lochlyn          7 SURF-NL                   NT         DQ  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Max, Joey                  8 Heart                     NT      20.57  
+  2 Cooper, Trey               8 SURF-NL                32.33     J27.56  
+  3 Young, Ari                 8 SURF-NL                34.14     J27.00  
+  4 Brown, Emmett              8 Heart                     NT      28.95  
+  5 Dronzkowski, Steven        8 SURF-NL                36.95     x30.98  
+ -- Bluethmann, Brendan        8 SURF-NL                47.03     X37.65  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Bluethmann, Meghan        10 SURF-NL                41.83      41.72  
+  2 Tarraf, Mira               9 SURF-NL                47.54      48.81  
+  3 Conroy, Katie             10 SURF-NL                54.67    xJ59.29  
+  4 Swaffield, Lily           10 Heart                     NT     J53.20  
+  5 Vollmayer, Ella            9 Heart                     NT    1:01.50  
+ -- Aguilar, Violetta         10 SURF-NL                59.98     X54.69  
+ -- Roumayah, Julia            9 SURF-NL                   NT     X56.81  
+ -- Lanivich, Lilla            9 SURF-NL                   NT     X57.97  
+ -- Curcuru, Avery             9 SURF-NL                58.05     X59.94  
+ -- Spence, Anna               9 SURF-NL              1:20.72   X1:03.67  
+ -- Guettler, Tori             9 SURF-NL                   NT   X1:07.35  
+ -- Bewick, Raegan             9 SURF-NL              1:06.96   X1:08.92  
+ -- Beyer, Lydia               9 SURF-NL              1:13.03   X1:11.72  
+ -- Farr, Grace               10 Heart                     NT   X1:16.92  
+ -- Kruse, Michaela            9 SURF-NL              1:02.17   X2:45.75  
+ -- Damico, Basia             10 Heart                     NT   X3:04.15  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Marx, Miles               10 SURF-NL                   NT      43.66  
+  2 Antone, Will              10 SURF-NL                51.90      46.81  
+  3 Conroy, Jack              10 SURF-NL                50.02     x47.58  
+  4 Jehle, Chet               10 Heart                     NT      54.58  
+  5 Phillips, Bryce           10 Heart                     NT      59.02  
+  6 Parsons, Louis            10 SURF-NL                   NT   x1:07.50  
+ -- Dronzkowski, Joshua       10 SURF-NL              1:03.58   X1:02.48  
+ -- Boudreau, August          10 SURF-NL              1:08.34   X1:07.16  
+ -- Hunt, Josh                10 SURF-NL              1:45.86   X1:26.94  
+ -- Atto, Jonathan             9 SURF-NL              1:28.21   X1:28.40  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Gardner, Paige            11 SURF-NL                40.38      39.41  
+  2 Max, Alice                11 Heart                     NT      44.45  
+  3 Roumayah, Jenna           11 SURF-NL                43.97      47.49  
+  4 Gittner, Olivia           11 Heart                     NT    1:03.22  
+ -- Schultz, Vivian           11 Heart                     NT   X1:03.11  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 English, Ben              12 Heart                     NT      38.66  
+  2 Antone, Charlie           11 SURF-NL                39.06      39.48  
+  3 McCardell, Lucky          12 Heart                     NT      58.36  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Franklin, Ellie           13 SURF-NL                34.49      36.04  
+  2 Anger, Sofia              13 SURF-NL                38.91      39.43  
+  3 Zidar, Anna               13 SURF-NL                43.08     x42.16  
+  4 Rheault, Lauren           13 Heart                     NT      44.87  
+  5 Murphy, MacKenna          10 Heart                     NT      57.88  
+  6 Van Drie, MacKenzie        7 Heart                     NT   x1:18.85  
+ -- Kruse, Katie              14 SURF-NL                43.47     X46.12  
+ -- Derian, Lora              13 SURF-NL                46.08     X48.87  
+ -- Wilcox, Lily              14 SURF-NL                   NT     X52.15  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Szachta, Andrew           13 SURF-NL                30.57      30.97  
+  2 Vollmert, Max             14 SURF-NL                35.66      37.55  
+  3 Castro, Braylen           13 SURF-NL                38.12     x38.78  
+  4 Vollmayer, Vincent        11 Heart                     NT      58.41  
+  5 DeWitt, Dillon            11 Heart                     NT    1:18.48  
+  6 MacLean, Tim              14 Heart                     NT   x1:24.09  
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Sweetwood, Claire         15 SURF-NL              1:13.76    1:15.85  
+  2 Evans, Kendall            17 Heart                     NT    1:20.85  
+  3 Agius, Mikayla            17 Heart                     NT    1:20.91  
+  4 Gordon, Paige             15 Heart                     NT   x1:25.85  
+  5 Marshall, Erin            16 SURF-NL              1:23.22    1:28.01  
+ -- Agius, Grace              15 Heart                     NT   X1:32.77  
+ -- Bejin, Claire             15 Heart                     NT   X1:36.07  
+ -- Gielow, Shannon           17 Heart                     NT   X1:38.80  
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 VanHowe, Jack             15 Heart                     NT    1:11.05  
+  2 Reif, Wesley              15 Heart                     NT    1:17.75  
+  3 Nowakowski, Declan        16 SURF-NL              1:22.65    1:20.99  
+  4 Derian, Van               15 SURF-NL              1:41.41    1:39.75  
+ -- Nagel, Michael            15 SURF-NL              1:52.18         DQ  
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Cooper, Loghan             8 SURF-NL                36.79      29.99  
+  2 Schepper, Paige            8 SURF-NL                41.24      37.49  
+  3 Farr, Juliet               7 Heart                     NT      37.62  
+  4 Van Drie, MacKenzie        7 Heart                     NT      37.65  
+  5 Freels, Claire             8 Heart                     NT     x38.13  
+  6 Gillett, Giuliana          7 SURF-NL                40.38     x39.96  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Young, Ari                 8 SURF-NL                32.40      31.95  
+  2 Hurnevich, Colin           7 SURF-NL                41.09      38.88  
+ -- Najarian, Luca             8 SURF-NL                39.77         DQ  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Max, Emma                 10 Heart                     NT      37.21  
+  2 Hurnevich, Carissa        10 SURF-NL                39.37      38.41  
+  3 Bachmann, Kailey          10 SURF-NL                40.32      40.59  
+  4 Hierlihy, Ava             10 SURF-NL                42.17     x40.96  
+  5 Swaffield, Lily           10 Heart                     NT      43.48  
+  6 Gittner, Morgan            9 Heart                     NT     x45.78  
+  7 McMurtrie, Lola            9 SURF-NL                   NT     x54.66  
+ -- Monroe, Samantha          10 SURF-NL                45.48     X46.01  
+ -- Roumayah, Julia            9 SURF-NL                47.99     X46.66  
+ -- Monroe, Madison           10 SURF-NL                44.69     X46.77  
+ -- VanGemert, Vivienne       10 SURF-NL                49.04     X47.24  
+ -- Conroy, Katie             10 SURF-NL                48.90     X50.50  
+ -- McCauslin, Sidney          9 Heart                     NT     X50.79  
+ -- Curcuru, Avery             9 SURF-NL                49.45     X51.41  
+ -- Aguilar, Violetta         10 SURF-NL                51.33     X52.97  
+ -- Lanivich, Lilla            9 SURF-NL                   NT     X54.73  
+ -- Guettler, Tori             9 SURF-NL                   NT     X56.10  
+ -- Spence, Anna               9 SURF-NL              1:03.11     X58.57  
+ -- Copland, Mia              10 Heart                     NT     X59.89  
+ -- Bewick, Raegan             9 SURF-NL                56.89   X1:04.26  
+ -- Kruse, Michaela            9 SURF-NL              1:11.00   X1:05.95  
+ -- Damico, Basia             10 Heart                     NT   X1:08.76  
+ -- Barrett, Lauren           10 Heart                     NT   X1:11.00  
+ -- Beyer, Lydia               9 SURF-NL              1:12.84   X1:15.80  
+ -- Buckheim, Molly Anne       9 Heart                     NT   X1:21.37  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Marx, Miles               10 SURF-NL                   NT      38.64  
+  2 Antone, Will              10 SURF-NL                38.94      39.13  
+  3 Callahan, Reese            9 SURF-NL                48.99     x45.70  
+  4 Chamberlin, Zachary        9 Heart                     NT      49.37  
+  5 Hosch, Connor             10 Heart                     NT    1:03.54  
+  6 Parsons, Louis            10 SURF-NL                   NT   x1:11.24  
+ -- Dronzkowski, Joshua       10 SURF-NL                54.85     X52.27  
+ -- Atto, Jonathan             9 SURF-NL                59.15     X58.14  
+ -- Boudreau, August          10 SURF-NL              1:04.04   X1:03.50  
+ -- Hunt, Josh                10 SURF-NL              1:32.25   X1:12.67  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 McCauslin, Riley          11 Heart                     NT      42.84  
+  2 Kruse, Juliana            12 SURF-NL                52.25      52.12  
+  3 Gittner, Olivia           11 Heart                     NT    1:06.96  
+  4 Wilcox, Chelsea           11 SURF-NL              1:10.51    1:10.93  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Antone, Charlie           11 SURF-NL                47.79      47.99  
+  2 Rheault, Drew             11 Heart                     NT      50.77  
+  3 Kruse, Chris              11 SURF-NL                51.86      51.39  
+  4 English, Ben              12 Heart                     NT      56.20  
+  5 Edrisinha, Nahil          11 Heart                     NT   x1:07.44  
+  6 Parsons, Payton           12 SURF-NL                   NT   x1:19.72  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Fanning, Emily            14 SURF-NL                34.02      32.77  
+  2 Anger, Sofia              13 SURF-NL                32.58      34.47  
+  3 Murphy, Margaret          14 Heart                     NT      34.54  
+  4 Lockwood, Aiden           13 SURF-NL                32.00     x34.66  
+  5 McCauslin, Sidney          9 Heart                     NT      56.37  
+  6 Copland, Mia              10 Heart                     NT   x1:01.73  
+ -- Kruse, Katie              14 SURF-NL                36.59     X36.85  
+ -- Derian, Lora              13 SURF-NL                38.17     X38.88  
+ -- Vollmert, Sydney          13 SURF-NL                39.71     X40.04  
+ -- James, Caoilainn          13 SURF-NL                38.01     X40.92  
+ -- Wilcox, Lily              14 SURF-NL                   NT     X45.24  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Sweetwood, Ben            13 SURF-NL                30.87      31.15  
+  2 Guettler, Nick            13 SURF-NL                31.52      32.70  
+  3 Castro, Braylen           13 SURF-NL                33.63     x35.18  
+  4 Agius, Michael            11 Heart                     NT      39.42  
+  5 Palazzolo, Anthony        11 Heart                     NT      47.20  
+ -- Frost, Paul               14 SURF-NL                35.80     X35.22  
+ -- Ballew, Xander            14 SURF-NL                37.59     X35.54  
+ -- Hunt, Ben                 14 SURF-NL                41.11     X40.12  
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Marshall, Erin            16 SURF-NL                32.54      35.48  
+  2 Bejin, Claire             15 Heart                     NT      37.02  
+  3 Rheault, Ryann            15 Heart                     NT      38.16  
+  4 Hrynkiw, Jessica          15 Heart                     NT     x39.31  
+ -- Gruden, Elizabeth         15 Heart                     NT     X38.50  
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Nagel, Jake               18 SURF-NL                30.33      30.17  
+  2 Forlines, Joe             17 Heart                     NT      31.15  
+  3 Lockwood, Scott           17 SURF-NL                31.44      31.74  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Bloomfield Hills Swim and Tenn-NL  'A'            2:35.83    2:35.12  
+     1) Antone, Will M10                2) Hurnevich, Carissa W10         
+     3) Bachmann, Kailey W10            4) Marx, Miles M10                
+  2 Heart of  the Hills  'A'                               NT    2:47.43  
+     1) Max, Joey M8                    2) Brown, Emmett M8               
+     3) Murphy, Mary W13                4) Schultz, Evelyn W10            
+  3 Bloomfield Hills Swim and Tenn-NL  'B'            2:56.36   x2:54.03  
+     1) Roumayah, Jenna W11             2) Roumayah, Julia W9             
+     3) Desai, Roshan M9                4) Kruse, Chris M11               
+  4 Heart of  the Hills  'B'                               NT   x4:00.15  
+     1) Brown, Drew M11                 2) Nagy, Amelia W8                
+     3) Rank, Riley W8                  4) Rheault, Drew M11              
+ -- Heart of  the Hills  'D'                               NT   X4:22.74  
+     1) Barrett, Lauren W10             2) Edrisinha, Nahil M11           
+     3) Freels, Claire W8               4) Gittner, Olivia W11            
+ -- Bloomfield Hills Swim and Tenn-NL  'C'            3:01.57         DQ  
+     1) Vollmert, Sydney W13            2) Conroy, Katie W10              
+     3) Aguilar, Violetta W10           4) Bachmann, Gabriel M7           
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Bloomfield Hills Swim and Tenn-NL  'A'            2:46.68    2:46.02  
+     1) Bluethmann, Meghan W10          2) Goodwin, Aidan M10             
+     3) Harris, Evan M11                4) Tarraf, Mira W9                
+  2 Heart of  the Hills  'A'                               NT    3:00.42  
+     1) Reif, Bobby M12                 2) Nagy, Luke M10                 
+     3) Max, Emma W10                   4) Phillips, Emma W8              
+  3 Bloomfield Hills Swim and Tenn-NL  'B'            3:19.74   x3:17.29  
+     1) Conroy, Jack M10                2) VanGemert, Vivienne W10        
+     3) Hierlihy, Ava W10               4) Monroe, Madison W10            
+  4 Heart of  the Hills  'C'                               NT   x4:15.61  
+     1) Max, Alice W11                  2) Farr, Juliet W7                
+     3) Murphy, Maeve W8                4) Schultz, Vivian W11            
+  5 Heart of  the Hills  'B'                               NT   x5:31.03  
+     1) Copland, Mia W10                2) Damico, Basia W10              
+     3) Farr, Grace W10                 4) Vollmayer, Ella W9             
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Bloomfield Hills Swim and Tenn-NL  'A'            2:23.20    2:23.90  
+     1) Franklin, Ellie 13              2) Zanoli, Emmakate 13            
+     3) Sweetwood, Claire 15            4) Gardner, Paige 11              
+  2 Heart of  the Hills  'A'                               NT    2:41.89  
+     1) Schultz, Aurora 13              2) Delaere, Megan 14              
+     3) McCauslin, Riley 11             4) Murphy, Margaret 14            
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Bloomfield Hills Swim and Tenn-NL  'A'            2:17.28    2:17.86  
+     1) Szachta, Andrew 13              2) Guettler, Nick 13              
+     3) Sweetwood, Ben 13               4) Castro, Braylen 13             
+  2 Heart of  the Hills  'A'                               NT    2:32.59  
+     1) Moffitt, Kevin 11               2) Barrett, Ryan 14               
+     3) Hosch, Lucas 12                 4) English, Ben 12                
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Heart of  the Hills  'A'                               NT    2:06.71  
+     1) Hrynkiw, Jessica 15             2) Gruden, Elizabeth 15           
+     3) Agius, Mikayla 17               4) Smythe, Sophie 18              
+  2 Bloomfield Hills Swim and Tenn-NL  'A'            2:07.76    2:11.76  
+     1) Marshall, Erin 16               2) Fanning, Emily 14              
+     3) Lockwood, Aiden 13              4) Anger, Sofia 13                
+  3 Heart of  the Hills  'B'                               NT   x2:12.91  
+     1) Gordon, Paige 15                2) Bejin, Claire 15               
+     3) Hrynkiw, Julia 17               4) Rheault, Ryann 15              
+  4 Heart of  the Hills  'C'                               NT   x2:14.84  
+     1) Rheault, Lauren 13              2) Evans, Kendall 17              
+     3) Rinke, Catherine 18             4) Agius, Grace 15                
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Bloomfield Hills Swim and Tenn-NL  'A'            2:00.00    1:56.68  
+     1)                                 2) Kruse, Aidan 17                
+     3) Nowakowski, Declan 16           4) Hoag, Joe 15                   
+  2 Heart of  the Hills  'A'                               NT    2:21.33  
+     1) Reif, Wesley 15                 2) Forlines, Joe 17               
+     3) VanHowe, Jack 15                4) Steenson, Isaac 18             
+  3 Heart of  the Hills  'B'                               NT   x3:19.38  
+     1) MacLean, Tim 14                 2) Agius, Michael 11              
+     3) DeWitt, Dillon 11               4) Chamberlin, Zachary 9          
+  4 Heart of  the Hills  'C'                               NT   x3:28.20  
+     1) Vollmayer, Vincent 11           2) Phillips, Bryce 10             
+     3) Palazzolo, Anthony 11           4) Schultz, Cooper 8              

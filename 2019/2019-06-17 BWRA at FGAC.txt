@@ -1,0 +1,918 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Feenstra, Katrien         12 GLEN-ZZ                36.20      37.87  
+  2 Cho, Annika               11 GLEN-ZZ                37.33      38.03  
+  3 Wilder, Sarah             12 GLEN-ZZ                40.94     x38.76  
+  4 Saad, Maya                12 BWRA                   41.60      38.84  
+  5 Fleming, Ava              11 BWRA                   41.23      40.77  
+ -- Cline, Lily               12 GLEN-ZZ                46.20     X40.91  
+ -- Hodges, Lillian           12 GLEN-ZZ                43.22     X42.12  
+ -- Visser, Sydney            12 GLEN-ZZ                43.62     X43.58  
+ -- Weber, Sarah              12 GLEN-ZZ                46.44     X45.39  
+ -- Hoisington, Alison        12 GLEN-ZZ                53.40     X50.67  
+ -- Mott, Margo               11 GLEN-ZZ                54.25     X52.41  
+ -- Stanek, Katelyn           11 GLEN-ZZ                54.24     X52.46  
+ -- Palma, Isabella           11 GLEN-ZZ                56.01     X53.54  
+ -- Etue, Arielle             11 GLEN-ZZ                52.80     X55.24  
+ -- Kluczyk, Mary             12 BWRA                 1:02.97   X1:00.99  
+ -- Bosman, Anna              11 BWRA                      NT   X1:01.17  
+ -- Deisinger, Izzy           11 GLEN-ZZ              1:02.77   X1:01.71  
+ -- Cockroft, Sydney          12 BWRA                   58.57         DQ  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Knudsen, Emmett           11 BWRA                   37.56      35.50  
+  2 Szuba, Jack               12 GLEN-ZZ                37.91      38.06  
+  3 Morden, Luke              11 GLEN-ZZ                42.03      40.06  
+  4 Bastien, Colin            11 BWRA                   42.64      40.57  
+  5 Peura, Benjamin           12 GLEN-ZZ                51.65     x50.37  
+  6 Moore, Griffin            12 BWRA                 1:04.44   x1:02.20  
+ -- Mollo, Luca               12 BWRA                      NT     X47.62  
+ -- Morey, Tyler              11 BWRA                      NT   X1:14.15  
+ -- Weghorst, Logan           12 BWRA                      NT   X1:24.57  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Hornbacher, Ella          14 GLEN-ZZ              1:14.76    1:13.85  
+  2 Peura, Madelyn            14 GLEN-ZZ              1:17.74    1:19.02  
+  3 Crowe, Hailey             14 BWRA                 1:34.94    1:24.65  
+  4 Rondeau, Elaina           13 BWRA                 1:26.38    1:28.11  
+ -- Marinucci, Reagan         14 GLEN-ZZ              1:35.31         DQ  
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Gurgel, Ryan              14 GLEN-ZZ              1:06.61    1:06.34  
+  2 Golicz, Brendo            14 GLEN-ZZ              1:13.70    1:11.38  
+  3 Pietsch, Connor           14 BWRA                 1:23.93    1:17.96  
+  4 Brandenberg, Parker       13 BWRA                 1:27.54    1:19.69  
+  5 Grynaviski, Iggy          13 GLEN-ZZ              1:39.49   x1:33.91  
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Petrak, Julianna          17 GLEN-ZZ                33.82      35.62  
+  2 Dickhudt, Emma            16 BWRA                   36.45      36.72  
+  3 Fleming, Kristen          15 GLEN-ZZ                37.53      38.18  
+  4 Pierini, Kate             17 GLEN-ZZ                35.58     x38.64  
+  5 MacKillop, Shannon        16 BWRA                   38.60      39.21  
+  6 Whitman, Sarah            18 BWRA                      NT     x43.31  
+ -- Greaves, Mack             18 GLEN-ZZ                35.40     X39.86  
+ -- Inch, Gabby               17 GLEN-ZZ                42.29     X43.54  
+ -- Amicucci, Rachel          15 BWRA                   44.89     X45.20  
+ -- Harrison, Sarah           15 BWRA                   44.28     X45.37  
+ -- Kindseth, Ellie           16 GLEN-ZZ                42.77     X46.78  
+ -- Kozlowski, Rachel         15 BWRA                   46.17     X48.07  
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Venos, Jonah              18 BWRA                   30.24      31.50  
+  2 Venos, Elijah             16 BWRA                   32.80      31.67  
+  3 Pietsch, Tyler            17 BWRA                   33.23     x34.41  
+  4 Pennington, Ryan          18 GLEN-ZZ                38.61      38.63  
+  5 Howell, Griffin           18 GLEN-ZZ                39.42      38.92  
+  6 Brady, Quinn              15 GLEN-ZZ                41.08     x41.91  
+ -- Kozlowski, Luke           18 BWRA                   39.97     X40.01  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Horvath, Addison           8 BWRA                   28.10      25.03  
+  2 Quaderer, Ariana           8 BWRA                   30.06     J26.46  
+  3 Rusak, Tessa               8 GLEN-ZZ                27.09     J26.44  
+  4 Reihm, Grace               8 BWRA                   28.55     x28.22  
+  5 Mahjoory, Minah            8 GLEN-ZZ                33.32      30.32  
+  6 Petrucci, Sophia           8 GLEN-ZZ                30.94     x31.82  
+ -- Van Almen, Gillian         8 BWRA                      NT     X25.62  
+ -- Leon, Lola                 7 GLEN-ZZ                35.16     X27.92  
+ -- Ratliff, Nora              6 BWRA                      NT     X40.07  
+ -- Welday, Natalie            8 GLEN-ZZ                39.03     X41.05  
+ -- Rottet, Lili               7 GLEN-ZZ                36.57     X41.31  
+ -- Milton, Ashley             6 GLEN-ZZ                51.49     X41.53  
+ -- Clark, Maya                7 BWRA                      NT     X42.74  
+ -- Peura, Morgan              6 GLEN-ZZ                46.65     X43.93  
+ -- Mattei, Jordyn             7 BWRA                      NT     X44.75  
+ -- Ronmark, Liv               6 BWRA                      NT     X52.41  
+ -- Mahjoory, Maxine           5 GLEN-ZZ                   NT     X55.17  
+ -- McEvilly, Sloane           6 GLEN-ZZ              1:00.04   X1:02.15  
+ -- Perakis, Tina              5 BWRA                      NT   X1:19.06  
+ -- Skubic, Piper              4 GLEN-ZZ              1:28.81   X1:27.79  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Knudsen, Nolan             8 BWRA                   24.27      21.29  
+  2 Hammond, Kaiden            8 BWRA                   24.12      24.27  
+  3 Skubic, Keaton             8 GLEN-ZZ                26.67      26.08  
+  4 Echols, George             7 GLEN-ZZ                29.96     J28.13  
+  5 Isaksen, Gabriel           7 BWRA                   32.09    xJ27.73  
+  6 Golicz, Aidan              7 GLEN-ZZ                29.60     x28.59  
+ -- Ratliff, Collin            8 BWRA                      NT     X27.43  
+ -- Hertzler, Stewart          8 BWRA                      NT     X37.36  
+ -- Perakis, Nicholas          7 BWRA                      NT     X39.93  
+ -- Bluhm, Lucas               7 BWRA                      NT     X42.17  
+ -- Weghorst, Caden            8 BWRA                      NT     X47.60  
+ -- Moore, Cullen              6 BWRA                      NT     X51.55  
+ -- Smitka, Connor             7 BWRA                      NT   X1:26.45  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Dicks, Maddie             10 GLEN-ZZ                34.65      34.96  
+  2 Tack, Avery                9 BWRA                      NT      39.07  
+  3 Schneider, Noelle          9 BWRA                      NT      48.20  
+  4 Rocchini, Stella           9 BWRA                      NT     x48.40  
+  5 Hodges, Eleanor           10 GLEN-ZZ                50.12      51.81  
+  6 Kowalski, Claire           9 GLEN-ZZ                53.43     x53.71  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 O'Neill, Quinn            10 BWRA                   40.89      37.91  
+  2 Rehbine, Reagan            9 BWRA                      NT      44.03  
+  3 Gurgel, Kyle               9 GLEN-ZZ                47.71      44.62  
+ -- Peura, Brody               9 GLEN-ZZ                   NT         DQ  
+ -- Dicks, Mikey               9 GLEN-ZZ                   NT         DQ  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Wilder, Sarah             12 GLEN-ZZ                31.63      32.09  
+  2 Millar, Melanie           12 GLEN-ZZ                34.19      33.73  
+  3 Feenstra, Katrien         12 GLEN-ZZ                35.45     x33.83  
+  4 Saad, Maya                12 BWRA                   35.79      35.28  
+  5 Zablocki, Jessica         12 BWRA                   42.18      37.89  
+  6 Perakis, Justine          12 BWRA                   40.18     x39.03  
+ -- Hodges, Lillian           12 GLEN-ZZ                35.82     X35.41  
+ -- Weber, Sarah              12 GLEN-ZZ                 3.71     X35.54  
+ -- Cline, Lily               12 GLEN-ZZ                39.29     X35.92  
+ -- Fairman, Ella             11 BWRA                   40.19     X36.74  
+ -- Visser, Sydney            12 GLEN-ZZ                37.73     X36.94  
+ -- Mott, Margo               11 GLEN-ZZ                39.53     X38.85  
+ -- Gerzema, Nora             11 GLEN-ZZ                38.74     X39.96  
+ -- Sivier, Ellie             11 BWRA                   49.35     X40.20  
+ -- Senkin, Claire            12 BWRA                   46.83     X41.44  
+ -- Hoisington, Alison        12 GLEN-ZZ                41.10     X42.13  
+ -- Cockroft, Sydney          12 BWRA                   54.92     X44.82  
+ -- Stanek, Katelyn           11 GLEN-ZZ                46.86     X45.24  
+ -- Etue, Arielle             11 GLEN-ZZ                45.40     X45.62  
+ -- Pruden, Ava               11 BWRA                   50.19     X46.31  
+ -- Swaneck, Olive            12 BWRA                   47.06     X46.45  
+ -- Palma, Isabella           11 GLEN-ZZ                48.31     X46.65  
+ -- Mulcahy, Isela            11 BWRA                   56.72     X48.58  
+ -- Bosman, Anna              11 BWRA                      NT     X49.06  
+ -- Kluczyk, Mary             12 BWRA                   43.49     X49.78  
+ -- Deisinger, Izzy           11 GLEN-ZZ                53.51   X1:06.32  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Marinucci, Sam            12 GLEN-ZZ                31.75      30.20  
+  2 Tack, Evan                12 BWRA                   30.30      30.46  
+  3 Tomlinson, Jack           11 GLEN-ZZ                32.91      31.66  
+  4 Meyer, Mason              11 BWRA                   42.57      38.79  
+  5 Brady, Gavin              12 GLEN-ZZ                40.74     x41.20  
+  6 Kolarchick, John          11 BWRA                   44.36     x45.77  
+ -- Miller, William           12 GLEN-ZZ                41.63     X39.35  
+ -- Ezzeddine, Machine        12 GLEN-ZZ                28.48     X40.37  
+ -- Mollo, Luca               12 BWRA                      NT     X40.66  
+ -- Peura, Benjamin           12 GLEN-ZZ                40.83     X42.63  
+ -- McManus, Adam             11 BWRA                   48.62     X47.16  
+ -- Moore, Griffin            12 BWRA                   54.41     X51.02  
+ -- Morey, Tyler              11 BWRA                      NT     X52.94  
+ -- Pruden, Joseph            11 BWRA                 1:26.06   X1:05.92  
+ -- Weghorst, Logan           12 BWRA                      NT   X1:19.90  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Kindseth, Viv             14 GLEN-ZZ                31.54      32.78  
+  2 Rottermond, Alicia        13 GLEN-ZZ                33.43      35.81  
+  3 Rinker, Christine         14 GLEN-ZZ                36.38     x37.24  
+  4 Bastien, Emma             13 BWRA                   41.28      41.44  
+  5 Stinson, Katherine        13 BWRA                   41.12      42.89  
+ -- Rasico, Claire            14 GLEN-ZZ                37.39     X36.46  
+ -- Beals, Peyton             13 GLEN-ZZ                39.14     X37.59  
+ -- Millar, Mandy             14 GLEN-ZZ                42.06     X40.30  
+ -- Kowalski, Madelyn         13 GLEN-ZZ                48.84     X41.86  
+ -- Howell, Maddox            13 GLEN-ZZ                54.29     X44.13  
+ -- Martin, Ava               13 GLEN-ZZ                45.12     X44.35  
+ -- Hoisington, Natalie       14 GLEN-ZZ                47.03     X47.68  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Gurgel, Ryan              14 GLEN-ZZ                28.74      29.12  
+  2 Walters, Joshua           13 BWRA                   32.81      30.37  
+  3 Brandenberg, Parker       13 BWRA                   39.19      35.54  
+  4 Gerzema, Paddy            13 GLEN-ZZ                39.55      36.19  
+  5 Grynaviski, Iggy          13 GLEN-ZZ                41.22     x39.17  
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Feenstra, Bella           17 GLEN-ZZ                31.29      33.57  
+  2 Larick, Katie             16 GLEN-ZZ                33.39      35.17  
+  3 Pierini, Kate             17 GLEN-ZZ                34.90     x35.40  
+  4 Rondeau, Mikayla          16 BWRA                   35.73      36.43  
+  5 Blevins, Olivia           16 BWRA                   36.11      37.00  
+  6 Maher, Elizabeth          15 BWRA                   36.38     x37.27  
+ -- Meier, Paige              15 GLEN-ZZ                36.02     X36.39  
+ -- Inch, Gabby               17 GLEN-ZZ                37.23     X38.08  
+ -- Israel, Rose              17 BWRA                   39.08     X38.38  
+ -- Mourou, Natalie           15 BWRA                   38.49     X39.41  
+ -- Allen, Meghan             16 GLEN-ZZ                42.34     X41.46  
+ -- Cline, Charlotte          15 GLEN-ZZ                38.55     X41.85  
+ -- Palma, Sophia             15 GLEN-ZZ                   NT     X44.38  
+ -- Riley, Aidan              15 GLEN-ZZ                48.66     X46.68  
+ -- Kindseth, Ellie           16 GLEN-ZZ                54.39     X51.36  
+ -- Hughes, Mairin            15 BWRA                   59.44   X1:00.52  
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 McDonnell, Liam           18 BWRA                   28.17      28.39  
+  2 Jamieson, Brodeo          16 GLEN-ZZ                28.50      28.46  
+  3 Crowe, Jonathan           18 BWRA                   31.80     J32.55  
+  4 Udupi, Aayush             15 GLEN-ZZ                31.36     J32.21  
+  5 Morden, Lorn              15 GLEN-ZZ                40.86    xJ38.83  
+  6 Howell, Griffin           18 GLEN-ZZ                33.94    xJ35.23  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Stephens, Corinne          8 BWRA                   24.41      21.09  
+  2 Reihm, Grace               8 BWRA                   24.10      21.40  
+  3 Rusak, Tessa               8 GLEN-ZZ                30.46     J21.64  
+  4 Watters, Norah             8 GLEN-ZZ                23.50     J21.51  
+  5 Mahjoory, Minah            8 GLEN-ZZ                28.22     x24.98  
+  6 Quaderer, Ariana           8 BWRA                   25.72     x24.99  
+ -- Rocchini, Brenna           8 BWRA                   29.67     X24.89  
+ -- Van Almen, Gillian         8 BWRA                      NT     X25.09  
+ -- Downs, Allison             7 BWRA                   33.70     X29.54  
+ -- Domazet, Mia               7 BWRA                   37.64     X30.07  
+ -- Ratliff, Nora              6 BWRA                      NT     X34.56  
+ -- Ronmark, Liv               6 BWRA                      NT     X35.39  
+ -- Clark, Maya                7 BWRA                      NT     X37.94  
+ -- Mattei, Jordyn             7 BWRA                      NT     X39.31  
+ -- Perakis, Tina              5 BWRA                 1:03.31     X51.12  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Hammond, Kameron           8 BWRA                   21.21      18.68  
+  2 Hammond, Kaiden            8 BWRA                   19.05      18.73  
+  3 Golicz, Aidan              7 GLEN-ZZ                22.76      21.15  
+  4 Skubic, Keaton             8 GLEN-ZZ                23.19      21.18  
+  5 Echols, George             7 GLEN-ZZ                24.23     x21.74  
+  6 Ratliff, Collin            8 BWRA                      NT     x23.33  
+ -- Hertzler, Stewart          8 BWRA                   35.85     X28.68  
+ -- Perakis, Nicholas          7 BWRA                      NT     X30.17  
+ -- Stilwill, Christian        7 GLEN-ZZ                41.33     X34.19  
+ -- Bailey, Miles              8 GLEN-ZZ                30.10     X34.20  
+ -- Vendittelli, Charlie       6 GLEN-ZZ                46.00     X35.05  
+ -- Weghorst, Caden            8 BWRA                      NT     X35.26  
+ -- Bluhm, Lucas               7 BWRA                   38.66     X35.31  
+ -- Brady, Kellan              7 GLEN-ZZ                40.24     X35.48  
+ -- Schultz, Lucas             7 GLEN-ZZ                43.67     X39.46  
+ -- Gerzema, Jack              5 GLEN-ZZ                41.27     X40.23  
+ -- Moore, Cullen              6 BWRA                   46.12     X43.06  
+ -- Rusak, Blake               6 GLEN-ZZ              1:12.95     X44.32  
+ -- Lemieux, Gabriel           7 GLEN-ZZ                54.97     X46.15  
+ -- Beacome, Ben               5 GLEN-ZZ              1:02.33     X49.90  
+ -- Smitka, Connor             7 BWRA                   54.40     X50.29  
+ -- Watters, Henry             7 GLEN-ZZ              1:02.62     X58.11  
+ -- Bridges, Charlie           5 GLEN-ZZ                   NT   X1:26.49  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Greaves, Leah             10 GLEN-ZZ                46.80      47.80  
+  2 Rehbine, Peyton           10 BWRA                   49.48      48.17  
+  3 Dangermond, Ella           9 BWRA                      NT      50.08  
+  4 Isaksen, Leah              9 BWRA                   54.90     x50.85  
+  5 Kowalski, Claire           9 GLEN-ZZ                53.98      54.25  
+  6 Hodges, Eleanor           10 GLEN-ZZ                58.55   x1:01.69  
+ -- Swaneck, Samantha          9 BWRA                      NT   X1:09.88  
+ -- Downs, Samantha            9 BWRA                      NT   X1:11.09  
+ -- Swonder, Claire            9 BWRA                      NT   X1:24.40  
+ -- Kadro, Alana               9 BWRA                      NT   X1:49.72  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Rondeau, Alex             10 BWRA                   48.60      49.28  
+  2 Rehbine, Reagan            9 BWRA                   59.16      52.24  
+  3 Stilwill, Ryan            10 GLEN-ZZ                51.97      52.92  
+  4 Bricker, Ben              10 BWRA                   56.80     x53.64  
+  5 Kindseth, Levi             9 GLEN-ZZ              1:07.03    1:01.18  
+  6 Coscarelli, Sam           10 GLEN-ZZ              1:09.09   x1:18.55  
+ -- Crowe, Ben                 9 BWRA                      NT     X53.31  
+ -- Peura, Brody               9 GLEN-ZZ                   NT   X1:01.67  
+ -- Perakis, Errik            10 BWRA                 1:03.54   X1:03.18  
+ -- Poullelaouen, Flynn        9 GLEN-ZZ              1:10.27   X1:06.86  
+ -- Miller, BO                10 GLEN-ZZ              1:22.46   X1:10.37  
+ -- Hansen, Dane               9 GLEN-ZZ                   NT   X1:12.56  
+ -- Echols, Cody               9 GLEN-ZZ                   NT   X1:21.29  
+ -- Fleming, Marco             9 BWRA                      NT   X1:27.40  
+ -- Ronmark, Karl              9 BWRA                      NT   X1:38.78  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Gurgel, Hannah            11 GLEN-ZZ              1:17.89    1:14.98  
+  2 Larick, Meagan            12 GLEN-ZZ              1:31.08    1:25.64  
+  3 Kozlowski, Rebecca        12 BWRA                 1:36.71    1:32.00  
+  4 Meier, Kellan             12 GLEN-ZZ              1:30.51   x1:32.98  
+  5 Henderson, Emily          11 BWRA                      NT    1:33.07  
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Mackillop, Patrick        12 BWRA                 1:26.04    1:21.40  
+  2 DeMartini, Paul           11 GLEN-ZZ              1:40.36    1:23.05  
+  3 Morden, Luke              11 GLEN-ZZ                   NT    1:31.34  
+  4 Meyer, Mason              11 BWRA                      NT    1:39.23  
+  5 Miller, William           12 GLEN-ZZ              1:56.90   x1:53.09  
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 McEvilly, Mya             13 GLEN-ZZ                39.11      39.72  
+  2 Crowe, Hailey             14 BWRA                   42.75      39.90  
+  3 Rinker, Christine         14 GLEN-ZZ                39.95      41.71  
+  4 Rondeau, Elaina           13 BWRA                   43.47      44.80  
+  5 Marinucci, Reagan         14 GLEN-ZZ                45.74     x44.84  
+  6 Mowrey, Julia             13 BWRA                   49.90     x46.54  
+ -- Rasico, Claire            14 GLEN-ZZ                47.84     X45.57  
+ -- Martin, Ava               13 GLEN-ZZ                46.86     X46.63  
+ -- Beals, Peyton             13 GLEN-ZZ                48.23     X47.40  
+ -- Schneider, Allison        13 BWRA                   55.42     X48.21  
+ -- Millar, Mandy             14 GLEN-ZZ                48.67     X48.25  
+ -- Newman, Lexie             13 BWRA                   53.58     X49.38  
+ -- Kowalski, Madelyn         13 GLEN-ZZ                53.10     X49.74  
+ -- Clark, Lea                13 BWRA                      NT     X50.81  
+ -- Hoisington, Natalie       14 GLEN-ZZ                50.03     X52.06  
+ -- Howell, Maddox            13 GLEN-ZZ                57.75     X52.83  
+ -- Rottermond, Alicia        13 GLEN-ZZ                55.62     X54.48  
+ -- McManus, Anna             14 BWRA                      NT   X1:06.15  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Ezzeddine, Hassan         14 GLEN-ZZ                34.41      36.15  
+  2 Hahn, Bo                  14 GLEN-ZZ                39.49     J37.44  
+  3 Harrison, Josh            13 BWRA                   39.84     J37.39  
+  4 Bauman, Bryce             13 BWRA                   46.21      42.25  
+  5 Basile, Alex              13 BWRA                   45.06     x44.13  
+  6 Harvill, Aidan            14 GLEN-ZZ                51.99     x49.75  
+ -- Perakis, George           14 BWRA                   49.10     X46.14  
+ -- Cremers, Truman           13 BWRA                   48.80     X47.01  
+ -- Esser, Dylan              13 BWRA                   58.77     X52.12  
+ -- Noonan, Emmett            14 GLEN-ZZ              1:00.38     X55.39  
+ -- Esser, Jacob              13 BWRA                 1:03.30     X57.72  
+ -- Brady, Noah               13 GLEN-ZZ              1:04.76     X58.13  
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Inch, Emma                17 GLEN-ZZ                58.16    1:01.16  
+  2 Munson, Lia               17 GLEN-ZZ                58.89    1:02.30  
+  3 Petrak, Julianna          17 GLEN-ZZ              1:01.57   x1:04.36  
+  4 Blevins, Olivia           16 BWRA                 1:05.43    1:06.38  
+  5 Harrison, Sarah           15 BWRA                      NT    1:08.48  
+  6 Amicucci, Rachel          15 BWRA                      NT   x1:10.55  
+  7 Basile, Abbey             15 BWRA                      NT   x1:12.36  
+ -- Larick, Katie             16 GLEN-ZZ              1:06.65   X1:07.81  
+ -- Greaves, Mack             18 GLEN-ZZ              1:04.18   X1:09.57  
+ -- Dunn, Maya                16 BWRA                 1:13.91   X1:14.42  
+ -- Mourou, Natalie           15 BWRA                      NT   X1:15.38  
+ -- Palma, Sophia             15 GLEN-ZZ                   NT   X1:17.22  
+ -- Cline, Charlotte          15 GLEN-ZZ                   NT   X1:17.38  
+ -- Allen, Meghan             16 GLEN-ZZ              1:18.13   X1:18.07  
+ -- Keating, Faith            17 BWRA                 1:13.31   X1:18.20  
+ -- Kozlowski, Rachel         15 BWRA                      NT   X1:19.56  
+ -- Meyer, Sydney             17 BWRA                 1:15.86   X1:21.66  
+ -- Riley, Aidan              15 GLEN-ZZ                   NT   X1:23.75  
+ -- Hughes, Mairin            15 BWRA                      NT   X1:39.66  
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Venos, Jonah              18 BWRA                   55.39      58.48  
+  2 O'Neill, Owen             15 BWRA                      NT      59.84  
+  3 Crowe, Jonathan           18 BWRA                   58.70   x1:00.46  
+  4 Bartman, Owen             16 GLEN-ZZ              1:03.06    1:00.93  
+  5 Szuba, Scooby             15 GLEN-ZZ              1:05.05    1:04.62  
+  6 Morden, Lorn              15 GLEN-ZZ                   NT   x1:09.50  
+ -- Kozlowski, Luke           18 BWRA                 1:08.34   X1:11.13  
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Horvath, Addison           8 BWRA                      NT      24.00  
+  2 Watters, Norah             8 GLEN-ZZ                29.24      27.01  
+  3 Rocchini, Brenna           8 BWRA                   39.14      33.49  
+  4 Petrucci, Sophia           8 GLEN-ZZ                34.72      33.80  
+ -- Harvill, Rian              8 GLEN-ZZ                36.97     X31.68  
+ -- Welday, Natalie            8 GLEN-ZZ                35.97     X37.32  
+ -- Peura, Morgan              6 GLEN-ZZ                59.77     X52.29  
+ -- Neal, Ellie                7 GLEN-ZZ                46.09     X52.66  
+ -- Milton, Ashley             6 GLEN-ZZ                   NT     X55.01  
+ -- McEvilly, Sloane           6 GLEN-ZZ                59.84   X1:06.29  
+ -- Mahjoory, Maxine           5 GLEN-ZZ                   NT   X1:38.58  
+ -- Rottet, Lili               7 GLEN-ZZ                34.64         DQ  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Knudsen, Nolan             8 BWRA                   22.47      19.13  
+  2 Cho, Markus                8 GLEN-ZZ                20.05      19.62  
+  3 Worth, Brolin              8 BWRA                   29.91      23.03  
+  4 Vendittelli, Henry         8 GLEN-ZZ                29.08      28.28  
+ -- Roberts, Weston            7 GLEN-ZZ                41.05         DQ  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Dicks, Maddie             10 GLEN-ZZ                39.96      41.42  
+  2 Tomlinson, Claire         10 GLEN-ZZ                48.64      45.08  
+  3 Schneider, Noelle          9 BWRA                   55.20      48.21  
+  4 Rehbine, Peyton           10 BWRA                   47.37      48.65  
+  5 Stephens, Layla           10 BWRA                   57.02     x52.18  
+  6 Harvill, Cailin           10 GLEN-ZZ                56.40     x55.59  
+ -- Bastien, Lily              9 BWRA                      NT     X49.13  
+ -- Duggan, Kelly              9 GLEN-ZZ              1:03.04     X51.13  
+ -- Swonder, Kathryn          10 BWRA                   59.95     X54.41  
+ -- Mollo, Samantha           10 BWRA                      NT     X54.93  
+ -- Rusak, Allie              10 GLEN-ZZ              1:01.65     X55.11  
+ -- Moore, Emerson            10 BWRA                 1:02.33     X55.74  
+ -- Shelly, Brooke             9 GLEN-ZZ                   NT     X56.05  
+ -- Domazet, Una              10 BWRA                   56.61     X56.71  
+ -- McEvilly, Ryann            9 GLEN-ZZ              1:02.52     X59.59  
+ -- Roberts, Viviana          10 GLEN-ZZ                58.96     X59.74  
+ -- Zdyrski, Logan            10 GLEN-ZZ              1:01.51   X1:00.24  
+ -- Yost, Alyssa              10 GLEN-ZZ              1:01.84   X1:00.27  
+ -- Kolarchick, Kimberly       9 BWRA                      NT   X1:01.70  
+ -- Sturgis, Liliana          10 GLEN-ZZ              1:09.88   X1:02.11  
+ -- Skubic, Tatum             10 GLEN-ZZ              1:08.33   X1:02.48  
+ -- Varghese, Ava              9 BWRA                      NT   X1:03.81  
+ -- Millar, Megan             10 GLEN-ZZ              1:06.77   X1:05.18  
+ -- Bosman, Leah               9 BWRA                      NT   X1:05.92  
+ -- Graca, Kendra              9 GLEN-ZZ              1:08.28   X1:06.65  
+ -- Neal, Iris                 9 GLEN-ZZ                   NT   X1:07.06  
+ -- Puhl, Charlie              9 GLEN-ZZ              1:16.64   X1:12.18  
+ -- Gilliam, Maya              9 GLEN-ZZ              1:24.93   X1:12.21  
+ -- Rottet, Ceci               9 GLEN-ZZ                   NT   X1:14.68  
+ -- Schultz, Shannon           9 GLEN-ZZ              1:38.00   X1:28.55  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Worth, Turner             10 BWRA                   42.76      43.01  
+  2 Bricker, Ben              10 BWRA                   47.89      48.48  
+  3 Hornbacher, Max           10 GLEN-ZZ                59.58      57.85  
+  4 Stilwill, Ryan            10 GLEN-ZZ                57.71    1:00.45  
+  5 Wind, Ryan                10 BWRA                 1:02.88   x1:02.88  
+  6 Miller, BO                10 GLEN-ZZ              1:09.70   x1:08.98  
+ -- Putans, Nicholas          10 BWRA                 1:10.11     X53.46  
+ -- Zablocki, Nathan           9 BWRA                      NT   X1:03.10  
+ -- Gould, Blake               9 BWRA                      NT   X1:03.60  
+ -- O'Donnell, Michael         9 BWRA                      NT   X1:05.71  
+ -- Hudson, Zachary           10 BWRA                      NT   X1:06.80  
+ -- Immekus, Evan             10 BWRA                      NT   X1:07.83  
+ -- Poullelaouen, Flynn        9 GLEN-ZZ              1:19.57   X1:08.08  
+ -- Van Raemdonck, Nicholas    9 BWRA                      NT   X1:08.97  
+ -- Van Almen, Henry          10 BWRA                      NT   X1:11.28  
+ -- Kindseth, Levi             9 GLEN-ZZ              1:10.78   X1:11.88  
+ -- Coscarelli, Sam           10 GLEN-ZZ              1:16.67   X1:15.69  
+ -- Smitka, Colin              9 BWRA                      NT   X1:17.32  
+ -- Hansen, Dane               9 GLEN-ZZ                   NT   X1:19.37  
+ -- Echols, Cody               9 GLEN-ZZ                   NT   X1:20.40  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Gurgel, Hannah            11 GLEN-ZZ                32.97      33.19  
+  2 Millar, Melanie           12 GLEN-ZZ                34.31      36.94  
+  3 Larick, Meagan            12 GLEN-ZZ                39.58     x40.69  
+  4 Fleming, Ava              11 BWRA                   43.56      41.30  
+  5 O'Donnell, Krysta         11 BWRA                   52.87      51.77  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Knudsen, Emmett           11 BWRA                   38.98      34.45  
+  2 DeMartini, Paul           11 GLEN-ZZ                34.94      34.86  
+  3 Bastien, Colin            11 BWRA                   43.77      37.72  
+  4 Szuba, Jack               12 GLEN-ZZ                38.90      38.73  
+  5 Brady, Gavin              12 GLEN-ZZ                54.72     x57.38  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Hornbacher, Ella          14 GLEN-ZZ                34.46      34.48  
+  2 McEvilly, Mya             13 GLEN-ZZ                35.48      37.07  
+  3 Saad, Julia               13 BWRA                   39.32      37.92  
+  4 Kindseth, Annie           13 GLEN-ZZ                40.99     x41.11  
+  5 Stinson, Katherine        13 BWRA                   45.12      47.12  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Golicz, Brendo            14 GLEN-ZZ                32.02      32.42  
+  2 Pietsch, Connor           14 BWRA                   40.08      38.70  
+  3 Bauman, Bryce             13 BWRA                   41.09      40.66  
+  4 Curanovic, Lelandia       13 GLEN-ZZ                45.63      44.31  
+  5 Ragan, Steven             13 BWRA                   54.10     x47.25  
+ -- Morey, Trevor             14 BWRA                      NT     X45.08  
+ -- Hudson, Alex              14 BWRA                      NT     X45.88  
+ -- Morden, Zach              14 GLEN-ZZ                45.24         DQ  
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Greaves, Madeline         15 GLEN-ZZ              1:04.68    1:07.87  
+  2 Inch, Emma                17 GLEN-ZZ              1:05.91    1:10.43  
+  3 Dickhudt, Emma            16 BWRA                 1:12.14    1:12.62  
+  4 Feenstra, Bella           17 GLEN-ZZ              1:08.46   x1:16.72  
+  5 MacKillop, Shannon        16 BWRA                 1:19.36    1:19.24  
+  6 Cremers, Abigail          15 BWRA                 1:19.42   x1:19.43  
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Venos, Elijah             16 BWRA                 1:05.84    1:03.59  
+  2 Pietsch, Tyler            17 BWRA                 1:10.55    1:09.50  
+  3 Reckker, Nate             17 BWRA                      NT   x1:10.22  
+  4 Udupi, Aayush             15 GLEN-ZZ              1:08.28    1:10.36  
+  5 Szuba, Scooby             15 GLEN-ZZ              1:21.26    1:17.32  
+  6 Pennington, Ryan          18 GLEN-ZZ                   NT   x1:22.75  
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Stephens, Corinne          8 BWRA                   29.37      28.28  
+  2 Downs, Allison             7 BWRA                   44.75     J34.19  
+  3 Harvill, Rian              8 GLEN-ZZ                37.48     J33.44  
+  4 Neal, Ellie                7 GLEN-ZZ                40.62      38.92  
+  5 Domazet, Mia               7 BWRA                   51.35     x43.76  
+ -- Leon, Lola                 7 GLEN-ZZ                36.97         DQ  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Cho, Markus                8 GLEN-ZZ                23.16      23.33  
+  2 Hammond, Kameron           8 BWRA                   31.11      26.62  
+  3 Worth, Brolin              8 BWRA                   29.13      28.63  
+  4 Isaksen, Gabriel           7 BWRA                   34.83     x31.60  
+  5 Vendittelli, Henry         8 GLEN-ZZ                37.82      39.31  
+ -- Stilwill, Christian        7 GLEN-ZZ                45.80     X41.27  
+ -- Brady, Kellan              7 GLEN-ZZ                51.83     X41.60  
+ -- Vendittelli, Charlie       6 GLEN-ZZ                47.56     X42.23  
+ -- Bailey, Miles              8 GLEN-ZZ                49.09     X46.93  
+ -- Schultz, Lucas             7 GLEN-ZZ                51.73     X47.09  
+ -- Gerzema, Jack              5 GLEN-ZZ                   NT     X48.02  
+ -- Lemieux, Gabriel           7 GLEN-ZZ              1:03.58     X58.97  
+ -- Rusak, Blake               6 GLEN-ZZ              1:21.04   X1:02.52  
+ -- Watters, Henry             7 GLEN-ZZ              1:13.94   X1:07.93  
+ -- Beacome, Ben               5 GLEN-ZZ              1:17.58   X1:08.05  
+ -- Bridges, Charlie           5 GLEN-ZZ                   NT   X1:10.74  
+ -- Roberts, Weston            7 GLEN-ZZ                39.12         DQ  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Tack, Avery                9 BWRA                   38.79      33.68  
+  2 Greaves, Leah             10 GLEN-ZZ                34.13      34.50  
+  3 Tomlinson, Claire         10 GLEN-ZZ                38.70      37.36  
+  4 Rocchini, Stella           9 BWRA                   43.86      39.95  
+  5 Stephens, Layla           10 BWRA                   45.89     x42.66  
+  6 Roberts, Viviana          10 GLEN-ZZ                47.20     x48.64  
+ -- Isaksen, Leah              9 BWRA                      NT     X42.65  
+ -- Bastien, Lily              9 BWRA                      NT     X43.68  
+ -- Dangermond, Ella           9 BWRA                   49.31     X44.41  
+ -- Duggan, Kelly              9 GLEN-ZZ                52.27     X45.90  
+ -- Domazet, Una              10 BWRA                   46.84     X47.11  
+ -- Shelly, Brooke             9 GLEN-ZZ                   NT     X47.50  
+ -- Mollo, Samantha           10 BWRA                      NT     X47.56  
+ -- Kolarchick, Kimberly       9 BWRA                      NT     X48.31  
+ -- Moore, Emerson            10 BWRA                   55.45     X48.44  
+ -- Swonder, Kathryn          10 BWRA                 1:00.07     X48.48  
+ -- Rusak, Allie              10 GLEN-ZZ                51.26     X48.77  
+ -- Yost, Alyssa              10 GLEN-ZZ                50.11     X49.21  
+ -- McEvilly, Ryann            9 GLEN-ZZ              1:00.54     X49.95  
+ -- Millar, Megan             10 GLEN-ZZ                49.58     X51.38  
+ -- Harvill, Cailin           10 GLEN-ZZ                50.10     X51.48  
+ -- Zdyrski, Logan            10 GLEN-ZZ                51.61     X52.47  
+ -- Downs, Samantha            9 BWRA                      NT     X53.99  
+ -- Skubic, Tatum             10 GLEN-ZZ              1:01.44     X54.07  
+ -- Sturgis, Liliana          10 GLEN-ZZ              1:05.38     X54.19  
+ -- Graca, Kendra              9 GLEN-ZZ              1:02.36     X54.58  
+ -- Varghese, Ava              9 BWRA                      NT     X55.41  
+ -- Puhl, Charlie              9 GLEN-ZZ              1:10.94   X1:00.51  
+ -- Neal, Iris                 9 GLEN-ZZ                   NT   X1:01.26  
+ -- Gilliam, Maya              9 GLEN-ZZ              1:19.81   X1:03.38  
+ -- Bosman, Leah               9 BWRA                      NT   X1:04.50  
+ -- Swaneck, Samantha          9 BWRA                      NT   X1:04.57  
+ -- Swonder, Claire            9 BWRA                      NT   X1:08.18  
+ -- Rottet, Ceci               9 GLEN-ZZ                   NT   X1:08.32  
+ -- Schultz, Shannon           9 GLEN-ZZ              1:34.69   X1:19.07  
+ -- Kadro, Alana               9 BWRA                      NT   X1:47.97  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Worth, Turner             10 BWRA                   34.52      34.02  
+  2 O'Neill, Quinn            10 BWRA                   37.92      34.60  
+  3 Gurgel, Kyle               9 GLEN-ZZ                37.87      37.25  
+  4 Rondeau, Alex             10 BWRA                   37.62     x38.27  
+  5 Hornbacher, Max           10 GLEN-ZZ                50.43      49.83  
+  6 Dicks, Mikey               9 GLEN-ZZ                   NT     x58.78  
+ -- Crowe, Ben                 9 BWRA                   47.91     X42.14  
+ -- Fleming, Marco             9 BWRA                      NT     X48.26  
+ -- Perakis, Errik            10 BWRA                   49.50     X49.86  
+ -- Wind, Ryan                10 BWRA                   54.15     X51.84  
+ -- Putans, Nicholas          10 BWRA                   53.65     X52.77  
+ -- Gould, Blake               9 BWRA                      NT     X53.77  
+ -- Van Almen, Henry          10 BWRA                      NT     X55.55  
+ -- Kadro, Omar                9 BWRA                      NT     X55.73  
+ -- Hudson, Zachary           10 BWRA                      NT     X58.71  
+ -- Zablocki, Nathan           9 BWRA                      NT   X1:00.28  
+ -- Van Raemdonck, Nicholas    9 BWRA                      NT   X1:00.64  
+ -- O'Donnell, Michael         9 BWRA                      NT   X1:00.67  
+ -- Ronmark, Karl              9 BWRA                      NT   X1:08.89  
+ -- Smitka, Colin              9 BWRA                      NT   X1:08.92  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Cho, Annika               11 GLEN-ZZ                39.86      40.98  
+  2 Kozlowski, Rebecca        12 BWRA                   44.83      44.13  
+  3 Henderson, Emily          11 BWRA                   46.54      44.40  
+  4 Perakis, Justine          12 BWRA                   46.13     x47.07  
+  5 Meier, Kellan             12 GLEN-ZZ                48.30      47.80  
+  6 Gerzema, Nora             11 GLEN-ZZ                46.74     x48.39  
+ -- Fairman, Ella             11 BWRA                   53.31     X47.91  
+ -- Senkin, Claire            12 BWRA                 1:07.37     X56.76  
+ -- Zablocki, Jessica         12 BWRA                   59.75     X57.31  
+ -- Pruden, Ava               11 BWRA                 1:02.59     X57.75  
+ -- O'Donnell, Krysta         11 BWRA                      NT   X1:01.60  
+ -- Mulcahy, Isela            11 BWRA                 1:08.39   X1:05.96  
+ -- Sivier, Ellie             11 BWRA                 1:10.42   X1:08.24  
+ -- Swaneck, Olive            12 BWRA                 1:08.34   X1:11.99  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Tack, Evan                12 BWRA                   40.95      40.55  
+  2 Mackillop, Patrick        12 BWRA                   44.04      42.27  
+  3 Tomlinson, Jack           11 GLEN-ZZ                45.41      43.96  
+  4 Marinucci, Sam            12 GLEN-ZZ                47.08      46.09  
+  5 Ezzeddine, Machine        12 GLEN-ZZ                51.70     x57.65  
+ -- McManus, Adam             11 BWRA                 1:16.98   X1:15.02  
+ -- Pruden, Joseph            11 BWRA                 1:26.18   X1:17.72  
+ -- Kolarchick, John          11 BWRA                   54.31         DQ  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Kindseth, Viv             14 GLEN-ZZ                28.78      29.89  
+  2 Saad, Julia               13 BWRA                   32.49      32.27  
+  3 Peura, Madelyn            14 GLEN-ZZ                32.43      32.65  
+  4 Kindseth, Annie           13 GLEN-ZZ                31.62     x33.35  
+  5 Mowrey, Julia             13 BWRA                   35.31      34.09  
+  6 Bastien, Emma             13 BWRA                   38.72     x40.70  
+ -- Schneider, Allison        13 BWRA                   38.87     X35.62  
+ -- Clark, Lea                13 BWRA                   38.73     X38.09  
+ -- Newman, Lexie             13 BWRA                   41.03     X41.74  
+ -- McManus, Anna             14 BWRA                      NT     X47.67  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Ezzeddine, Hassan         14 GLEN-ZZ                26.66      27.62  
+  2 Walters, Joshua           13 BWRA                   30.22      28.19  
+  3 Gerzema, Paddy            13 GLEN-ZZ                29.73      30.39  
+  4 Hahn, Bo                  14 GLEN-ZZ                31.34     x30.80  
+  5 Harrison, Josh            13 BWRA                   32.68      31.75  
+  6 Morey, Trevor             14 BWRA                      NT     x32.32  
+ -- Morden, Zach              14 GLEN-ZZ                34.99     X31.64  
+ -- Hudson, Alex              14 BWRA                      NT     X32.54  
+ -- Basile, Alex              13 BWRA                   33.43     X32.66  
+ -- Curanovic, Lelandia       13 GLEN-ZZ                35.93     X36.13  
+ -- Cremers, Truman           13 BWRA                   39.61     X36.46  
+ -- Perakis, George           14 BWRA                   41.59     X38.09  
+ -- Fris, Drew                13 BWRA                   43.18     X38.25  
+ -- Harvill, Aidan            14 GLEN-ZZ                40.08     X38.74  
+ -- Ragan, Steven             13 BWRA                   47.12     X40.13  
+ -- Noonan, Emmett            14 GLEN-ZZ                42.32     X41.05  
+ -- Brady, Noah               13 GLEN-ZZ                44.06     X41.49  
+ -- Esser, Dylan              13 BWRA                 1:02.26     X51.71  
+ -- Esser, Jacob              13 BWRA                   59.65     X52.25  
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 Greaves, Madeline         15 GLEN-ZZ                28.60      30.42  
+  2 Munson, Lia               17 GLEN-ZZ                28.47      30.75  
+  3 Cremers, Abigail          15 BWRA                   34.01      33.02  
+  4 Meier, Paige              15 GLEN-ZZ                32.93     x33.45  
+  5 Basile, Abbey             15 BWRA                   32.46      34.01  
+  6 Rondeau, Mikayla          16 BWRA                   34.89     x37.24  
+ -- Fleming, Kristen          15 GLEN-ZZ                33.67     X33.49  
+ -- Israel, Rose              17 BWRA                   33.57     X34.96  
+ -- Dunn, Maya                16 BWRA                   35.68     X35.87  
+ -- Maher, Elizabeth          15 BWRA                   36.97     X37.70  
+ -- Whitman, Sarah            18 BWRA                      NT     X40.31  
+ -- Keating, Faith            17 BWRA                   38.90     X41.46  
+ -- Meyer, Sydney             17 BWRA                   37.70     X43.01  
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals        
+===============================================================================
+  1 McDonnell, Liam           18 BWRA                   27.36     J26.96  
+  2 Jamieson, Brodeo          16 GLEN-ZZ                28.41     J26.77  
+  3 Reckker, Nate             17 BWRA                   28.38      29.00  
+  4 Bartman, Owen             16 GLEN-ZZ                29.03      29.41  
+  5 O'Neill, Owen             15 BWRA                   31.19     x31.01  
+  6 Brady, Quinn              15 GLEN-ZZ                38.18     x38.93  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Beachwood Recreation Associati  'A'               2:17.90    2:28.61  
+     1) Worth, Turner M10               2) Knudsen, Nolan M8              
+     3) Rocchini, Stella W9             4) Rondeau, Alex M10              
+  2 Farmington Glen Aquatic Club-ZZ  'A'              2:42.39    2:32.10  
+     1) Tomlinson, Jack M11             2) Hodges, Eleanor W10            
+     3) Tomlinson, Claire W10           4) Kowalski, Claire W9            
+  3 Beachwood Recreation Associati  'B'                    NT   x2:55.96  
+     1) Crowe, Ben M9                   2) Hammond, Kameron M8            
+     3) Worth, Brolin M8                4) Hammond, Kaiden M8             
+  4 Farmington Glen Aquatic Club-ZZ  'B'                   NT   x3:13.15  
+     1) Zdyrski, Logan W10              2) Yost, Alyssa W10               
+     3) Roberts, Viviana W10            4) Duggan, Kelly W9               
+  5 Beachwood Recreation Associati  'C'                    NT   x3:24.20  
+     1) Rocchini, Brenna W8             2) Schneider, Noelle W9           
+     3) Abraham, Alexis W9              4) Swonder, Kathryn W10           
+  6 Farmington Glen Aquatic Club-ZZ  'C'                   NT   x3:28.83  
+     1) Skubic, Tatum W10               2) Rusak, Allie W10               
+     3) Coscarelli, Sam M10             4) Miller, BO M10                 
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Farmington Glen Aquatic Club-ZZ  'A'              2:22.76    2:28.50  
+     1) Gurgel, Hannah W11              2) Cho, Annika W11                
+     3) Dicks, Maddie W10               4) Cho, Markus M8                 
+  2 Beachwood Recreation Associati  'A'               2:37.27    2:41.82  
+     1) Bastien, Colin M11              2) Rehbine, Peyton W10            
+     3) Tack, Avery W9                  4) O'Neill, Quinn M10             
+  3 Beachwood Recreation Associati  'B'                    NT   x3:03.17  
+     1) Mackillop, Patrick M12          2) Dangermond, Ella W9            
+     3) Rehbine, Reagan M9              4) Isaksen, Leah W9               
+  4 Farmington Glen Aquatic Club-ZZ  'B'                   NT   x3:07.13  
+     1) Harvill, Cailin W10             2) Stilwill, Ryan M10             
+     3) DeMartini, Paul M11             4) Peura, Brody M9                
+  5 Beachwood Recreation Associati  'C'                    NT   x3:27.70  
+     1) Domazet, Una W10                2) Stephens, Layla W10            
+     3) Bricker, Ben M10                4) Stephens, Corinne W8           
+  6 Farmington Glen Aquatic Club-ZZ  'C'                   NT   x3:38.81  
+     1) Hornbacher, Max M10             2) Kindseth, Levi M9              
+     3) Millar, Megan W10               4) Gerzema, Nora W11              
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Farmington Glen Aquatic Club-ZZ  'A'              2:19.55    2:20.73  
+     1) Hornbacher, Ella 14             2) Fleming, Kristen 15            
+     3) Rottermond, Alicia 13           4) Greaves, Leah 10               
+  2 Farmington Glen Aquatic Club-ZZ  'B'              2:23.59   x2:23.47  
+     1) Feenstra, Katrien 12            2) McEvilly, Mya 13               
+     3) Kindseth, Viv 14                4) Wilder, Sarah 12               
+  3 Beachwood Recreation Associati  'A'               2:22.02    2:29.23  
+     1) Saad, Julia 13                  2) Kozlowski, Rebecca 12          
+     3) Basile, Abbey 15                4) Saad, Maya 12                  
+  4 Farmington Glen Aquatic Club-ZZ  'C'                   NT   x2:31.62  
+     1) Kindseth, Annie 13              2) Peura, Madelyn 14              
+     3) Millar, Melanie 12              4) Beals, Peyton 13               
+  5 Beachwood Recreation Associati  'B'                    NT   x2:58.17  
+     1) Stinson, Katherine 13           2) Mowrey, Julia 13               
+     3) Rondeau, Elaina 13              4) Bastien, Emma 13               
+  6 Beachwood Recreation Associati  'C'                    NT   x3:02.92  
+     1) Schneider, Allison 13           2) Crowe, Hailey 14               
+     3) Zablocki, Jessica 12            4) Swaneck, Olive 12              
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Farmington Glen Aquatic Club-ZZ  'A'              2:12.38    2:10.12  
+     1) Udupi, Aayush 15                2) Ezzeddine, Hassan 14           
+     3) Gurgel, Ryan 14                 4) Gurgel, Kyle 9                 
+  2 Beachwood Recreation Associati  'A'               2:08.78    2:12.69  
+     1) Walters, Joshua 13              2) Harrison, Josh 13              
+     3) Knudsen, Emmett 11              4) Tack, Evan 12                  
+  3 Farmington Glen Aquatic Club-ZZ  'B'                   NT   x2:27.78  
+     1) Hahn, Bo 14                     2) Gerzema, Paddy 13              
+     3) Grynaviski, Iggy 13             4) Morden, Luke 11                
+  4 Farmington Glen Aquatic Club-ZZ  'C'                   NT   x2:38.25  
+     1) Szuba, Jack 12                  2) Marinucci, Sam 12              
+     3) Curanovic, Lelandia 13          4) Morden, Zach 14                
+  5 Beachwood Recreation Associati  'B'                    NT   x2:49.09  
+     1) Brandenberg, Parker 13          2) Cremers, Truman 13             
+     3) Bauman, Bryce 13                4) Meyer, Mason 11                
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Farmington Glen Aquatic Club-ZZ  'A'              1:53.53    1:53.26  
+     1) Munson, Lia 17                  2) Inch, Emma 17                  
+     3) Greaves, Madeline 15            4) Petrak, Julianna 17            
+  2 Beachwood Recreation Associati  'A'               1:58.03    2:03.62  
+     1) Dickhudt, Emma 16               2) Harrison, Sarah 15             
+     3) Cremers, Abigail 15             4) Blevins, Olivia 16             
+  3 Farmington Glen Aquatic Club-ZZ  'B'                   NT   x2:06.92  
+     1) Pierini, Kate 17                2) Rinker, Christine 14           
+     3) Larick, Katie 16                4) Greaves, Mack 18               
+  4 Farmington Glen Aquatic Club-ZZ  'C'                   NT  xJ2:46.83  
+     1) Inch, Gabby 17                  2) Marinucci, Reagan 14           
+     3) Feenstra, Bella 17              4) Meier, Paige 15                
+  5 Beachwood Recreation Associati  'B'                    NT  xJ2:10.10  
+     1) Amicucci, Rachel 15             2) Maher, Elizabeth 15            
+     3) MacKillop, Shannon 16           4) Rondeau, Mikayla 16            
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals        
+===============================================================================
+  1 Beachwood Recreation Associati  'A'               1:41.40    1:44.95  
+     1) O'Neill, Owen 15                2) Venos, Jonah 18                
+     3) Venos, Elijah 16                4) Reckker, Nate 17               
+  2 Farmington Glen Aquatic Club-ZZ  'A'              1:46.44    1:46.77  
+     1) Jamieson, Brodeo 16             2) Golicz, Brendo 14              
+     3) Szuba, Scooby 15                4) Bartman, Owen 16               
+  3 Beachwood Recreation Associati  'B'                    NT   x1:51.70  
+     1) Crowe, Jonathan 18              2) McDonnell, Liam 18             
+     3) Pietsch, Tyler 17               4) Basile, Alex 13                
+  4 Farmington Glen Aquatic Club-ZZ  'B'                   NT   x2:03.64  
+     1) Brady, Quinn 15                 2) Howell, Griffin 18             
+     3) Pennington, Ryan 18             4) Morden, Lorn 15                
+  5 Farmington Glen Aquatic Club-ZZ  'C'                   NT   x2:33.00  
+     1) Brady, Noah 13                  2) Brady, Gavin 12                
+     3) Harvill, Aidan 14               4) Peura, Benjamin 12             

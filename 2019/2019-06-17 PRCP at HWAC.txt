@@ -1,0 +1,1389 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Pugh, Lucy                11 Hurricanes             37.40      36.63    5  
+      18.33   18.30                                                
+  2 Czarnik, Rebecca          12 PR                     36.90      38.58    3  
+      19.51   19.07                                                
+  3 Quisling, Alexa           11 Hurricanes             37.66      39.67    2  
+      18.08   21.59                                                
+  4 Purrier, Isidora          12 PR                     40.03      40.43    1  
+      19.79   20.64                                                
+  5 Rayo, Annalia             11 Hurricanes             42.25     x42.69  
+      20.52   22.17                                                
+  6 Almas, Emily              12 PR                     44.89     x44.68  
+      20.20   24.48                                                
+ -- Howes, Lola               11 PR                     45.25     X45.75  
+      22.40   23.35                                                
+ -- Sims, Alexandria          11 Hurricanes                NT     X46.59  
+      21.91   24.68                                                
+ -- Ceaser, Nadia             12 Hurricanes             46.96     X47.40  
+      23.08   24.32                                                
+ -- Solomon, Theresa          11 Hurricanes             49.38     X49.05  
+      21.65   27.40                                                
+ -- Shepherd, Elise           11 Hurricanes                NT     X49.58  
+      24.74   24.84                                                
+ -- Malkowski, Gracie         11 PR                     58.89     X50.17  
+ -- Francis, Ella             12 Hurricanes             51.98     X50.72  
+      24.45   26.27                                                
+ -- Clemence, Sophie          11 Hurricanes                NT     X52.58  
+      24.40   28.18                                                
+ -- Pund, Iris                11 PR                     52.49     X52.62  
+      26.29   26.33                                                
+ -- Cuda, Siena               11 PR                     54.53     X53.74  
+      26.25   27.49                                                
+ -- Zacklan, Olivia           12 Hurricanes             54.02     X53.88  
+      25.08   28.80                                                
+ -- Baker, Eleanor            11 Hurricanes             55.21     X54.22  
+      25.25   28.97                                                
+ -- Morais, Sonni             12 PR                     54.47     X54.91  
+      26.63   28.28                                                
+ -- Czapski, Maya             11 Hurricanes             57.97     X57.00  
+      24.87   32.13                                                
+ -- Goldstein, Olivia         11 Hurricanes             57.10     X58.76  
+      26.45   32.31                                                
+ -- Worcester, Zoey           11 PR                     59.80     X58.88  
+      26.99   31.89                                                
+ -- Schindler, Madeleine      11 Hurricanes           1:08.80   X1:00.58  
+      28.64   31.94                                                
+ -- Alexander, Anna           11 Hurricanes                NT   X1:01.06  
+      27.59   33.47                                                
+ -- Mcevoy, Sloane            11 Hurricanes           1:00.75   X1:01.42  
+      28.89   32.53                                                
+ -- Nischan, Vega             11 PR                   1:03.22   X1:03.09  
+      30.73   32.36                                                
+ -- Zwick, Emma               12 Hurricanes           1:04.94   X1:05.19  
+      31.29   33.90                                                
+ -- Chapman, Ryan             12 PR                   1:07.84   X1:05.52  
+      30.36   35.16                                                
+ -- Greenwald, Violet         11 Hurricanes                NT   X1:05.60  
+      29.50   36.10                                                
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Weiner, Adin              12 Hurricanes             43.44      42.25    5  
+      20.78   21.47                                                
+  2 Prisby, Nicholas          11 Hurricanes             48.20      47.12    3  
+      22.15   24.97                                                
+  3 Olson, Luke               12 Hurricanes             47.00     x48.31  
+      23.99   24.32                                                
+  4 Plymale, Walter           12 PR                     49.42      51.78    2  
+      24.19   27.59                                                
+  5 McCaffrey, Jaxon          12 PR                     56.11      53.12    1  
+      26.50   26.62                                                
+  6 Padgett, Lively           11 PR                     52.88     x54.49  
+ -- Tacke, Trent              11 PR                     58.67     X57.64  
+      27.47   30.17                                                
+ -- Pannecouck, Ben           11 PR                     58.26     X58.47  
+ -- Just, William             11 Hurricanes             57.31   X1:01.03  
+      28.48   32.55                                                
+ -- Bullock, Benjamin         11 Hurricanes           1:07.46   X1:04.74  
+      28.94   35.80                                                
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Grand, Elisha             14 Hurricanes           1:17.60    1:19.83    5  
+      16.31   20.45   24.10   18.97                                
+  2 Pund, Lucy                13 PR                   1:24.88    1:23.01    3  
+      17.13   21.65   25.37   18.86                                
+  3 Spurgeon, Mary            14 Hurricanes           1:26.22    1:23.54    2  
+      16.87   21.13   26.93   18.61                                
+  4 Francis, Chloe            14 PR                   1:30.59    1:29.77    1  
+      17.40                   20.44                                
+  5 Gurvitz, Abigail          14 Hurricanes           1:33.83   x1:34.34  
+      19.83   25.30   26.26   22.95                                
+  6 Barnett, Jane             14 PR                   1:43.52   x1:40.82  
+      21.00   26.61   28.27   24.94                                
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Wisniewski, Oliver        14 Hurricanes           1:20.00    1:17.44    5  
+      17.08   18.53   24.73   17.10                                
+  2 Rolands, David            14 Hurricanes           1:18.81    1:20.15    3  
+      16.32   19.92   23.98   19.93                                
+  3 Curtin, Brady             14 PR                   1:19.19    1:22.28    2  
+      16.92   21.23   25.54   18.59                                
+  4 Strong, Kyle              14 PR                   1:29.48    1:27.75    1  
+      17.89   21.31   27.09   21.46                                
+  5 Miller, Guy               13 PR                   1:31.99   x1:34.83  
+      21.28   24.28   26.77   22.50                                
+  6 Warner, Chase             13 Hurricanes           1:35.22   x1:35.60  
+      21.87   23.02   29.67   21.04                                
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Momblanco, Hannah         17 Hurricanes             38.46      38.94    5  
+      18.18   20.76                                                
+  2 Emmi, Mary                17 PR                     39.28      40.03    3  
+      18.66   21.37                                                
+  3 Carlesso, Sophia          18 Hurricanes             39.95      40.11    2  
+      19.01   21.10                                                
+  4 Arnone, Samantha          16 PR                     45.16      44.24    1  
+      20.60   23.64                                                
+  5 Bader, Abby               15 PR                     46.14     x45.25  
+      21.71   23.54                                                
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Carpenter, Evan           18 Hurricanes             32.11      30.88    5  
+      14.26   16.62                                                
+  2 Carpenter, Ian            15 Hurricanes             35.61      35.89    3  
+      16.50   19.39                                                
+  3 Grand, David              17 Hurricanes             38.29     x37.64  
+      17.14   20.50                                                
+  4 Gibson, Aidan             16 PR                     37.51      39.86    2  
+      18.17   21.69                                                
+  5 Needham, Bailey           15 PR                     41.20      41.28    1  
+      19.32   21.96                                                
+  6 Merten, Jack              17 PR                     43.48     x44.42  
+      20.71   23.71                                                
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cavicchioli, Amelia        8 PR                     28.61      24.56    5  
+  2 Solomon, Sophie            8 Hurricanes             24.43      24.97    3  
+      48.48                                                        
+  3 Fuoco, Isabella            8 PR                     28.68      27.47    2  
+  4 Plymale, Esther            8 PR                     28.40     x29.33  
+  5 Gutman, Sydney             8 Hurricanes             30.06      29.39    1  
+  6 Rickard, Olivia            8 Hurricanes             31.20     x30.35  
+ -- Zywicki, Natalia           8 PR                     34.79     X28.20  
+ -- Worcester, Charlotte       8 PR                     28.75     X29.55  
+ -- Bolach, Samantha           7 PR                     29.65     X31.03  
+ -- Bradley, Claire            8 Hurricanes             33.15     X32.52  
+ -- Barnett, Helena            8 Hurricanes             33.57     X33.62  
+ -- Rubin, Ceila               8 Hurricanes             34.01     X33.83  
+ -- Quisling, Riley            8 Hurricanes             36.97     X33.89  
+ -- Smart, Chloe               8 Hurricanes             36.56     X34.98  
+ -- Brooks, Emerson            6 Hurricanes             33.49     X35.47  
+ -- Dolgin, Sydney             8 Hurricanes             37.45     X35.56  
+ -- Bloom, Poppy               8 PR                     39.00     X35.66  
+ -- Borla, Estelle             7 Hurricanes                NT     X36.57  
+ -- Stilger, Jovie             8 Hurricanes             40.49     X36.72  
+ -- Pontes, Sylvia             7 PR                     36.62     X36.77  
+ -- Krauskoff, Hayley          7 Hurricanes                NT     X38.38  
+ -- Stayer, Matilda            7 Hurricanes             39.54     X38.84  
+ -- Herzig, Chloe              6 PR                     44.94     X40.47  
+ -- Sumnicht, Emma             7 Hurricanes             37.10     X41.31  
+ -- Ghosh, Lola                7 Hurricanes                NT     X41.35  
+ -- Heicklen, Elena            7 Hurricanes             45.85     X43.27  
+ -- Rentrop, Hila              5 PR                     41.49     X43.39  
+ -- Jablonowski, Ashlyn        6 PR                     54.29     X45.78  
+ -- Smith, Lucy                6 PR                     40.30     X46.02  
+ -- McKee, Vivian              8 PR                   1:01.68     X46.03  
+ -- Levine, Cailey             7 Hurricanes             43.30     X46.30  
+ -- Mcevoy, Keira              8 Hurricanes             46.75     X52.72  
+ -- Schwarzer, Liana           6 Hurricanes             58.40     X53.30  
+ -- Cavicchioli, Olivia        5 PR                   1:09.82   X1:03.58  
+ -- Jablonowski, Audrey        6 PR                   1:08.55   X1:05.45  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Solomon, John              7 Hurricanes             27.32      26.55    5  
+  2 Mracna, Cal                7 Hurricanes             31.16      30.67    3  
+  3 Cooke, Oliver              7 PR                     36.15      32.85    2  
+  4 Jeffrey, Quinn             6 Hurricanes             37.79     x33.78  
+  5 Murray, Evan               7 PR                     36.66      34.66    1  
+  6 Koehler, Desmond           7 PR                     43.19     x45.20  
+ -- Olson, Asher               7 Hurricanes             40.03     X35.33  
+ -- Piccinato, Vincent         7 PR                        NT     X36.31  
+ -- Monteiro, Bowen            8 PR                     50.23     X38.37  
+ -- Bander, Ashton             7 PR                     43.51     X38.47  
+ -- Jahnke, Jack               8 Hurricanes             45.00     X40.05  
+ -- Berg, Zachary              7 Hurricanes             39.07     X41.90  
+ -- Samoray, Gabriel           7 PR                     42.62     X42.32  
+ -- Dare, Seamus               7 Hurricanes             42.21     X43.50  
+ -- Itenberg, Brody            7 Hurricanes                NT     X47.91  
+ -- Morgan, Benjamin           6 Hurricanes             53.51     X51.82  
+ -- Dare, Sean                 6 Hurricanes           1:02.33     X57.67  
+ -- Bander, Aiden              7 PR                   1:04.24   X1:05.22  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Conti, Hannah             10 Hurricanes             46.49      45.58    5  
+      20.45   25.13                                                
+  2 Francis, Samantha         10 PR                     46.10      45.92    3  
+      20.87   25.05                                                
+  3 Pankopf, Mackenzie        10 Hurricanes             44.81      46.78    2  
+      20.65   26.13                                                
+  4 Rose, Ella                 9 PR                     47.74      47.43    1  
+      22.42   25.01                                                
+  5 Saltsman, Tatum           10 Hurricanes             47.93     x50.57  
+      23.04   27.53                                                
+  6 Foreman, Chantal          10 PR                   1:01.43     x59.84  
+      25.85   33.99                                                
+ -- Guerra, Ava                9 Hurricanes                NT     X47.03  
+      20.24   26.79                                                
+ -- Gray, Charlotte           10 Hurricanes                NT     X52.85  
+      24.51   28.34                                                
+ -- Rusk, Devon                9 Hurricanes             55.17     X53.37  
+      23.16   30.21                                                
+ -- Ross, Sadie               10 Hurricanes             57.14     X56.57  
+      26.08   30.49                                                
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Snavely, Alden             9 Hurricanes             40.24      39.72    5  
+      18.28   21.44                                                
+  2 Citron, Levi              10 Hurricanes             58.00      51.05    3  
+      22.41   28.64                                                
+  3 Cooke, Theodore            9 PR                        NT    1:06.32    2  
+      31.78   34.54                                                
+  4 Lambert, Denny             9 PR                   1:17.71    1:10.06    1  
+      30.51   39.55                                                
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Pugh, Lucy                11 Hurricanes             32.50      31.06    5  
+      15.37   15.69                                                
+  2 Czarnik, Rebecca          12 PR                     32.59     J32.73    3  
+      15.89   16.84                                                
+  3 Robert, Emerson           12 Hurricanes             32.68     J32.64    2  
+      15.80   16.84                                                
+  4 Rayo, Annalia             11 Hurricanes             36.45     x36.18  
+      17.34   18.84                                                
+  5 Almas, Emily              12 PR                     38.24      36.71    1  
+      17.32   19.39                                                
+ -- Quisling, Alexa           11 Hurricanes                NT     X34.21  
+      16.21   18.00                                                
+ -- Buick, Scarlett           11 PR                     39.88     X37.13  
+      17.72   19.41                                                
+ -- Forsyth, Natalie          12 PR                     44.51     X38.30  
+      17.92   20.38                                                
+ -- Roelofs, Kalli            11 PR                     39.58     X38.51  
+      18.55   19.96                                                
+ -- Rolands, Ashley           12 Hurricanes             39.37     X39.15  
+      19.10   20.05                                                
+ -- Ceaser, Nadia             12 Hurricanes             39.41     X39.31  
+      18.23   21.08                                                
+ -- Shepherd, Elise           11 Hurricanes             41.32     X41.45  
+      19.85   21.60                                                
+ -- Sims, Alexandria          11 Hurricanes                NT     X42.05  
+      19.39   22.66                                                
+ -- Masters, Willow           12 PR                     41.34     X42.11  
+      20.09   22.02                                                
+ -- Howes, Lola               11 PR                     45.50     X42.60  
+      20.69   21.91                                                
+ -- Pund, Iris                11 PR                     46.38     X42.72  
+      20.50   22.22                                                
+ -- Clemence, Sophie          11 Hurricanes             43.87     X43.98  
+      20.56   23.42                                                
+ -- Mlutkowski, Amelia        12 Hurricanes             47.14     X44.38  
+      20.54   23.84                                                
+ -- Worcester, Zoey           11 PR                     45.97     X44.86  
+      21.66   23.20                                                
+ -- Mcevoy, Sloane            11 Hurricanes             48.02     X45.65  
+      22.37   23.28                                                
+ -- Baker, Eleanor            11 Hurricanes             45.91     X46.11  
+      20.97   25.14                                                
+ -- Toma, Marlen              12 Hurricanes             49.51     X46.44  
+      21.95   24.49                                                
+ -- Francis, Ella             12 Hurricanes             52.72     X46.67  
+ -- Solomon, Theresa          11 Hurricanes             47.78     X46.92  
+      20.20   26.72                                                
+ -- Schindler, Madeleine      11 Hurricanes             48.37     X47.41  
+      21.68   25.73                                                
+ -- Peters, Claire            11 Hurricanes             47.26     X47.95  
+      21.61   26.34                                                
+ -- Zacklan, Olivia           12 Hurricanes             49.56     X48.73  
+      22.97   25.76                                                
+ -- Cuda, Siena               11 PR                     54.01     X51.70  
+      24.20   27.50                                                
+ -- Zwick, Emma               12 Hurricanes             53.40     X53.14  
+      25.73   27.41                                                
+ -- Alexander, Anna           11 Hurricanes                NT     X53.41  
+      25.59   27.82                                                
+ -- Czapski, Maya             11 Hurricanes             56.82     X54.04  
+      23.87   30.17                                                
+ -- Goldstein, Olivia         11 Hurricanes             56.46     X56.25  
+      24.73   31.52                                                
+ -- Greenwald, Violet         11 Hurricanes                NT     X59.18  
+      25.28   33.90                                                
+ -- Lerner, Liat              11 Hurricanes           1:07.96   X1:12.76  
+      33.59   39.17                                                
+ -- Soma, Sophia              12 PR                     37.35         DQ  
+      18.36   18.49                                                
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Olson, Aidan              12 Hurricanes             37.00      32.77    5  
+      16.38   16.39                                                
+  2 Francis, Charlie          12 PR                     38.79      33.72    3  
+      16.57   17.15                                                
+  3 Foreman, Nicholas         12 PR                     37.56      37.20    2  
+      17.84   19.36                                                
+  4 Arnone, Dominik           12 PR                     39.94     x38.43  
+      17.99   20.44                                                
+  5 Oal, Ethan                12 Hurricanes             40.60      39.59    1  
+      18.97   20.62                                                
+  6 Marutz, Zachary           12 Hurricanes             43.89     x42.00  
+      21.09   20.91                                                
+ -- McNamara, Miles           11 PR                     43.89     X41.96  
+      19.15   22.81                                                
+ -- McCaffrey, Jaxon          12 PR                     45.46     X45.41  
+      21.52   23.89                                                
+ -- Urikh, Spencer            12 Hurricanes             54.15     X50.75  
+      23.74   27.01                                                
+ -- Tacke, Trent              11 PR                     52.42     X51.17  
+      23.20   27.97                                                
+ -- Bullock, Benjamin         11 Hurricanes             59.92     X52.94  
+      25.44   27.50                                                
+ -- Just, William             11 Hurricanes             56.77     X56.14  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Scully, Bryce             13 PR                     32.70      32.71    5  
+      14.93   17.78                                                
+  2 Grand, Elisha             14 Hurricanes             33.48      34.19    3  
+      15.84   18.35                                                
+  3 Hamilton, Molly           14 Hurricanes             36.23      35.07    2  
+      16.44   18.63                                                
+  4 Robert, Reagan            14 Hurricanes             36.50     x35.41  
+      16.04   19.37                                                
+  5 Rose, Alyssa              13 PR                     41.94      42.42    1  
+      18.43   23.99                                                
+  6 Wischman, Katherine       13 PR                        NT     x46.19  
+      20.39   25.80                                                
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ross, Joshua              14 Hurricanes             31.22      32.52    5  
+      14.53   17.99                                                
+  2 Laidlaw, Connor           13 PR                     34.72      35.58    3  
+      15.53   20.05                                                
+  3 Strong, Kyle              14 PR                     39.40      39.30    2  
+      18.21   21.09                                                
+  4 Bray, Cosmo               13 PR                     46.92     x45.48  
+      20.49   24.99                                                
+  5 Wismer, Luke              14 Hurricanes             44.00      46.90    1  
+      20.82   26.08                                                
+  6 Turner, Miles             13 Hurricanes             49.88     x51.80  
+      20.71   31.09                                                
+ -- Papadopoulos, Alex        13 Hurricanes                NT     X36.20  
+      16.13   20.07                                                
+ -- Khirallah, Andrew         14 Hurricanes                NT     X57.15  
+      26.67   30.48                                                
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Oal, Hale'                15 Hurricanes             37.00      33.63    5  
+      16.74   16.89                                                
+  2 Scully, Brynne            15 PR                     35.36      36.87    3  
+      18.14   18.73                                                
+  3 Buckner, Hallie           17 Hurricanes             38.00      37.35    2  
+      18.44   18.91                                                
+  4 Parent, Jacquelyn         15 Hurricanes             40.75     x40.81  
+      19.65   21.16                                                
+  5 Harris, Mia               15 PR                     39.73      41.61    1  
+      20.59   21.02                                                
+  6 Rogers, Genevieve         15 PR                     41.74     x46.46  
+      22.30   24.16                                                
+ -- Crossman, Katherine       16 PR                     44.70     X43.08  
+      21.34   21.74                                                
+ -- Hunt, Zoe                 16 PR                     50.93     X56.70  
+      22.84   33.86                                                
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hamilton, Jack            15 Hurricanes             29.61      28.29    5  
+      14.01   14.28                                                
+  2 Solecki, Mason            16 PR                     30.99      30.34    3  
+      14.78   15.56                                                
+  3 Veasey, LaVaughn          15 PR                     30.58      30.47    2  
+      14.69   15.78                                                
+  4 Fredal, Joey              15 Hurricanes             35.98      34.21    1  
+      17.04   17.17                                                
+  5 Upcott, Kevin             17 Hurricanes             35.21     x35.50  
+      17.18   18.32                                                
+  6 Pyykkonen, Kyle           16 PR                     39.55     x38.66  
+      19.17   19.49                                                
+ -- Jacobs, Armen             17 Hurricanes             36.35     X35.71  
+      17.26   18.45                                                
+ -- Affer, Adam               15 Hurricanes                NT     X37.80  
+      18.88   18.92                                                
+ -- Kapitan, Christian        15 Hurricanes             40.53     X39.65  
+      19.29   20.36                                                
+ -- Wedepohl, Benjamin        15 Hurricanes                NT     X40.05  
+      20.09   19.96                                                
+ -- Gibson, Aidan             16 PR                     39.84     X40.26  
+      19.72   20.54                                                
+ -- Green, Nathan             15 Hurricanes             42.39     X40.70  
+      19.96   20.74                                                
+ -- Rendleman, James          17 Hurricanes             40.48     X41.47  
+      19.93   21.54                                                
+ -- Needham, Bailey           15 PR                     49.28     X49.40  
+      25.19   24.21                                                
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 McNamara, Ella             8 PR                     23.08      19.81    5  
+  2 Knudson, Olivia            7 PR                     22.49      21.44    3  
+  3 Golembiewski, Ainsley      8 Hurricanes             25.00      24.37    2  
+  4 Plymale, Esther            8 PR                     23.17     x26.24  
+  5 Bradley, Claire            8 Hurricanes             26.97      27.44    1  
+  6 Mcevoy, Ainsley            8 Hurricanes             27.36     x29.92  
+  7 Chapman, Harper            8 PR                        NT     x57.11  
+ -- Samuelson, Allegra         8 Hurricanes             30.14     X25.71  
+ -- Janelle, Rowan             8 PR                     25.31     X26.07  
+ -- Worcester, Charlotte       8 PR                     28.77     X26.64  
+ -- Gutman, Sydney             8 Hurricanes             28.30     X28.51  
+ -- Smart, Chloe               8 Hurricanes             31.32     X30.44  
+ -- Mcevoy, Keira              8 Hurricanes             32.87     X30.85  
+ -- Gallagher, Cassie          6 PR                     33.74     X30.87  
+ -- Stilger, Jovie             8 Hurricanes             30.55     X30.98  
+ -- Ross, Evelyn               8 Hurricanes             30.32     X31.32  
+ -- Brooks, Emerson            6 Hurricanes             30.99     X32.00  
+ -- Sumnicht, Emma             7 Hurricanes             31.23     X32.01  
+ -- Rickard, Olivia            8 Hurricanes             34.30     X32.15  
+ -- Borla, Estelle             7 Hurricanes                NT     X33.35  
+ -- Rubin, Ceila               8 Hurricanes             32.70     X33.72  
+ -- Krauskoff, Hayley          7 Hurricanes                NT     X33.90  
+ -- Stayer, Matilda            7 Hurricanes             34.42     X33.99  
+ -- Marvar, Harper             7 PR                     34.38     X34.37  
+ -- Barnett, Helena            8 Hurricanes             30.07     X34.70  
+ -- Quisling, Riley            8 Hurricanes             32.99     X34.83  
+ -- Ghosh, Lola                7 Hurricanes                NT     X35.04  
+ -- Janelle, Shae              6 PR                     34.88     X35.33  
+ -- Herzig, Chloe              6 PR                     36.86     X36.26  
+ -- Dolgin, Sydney             8 Hurricanes             36.51     X36.61  
+ -- Heicklen, Elena            7 Hurricanes             46.40     X38.17  
+ -- Bloom, Poppy               8 PR                     36.84     X39.16  
+ -- Smith, Lucy                6 PR                     42.76     X39.24  
+ -- Pontes, Nadia              7 PR                     31.68     X39.43  
+ -- Levine, Cailey             7 Hurricanes             45.37     X41.53  
+ -- Cavicchioli, Olivia        5 PR                     51.35     X46.71  
+ -- Jablonowski, Ashlyn        6 PR                   1:06.73     X46.94  
+ -- Schwarzer, Liana           6 Hurricanes             53.48     X48.54  
+ -- Rentrop, Hila              5 PR                     51.77     X49.47  
+ -- Levine, Mia                7 Hurricanes             52.85     X50.15  
+ -- Jablonowski, Audrey        6 PR                   1:11.84     X57.54  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gallagher, Connor          8 PR                     17.43      17.96    5  
+  2 Sachs, Elliot              8 Hurricanes             21.79      23.40    3  
+  3 Jeffrey, Quinn             6 Hurricanes             29.14      28.70    2  
+  4 Mracna, Cal                7 Hurricanes             29.25     x29.45  
+  5 Monteiro, Bowen            8 PR                     37.16      32.86    1  
+  6 Cooke, Oliver              7 PR                     35.74     x37.33  
+ -- Itenberg, Brody            7 Hurricanes                NT     X29.78  
+ -- Berg, Zachary              7 Hurricanes             29.26     X30.17  
+ -- Olson, Asher               7 Hurricanes             37.12     X32.07  
+ -- Jahnke, Jack               8 Hurricanes             41.57     X36.78  
+ -- Leonard, Harrison          7 PR                     38.12     X37.15  
+ -- Dare, Seamus               7 Hurricanes             37.97     X39.59  
+ -- Bander, Ashton             7 PR                     38.25     X39.89  
+ -- Piccinato, Vincent         7 PR                        NT     X41.67  
+ -- Morgan, Benjamin           6 Hurricanes             46.28     X47.54  
+ -- Bander, Aiden              7 PR                     53.22     X50.45  
+ -- Dare, Sean                 6 Hurricanes             47.24     X53.21  
+ -- Samoray, Gabriel           7 PR                     44.42     X57.78  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Mracna, Mia               10 Hurricanes             48.17      47.15    5  
+      22.19   24.96                                                
+  2 Scully, Sloan             10 PR                     48.09      47.88    3  
+      23.36   24.52                                                
+  3 Spurgeon, Ruby            10 Hurricanes             55.38      54.36    2  
+      26.05   28.31                                                
+  4 Jeffrey, Isabel            9 Hurricanes           1:00.78     x59.96  
+      29.55   30.41                                                
+  5 Foreman, Chantal          10 PR                     58.57     J59.96  
+      28.84   31.12                                                
+  6 Monteiro, Brynn            9 PR                   1:08.13   x1:06.40  
+      30.15   36.25                                                
+ -- Marchak, Sydney            9 PR                        NT     X58.95  
+ -- Warner, Emerson           10 Hurricanes                NT     X59.41  
+      29.15   30.26                                                
+ -- Elder, Lily                9 Hurricanes                NT     X59.90  
+      28.11   31.79                                                
+ -- Krauskoff, Brigette       10 Hurricanes                NT   X1:03.52  
+      28.84   34.68                                                
+ -- Frankel, Molly            10 Hurricanes                NT   X1:03.88  
+      30.39   33.49                                                
+ -- Levine, Marni              9 Hurricanes                NT   X1:08.35  
+      31.94   36.41                                                
+ -- Zwick, Madelyn            10 Hurricanes                NT   X1:08.81  
+      31.18   37.63                                                
+ -- Peters, Stella             9 Hurricanes                NT   X1:09.20  
+      31.68   37.52                                                
+ -- Hirschhorn, Abigail        9 Hurricanes                NT   X1:09.65  
+      29.98   39.67                                                
+ -- McCaffrey, Riley          10 PR                   1:09.84   X1:11.85  
+      33.97   37.88                                                
+ -- Jones, Rhea                9 PR                        NT   X1:22.25  
+      36.42   45.83                                                
+ -- Anderson, Kaison           9 PR                        NT   X1:23.74  
+      39.42   44.32                                                
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Snavely, Alden             9 Hurricanes             42.75      42.44    5  
+      19.92   22.52                                                
+  2 Samoray, Max              10 PR                   1:01.23      58.57    3  
+      27.30   31.27                                                
+  3 Murray, Jack              10 PR                   1:00.42      59.51    2  
+      27.18   32.33                                                
+  4 Ford, Christian           10 PR                   1:08.77   x1:06.17  
+      30.51   35.66                                                
+  5 Conti, Alex               10 Hurricanes           1:03.16    1:06.30    1  
+      30.86   35.44                                                
+ -- Cantor, Robert             9 Hurricanes                NT         DQ  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Horwitz, Alana            12 Hurricanes           1:26.75    1:26.53    5  
+      17.60   22.93   25.43   20.57                                
+  2 Collins, Madeline         11 Hurricanes           1:32.38    1:32.23    3  
+      16.84   22.37   30.64   22.38                                
+  3 Barnett, Sarah            12 PR                   1:39.56    1:34.90    2  
+      19.73   22.57   29.55   23.05                                
+  4 Buick, Scarlett           11 PR                   1:51.29    1:42.58    1  
+      18.96   25.46   33.68   24.48                                
+  5 Kraniak, Raquel           12 PR                   1:49.83   x1:44.10  
+      24.91   27.73   26.69   24.77                                
+ -- Robert, Emerson           12 Hurricanes                NT         DQ  
+      19.24   23.53   29.46   19.34                                
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Saltsman, Jack            12 Hurricanes           1:34.00    1:30.46    5  
+      18.03   21.91   29.61   20.91                                
+  2 Olson, Luke               12 Hurricanes           1:39.23    1:36.32    3  
+      21.92   26.95   26.21   21.24                                
+  3 Oal, Ethan                12 Hurricanes           1:56.06   x1:46.68  
+      21.84   28.83   32.00   24.01                                
+  4 Padgett, Lively           11 PR                   2:09.52    2:09.94    2  
+      31.94   29.72   36.74   31.54                                
+ -- Plymale, Walter           12 PR                        NT         DQ  
+      24.94   27.41   35.39   27.90                                
+ -- Francis, Charlie          12 PR                   2:06.03         DQ  
+      19.45   25.69   32.09   24.99                                
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Guns, Lauryn              13 PR                     37.32      37.87    5  
+      18.48   19.39                                                
+  2 Pund, Lucy                13 PR                     42.43      42.75    3  
+      20.68   22.07                                                
+  3 Collins, Kerrigan         14 PR                     44.07     x43.80  
+      20.11   23.69                                                
+  4 Shepherd, Emily           14 Hurricanes             45.83      44.88    2  
+      20.55   24.33                                                
+  5 Gurvitz, Abigail          14 Hurricanes             46.62      45.76    1  
+      21.52   24.24                                                
+  6 Guerra, Isabel            13 Hurricanes             50.89     x51.32  
+      23.86   27.46                                                
+ -- Morello, Lainey           14 PR                     49.58     X49.23  
+      23.45   25.78                                                
+ -- Barnett, Jane             14 PR                     46.46     X49.23  
+      22.47   26.76                                                
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Dowdell, Aden             14 PR                     42.65      39.91    5  
+      18.76   21.15                                                
+  2 Rolands, David            14 Hurricanes             40.78      40.54    3  
+      19.02   21.52                                                
+  3 Miller, Guy               13 PR                     44.90      42.50    2  
+      20.70   21.80                                                
+  4 Miller, Nicolas           14 Hurricanes             46.12      45.96    1  
+      21.31   24.65                                                
+  5 Bray, Cosmo               13 PR                     46.44     x46.82  
+      21.99   24.83                                                
+  6 Warner, Chase             13 Hurricanes             48.41     x48.79  
+      22.91   25.88                                                
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Logsdon, Kelsey           17 Hurricanes           1:05.96    1:04.55    5  
+      15.03   16.27   16.80   16.45                                
+  2 Vogelheim, Ally           18 Hurricanes           1:06.63    1:05.47    3  
+      15.11   16.57   16.67   17.12                                
+  3 Bader, Abby               15 PR                   1:16.27    1:14.13    2  
+      16.31   18.67   19.54   19.61                                
+  4 Arnone, Samantha          16 PR                   1:19.49    1:14.61    1  
+      17.12   19.00   19.43   19.06                                
+  5 Crossman, Katherine       16 PR                   1:18.45   x1:15.18  
+      17.04   19.13   20.01   19.00                                
+  6 Buckner, Hallie           17 Hurricanes           1:09.00   x1:15.80  
+      16.83   19.45   20.32   19.20                                
+ -- Georgeff, Nina            15 Hurricanes                NT   X1:11.43  
+      15.80   17.84   18.94   18.85                                
+ -- Gurvitz, Jessica          16 Hurricanes                NT   X1:12.42  
+      16.22   18.19   19.13   18.88                                
+ -- Beckerman, Eden           15 Hurricanes           1:13.05   X1:14.61  
+      16.46   18.62   19.33   20.20                                
+ -- Samson, Olivia            15 Hurricanes           1:19.25   X1:16.94  
+      16.19   18.96   20.91   20.88                                
+ -- Parent, Jacquelyn         15 Hurricanes           1:18.29   X1:21.14  
+      17.18   19.54   21.43   22.99                                
+ -- Rogers, Genevieve         15 PR                   1:25.26   X1:21.53  
+      17.84   20.43   21.64   21.62                                
+ -- Hunt, Zoe                 16 PR                   1:26.70   X1:32.80  
+      18.25   23.42   26.40   24.73                                
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cook, John                16 PR                     58.05      57.73    5  
+      13.25   14.46   15.10   14.92                                
+  2 Czarnik, Colin            15 PR                   1:05.45    1:02.59    3  
+      14.41   15.77   16.97   15.44                                
+  3 Fredal, Joey              15 Hurricanes           1:03.22    1:02.61    2  
+      14.54   15.71   16.93   15.43                                
+  4 Jacobs, Armen             17 Hurricanes           1:03.78    1:03.00    1  
+      13.85   15.71   17.12   16.32                                
+  5 Thayer, Jason             18 Hurricanes           1:05.40   x1:03.31  
+      13.77   16.09   16.72   16.73                                
+  6 Merten, Peter             15 PR                   1:07.09   x1:07.33  
+      15.28   17.13   17.80   17.12                                
+ -- Grand, David              17 Hurricanes                NT   X1:03.65  
+      13.64   15.83   16.96   17.22                                
+ -- Merten, Jack              17 PR                   1:11.65   X1:08.61  
+      16.50   17.49   17.95   16.67                                
+ -- Affer, Adam               15 Hurricanes           1:08.74   X1:09.10  
+      15.73   17.87   18.88   16.62                                
+ -- Upcott, Kevin             17 Hurricanes           1:09.43   X1:09.76  
+      15.40   17.40   18.63   18.33                                
+ -- Wedepohl, Benjamin        15 Hurricanes                NT   X1:10.11  
+      16.02   17.62   36.47                                        
+ -- Morais, Samuel            15 PR                   1:09.73   X1:10.39  
+      16.01   17.32   18.47   18.59                                
+ -- Rendleman, James          17 Hurricanes           1:11.26   X1:11.71  
+      16.10   18.41   18.85   18.35                                
+ -- Kapitan, Christian        15 Hurricanes           1:13.79   X1:13.53  
+      16.77   18.26   19.86   18.64                                
+ -- Pyykkonen, Kyle           16 PR                   1:15.40   X1:15.38  
+      17.29   18.52   19.83   19.74                                
+ -- Green, Nathan             15 Hurricanes           1:22.63   X1:20.40  
+      17.02   20.43   42.95                                        
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cavicchioli, Amelia        8 PR                     25.01      24.98    5  
+  2 Golembiewski, Ainsley      8 Hurricanes             25.45      29.35    3  
+  3 Solomon, Sophie            8 Hurricanes             31.50      31.92    2  
+  4 Fuoco, Isabella            8 PR                     34.41      33.25    1  
+  5 Jablonowski, Charlotte     8 PR                     41.71     x35.58  
+ -- Gallagher, Cassie          6 PR                        NT     X41.95  
+ -- Janelle, Shae              6 PR                     44.83     X44.24  
+ -- Ross, Evelyn               8 Hurricanes             38.84         DQ  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gallagher, Connor          8 PR                     26.37      26.69    5  
+  2 Sachs, Elliot              8 Hurricanes             34.33      30.66    3  
+  3 Murray, Evan               7 PR                     32.13      31.70    2  
+  4 Solomon, John              7 Hurricanes             35.49      34.84    1  
+  5 Zwick, Elliot              8 Hurricanes             39.90     x37.84  
+  6 Sandtveit, Gus             7 PR                   1:05.31     x42.47  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bitoff, Maryn             10 PR                     40.98      40.63    5  
+      19.55   21.08                                                
+  2 Brooks, Elle               9 Hurricanes             43.60      42.33    3  
+      21.10   21.23                                                
+  3 Mracna, Mia               10 Hurricanes             45.35      45.05    2  
+      21.87   23.18                                                
+  4 Francis, Samantha         10 PR                     51.76      47.15    1  
+      23.09   24.06                                                
+  5 Rose, Ella                 9 PR                     52.02     x49.37  
+      23.79   25.58                                                
+  6 Elder, Lily                9 Hurricanes             50.44     x52.34  
+      23.37   28.97                                                
+ -- Prisk, Avery              10 Hurricanes                NT     X48.63  
+      22.76   25.87                                                
+ -- Shepard, Allison           9 Hurricanes             52.86     X52.38  
+      24.63   27.75                                                
+ -- Roelofs, Kolbie           10 PR                     57.69     X53.41  
+      25.33   28.08                                                
+ -- Gray, Charlotte           10 Hurricanes             55.56     X56.00  
+ -- Rosenbaum, Alexis          9 Hurricanes           1:06.33     X58.22  
+ -- Metz, Harley               9 Hurricanes             55.90     X59.08  
+      29.07   30.01                                                
+ -- Anantharam, Lyla           9 Hurricanes           1:00.84     X59.26  
+      26.85   32.41                                                
+ -- Pauls, Grace               9 PR                   1:02.24   X1:00.16  
+      29.92   30.24                                                
+ -- Mlutkowski, Violet        10 Hurricanes           1:06.51   X1:00.94  
+      30.60   30.34                                                
+ -- Wahl, Charlotte            9 PR                   1:04.21   X1:02.20  
+      30.79   31.41                                                
+ -- Iverson, Abigail          10 PR                   1:07.71   X1:04.10  
+      30.40   33.70                                                
+ -- Hirschhorn, Abigail        9 Hurricanes           1:00.11   X1:04.34  
+      29.53   34.81                                                
+ -- Rohda, Paige               9 Hurricanes                NT   X1:07.71  
+      32.40   35.31                                                
+ -- Anantharam, Nora           9 Hurricanes           1:05.81   X1:07.89  
+      30.19   37.70                                                
+ -- Glibota, Ava               9 Hurricanes           1:14.98   X1:11.04  
+      32.88   38.16                                                
+ -- McCaffrey, Riley          10 PR                   1:12.08   X1:12.86  
+      36.08   36.78                                                
+ -- Morgan, Lily               9 Hurricanes                NT   X1:20.66  
+ -- Monteiro, Brynn            9 PR                   1:31.49   X1:30.01  
+ -- Platz, Olivia              9 PR                   1:34.08   X1:31.14  
+      38.09   53.05                                                
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ceuninck, Maison          10 PR                     57.60      54.21    5  
+  2 Jahnke, Luke              10 Hurricanes             54.40      54.77    3  
+      26.34   28.43                                                
+  3 Grecki, Julian             9 Hurricanes             57.97      56.42    2  
+      26.02   30.40                                                
+  4 Cooke, Theodore            9 PR                   1:02.46    1:01.41    1  
+  5 Plymale, George           10 PR                        NT   x1:06.75  
+      30.40   36.35                                                
+  6 Ford, Christian           10 PR                   1:08.09   x1:12.11  
+      34.25   37.86                                                
+ -- Danescu, Tyson            10 Hurricanes                NT     X55.80  
+      26.08   29.72                                                
+ -- Sachs, Nathaniel           9 Hurricanes                NT     X59.05  
+      28.67   30.38                                                
+ -- Van Gorder, Gabe           9 Hurricanes           1:06.61   X1:04.17  
+      30.86   33.31                                                
+ -- Birkett, Keegan           10 Hurricanes                NT   X1:06.48  
+      32.31   34.17                                                
+ -- Fineran, Colin            10 PR                   1:15.77   X1:09.89  
+      34.01   35.88                                                
+ -- Rolands, Reece            10 Hurricanes           1:16.97   X1:15.80  
+      36.48   39.32                                                
+ -- Sanborn, Jack              9 Hurricanes           1:18.77   X1:15.97  
+ -- Berg, Charlie              9 Hurricanes           1:20.20   X1:18.64  
+      42.32   36.32                                                
+ -- Heicklen, Charlie          9 Hurricanes                NT   X1:19.98  
+      38.92   41.06                                                
+ -- Murray, London            10 PR                   1:28.61   X1:22.61  
+      39.25   43.36                                                
+ -- Buick, Max                10 PR                        NT   X1:54.12  
+      54.07 1:00.05                                                
+ -- Affer, Nick               10 Hurricanes           1:03.25         DQ  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Collins, Madeline         11 Hurricanes             37.97      36.88    5  
+      16.89   19.99                                                
+  2 Pankopf, Kendall          12 Hurricanes             41.00      37.98    3  
+      16.58   21.40                                                
+  3 Purrier, Isidora          12 PR                     40.04      41.14    2  
+      19.84   21.30                                                
+  4 Soma, Sophia              12 PR                     43.24      45.88    1  
+      21.56   24.32                                                
+  5 Malkowski, Gracie         11 PR                     52.30     x49.71  
+      21.75   27.96                                                
+ -- Roelofs, Kalli            11 PR                        NT     X50.83  
+      21.48   29.35                                                
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Saltsman, Jack            12 Hurricanes             39.53      38.89    5  
+      18.00   20.89                                                
+  2 Weiner, Adin              12 Hurricanes                NT      42.63    3  
+      18.46   24.17                                                
+  3 Bray, Karl                11 PR                     46.06      46.11    2  
+      23.23   22.88                                                
+  4 Pannecouck, Ben           11 PR                     59.10    1:09.13    1  
+      30.77   38.36                                                
+ -- McNamara, Miles           11 PR                        NT   X1:05.22  
+      27.56   37.66                                                
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hamilton, Molly           14 Hurricanes             37.38      37.13    5  
+      18.66   18.47                                                
+  2 Ritter, Kylie             14 Hurricanes             38.05      38.30    3  
+      18.78   19.52                                                
+  3 Collins, Kerrigan         14 PR                     40.10      39.39    2  
+      19.18   20.21                                                
+  4 Sims, Sophia              14 Hurricanes             42.00     x40.24  
+      19.34   20.90                                                
+  5 Rose, Alyssa              13 PR                     44.07      43.55    1  
+      21.66   21.89                                                
+  6 Wischman, Katherine       13 PR                     45.12     x45.75  
+      22.33   23.42                                                
+ -- Owens, Sophie             13 PR                     45.25     X43.81  
+      21.67   22.14                                                
+ -- Rendleman, Isabella       14 Hurricanes             46.56     X44.70  
+      21.67   23.03                                                
+ -- Grenier, Tanis            13 PR                     46.44     X46.37  
+      22.49   23.88                                                
+ -- Horwitz, Amanda           14 Hurricanes             49.74     X49.48  
+      23.83   25.65                                                
+ -- Batcheller, Meredith      14 Hurricanes                NT     X50.30  
+      24.41   25.89                                                
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Wisniewski, Oliver        14 Hurricanes             35.01      34.72    5  
+  2 Dowdell, Aden             14 PR                     37.76      36.53    3  
+      18.41   18.12                                                
+  3 Curtin, Brady             14 PR                     37.76      38.49    2  
+      19.15   19.34                                                
+  4 Drouillard, Chase         14 PR                     42.83     x41.12  
+      19.81   21.31                                                
+  5 Wismer, Luke              14 Hurricanes             44.33      46.97    1  
+      22.25   24.72                                                
+  6 Turner, Miles             13 Hurricanes             47.50     x48.78  
+      23.39   25.39                                                
+ -- Fredal, Ben               13 Hurricanes                NT     X42.26  
+      20.48   21.78                                                
+ -- Bowden, John              13 PR                     46.44     X46.49  
+      22.24   24.25                                                
+ -- Czapski, Brendan          13 Hurricanes             50.26     X51.16  
+      23.48   27.68                                                
+ -- Greenwald, Noah           13 Hurricanes                NT     X57.42  
+      26.86   30.56                                                
+ -- London, Noah              14 PR                   1:06.20     X58.62  
+      28.22   30.40                                                
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Logsdon, Kelsey           17 Hurricanes           1:22.00    1:17.47    5  
+      15.81   20.19   23.55   17.92                                
+  2 Vogelheim, Ally           18 Hurricanes           1:21.00    1:17.93    3  
+      16.33   20.80   23.58   17.22                                
+  3 Scully, Brynne            15 PR                   1:18.47    1:22.13    2  
+      16.93   21.42   25.88   17.90                                
+  4 Graham, Erin              15 PR                   1:23.60    1:24.26    1  
+      17.87   22.96   26.29   17.14                                
+  5 Gurvitz, Jessica          16 Hurricanes           1:25.62   x1:24.31  
+      17.47   23.83   24.35   18.66                                
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hamilton, Jack            15 Hurricanes           1:02.49    1:01.54    5  
+      13.09   15.09   19.19   14.17                                
+  2 Veasey, LaVaughn          15 PR                   1:08.38    1:09.81    3  
+      13.15   16.76   21.32   18.58                                
+  3 Georgeff, Andrew          17 Hurricanes           1:14.24    1:12.51    2  
+      14.14   19.99   21.89   16.49                                
+  4 Carpenter, Ian            15 Hurricanes           1:11.05   x1:12.60  
+      15.26   18.72   21.30   17.32                                
+  5 Czarnik, Colin            15 PR                   1:18.15    1:18.11    1  
+      15.01   20.75   25.38   16.97                                
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 McNamara, Ella             8 PR                     33.25      31.10    5  
+  2 Knudson, Olivia            7 PR                     34.56      33.86    3  
+  3 Janelle, Rowan             8 PR                     33.63     x34.44  
+  4 Mcevoy, Ainsley            8 Hurricanes             38.32      37.34    2  
+  5 Samuelson, Allegra         8 Hurricanes             37.13      40.22    1  
+  6 Levine, Mia                7 Hurricanes             49.51     x43.92  
+ -- Bolach, Samantha           7 PR                        NT     X33.61  
+ -- Jablonowski, Charlotte     8 PR                        NT     X38.61  
+ -- Zywicki, Natalia           8 PR                     39.63     X41.20  
+ -- Pontes, Sylvia             7 PR                        NT     X41.50  
+ -- Pontes, Nadia              7 PR                     52.01     X51.05  
+ -- Marvar, Harper             7 PR                   1:07.31     X51.87  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Zwick, Elliot              8 Hurricanes             41.43      39.44    5  
+  2 Sandtveit, Gus             7 PR                        NT      48.00    3  
+  3 Koehler, Desmond           7 PR                     39.18      56.22    2  
+ -- Leonard, Harrison          7 PR                     40.88         DQ  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bitoff, Maryn             10 PR                     39.38      38.43    5  
+      18.68   19.75                                                
+  2 Conti, Hannah             10 Hurricanes             38.43      38.64    3  
+      18.95   19.69                                                
+  3 Scully, Sloan             10 PR                     37.70      38.89    2  
+      19.34   19.55                                                
+  4 Pankopf, Mackenzie        10 Hurricanes             38.49      39.13    1  
+      19.11   20.02                                                
+  5 Brooks, Elle               9 Hurricanes             38.83     x40.27  
+      19.63   20.64                                                
+  6 Roelofs, Kolbie           10 PR                     48.40     x46.18  
+      20.74   25.44                                                
+ -- Spurgeon, Ruby            10 Hurricanes             41.03     X39.49  
+      19.42   20.07                                                
+ -- Prisk, Avery              10 Hurricanes                NT     X42.51  
+      19.72   22.79                                                
+ -- Guerra, Ava                9 Hurricanes             42.64     X42.62  
+      20.33   22.29                                                
+ -- Saltsman, Tatum           10 Hurricanes             44.28     X43.87  
+      21.20   22.67                                                
+ -- Rusk, Devon                9 Hurricanes             49.70     X46.97  
+      22.02   24.95                                                
+ -- Ross, Sadie               10 Hurricanes             46.43     X47.41  
+      22.85   24.56                                                
+ -- Marchak, Sydney            9 PR                        NT     X48.14  
+      21.74   26.40                                                
+ -- Krauskoff, Brigette       10 Hurricanes             46.12     X48.41  
+      22.12   26.29                                                
+ -- Shepard, Allison           9 Hurricanes             47.84     X48.49  
+      23.14   25.35                                                
+ -- Pauls, Grace               9 PR                     52.60     X50.48  
+      24.56   25.92                                                
+ -- Metz, Harley               9 Hurricanes             50.84     X51.00  
+      23.18   27.82                                                
+ -- Warner, Emerson           10 Hurricanes                NT     X52.42  
+      25.07   27.35                                                
+ -- Jones, Rhea                9 PR                     57.15     X52.54  
+      24.05   28.49                                                
+ -- Gray, Charlotte           10 Hurricanes             49.74     X52.92  
+      24.18   28.74                                                
+ -- Zwick, Madelyn            10 Hurricanes             51.42     X53.09  
+      25.27   27.82                                                
+ -- Peters, Stella             9 Hurricanes             53.59     X53.36  
+      23.52   29.84                                                
+ -- Anantharam, Lyla           9 Hurricanes             52.37     X53.38  
+      25.21   28.17                                                
+ -- Rosenbaum, Alexis          9 Hurricanes             52.39     X53.93  
+ -- Frankel, Molly            10 Hurricanes             56.13     X55.68  
+      26.89   28.79                                                
+ -- Wahl, Charlotte            9 PR                     58.32     X57.51  
+      27.08   30.43                                                
+ -- Iverson, Abigail          10 PR                     59.64     X59.21  
+      27.61   31.60                                                
+ -- Rohda, Paige               9 Hurricanes                NT     X59.77  
+      26.55   33.22                                                
+ -- Anantharam, Nora           9 Hurricanes           1:08.00   X1:00.27  
+      27.43   32.84                                                
+ -- Platz, Olivia              9 PR                   1:15.79   X1:03.00  
+      29.59   33.41                                                
+ -- Glibota, Ava               9 Hurricanes             59.91   X1:03.01  
+      30.04   32.97                                                
+ -- Levine, Marni              9 Hurricanes                NT   X1:05.28  
+      29.13   36.15                                                
+ -- Morgan, Lily               9 Hurricanes                NT   X1:10.00  
+ -- Anderson, Kaison           9 PR                   1:12.53   X1:10.71  
+ -- Mlutkowski, Violet        10 Hurricanes             47.43   X1:16.83  
+      39.17   37.66                                                
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Citron, Levi              10 Hurricanes             45.00      39.61    5  
+      18.89   20.72                                                
+  2 Murray, Jack              10 PR                     40.89      40.31    3  
+      20.05   20.26                                                
+  3 Lambert, Denny             9 PR                     48.80      49.06    2  
+      24.47   24.59                                                
+  4 Conti, Alex               10 Hurricanes             49.15      51.56    1  
+      23.29   28.27                                                
+  5 Birkett, Keegan           10 Hurricanes             49.80     x51.67  
+      26.92   24.75                                                
+  6 Ceuninck, Maison          10 PR                     48.78     x52.99  
+      23.81   29.18                                                
+ -- Danescu, Tyson            10 Hurricanes                NT     X49.73  
+      23.08   26.65                                                
+ -- Grecki, Julian             9 Hurricanes             55.33     X52.51  
+ -- Jahnke, Luke              10 Hurricanes             56.76     X54.09  
+      24.49   29.60                                                
+ -- Plymale, George           10 PR                     57.05     X55.43  
+      26.85   28.58                                                
+ -- Sachs, Nathaniel           9 Hurricanes           1:04.80     X58.04  
+      27.11   30.93                                                
+ -- Heicklen, Charlie          9 Hurricanes                NT   X1:00.62  
+      29.89   30.73                                                
+ -- Affer, Nick               10 Hurricanes           1:09.45   X1:03.86  
+      30.06   33.80                                                
+ -- Fineran, Colin            10 PR                   1:11.18   X1:04.00  
+      31.19   32.81                                                
+ -- Samoray, Max              10 PR                   1:05.42   X1:04.03  
+      29.31   34.72                                                
+ -- Van Gorder, Gabe           9 Hurricanes           1:03.44   X1:04.37  
+      30.01   34.36                                                
+ -- Rolands, Reece            10 Hurricanes           1:06.42   X1:04.63  
+      29.02   35.61                                                
+ -- Berg, Charlie              9 Hurricanes           1:04.25   X1:06.07  
+ -- Cantor, Robert             9 Hurricanes                NT   X1:09.47  
+ -- Sanborn, Jack              9 Hurricanes           1:11.46   X1:11.08  
+ -- Murray, London            10 PR                   1:09.42   X1:14.63  
+      34.23   40.40                                                
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Pankopf, Kendall          12 Hurricanes             44.55      44.48    5  
+      20.42   24.06                                                
+  2 Horwitz, Alana            12 Hurricanes             44.66      44.90    3  
+      20.45   24.45                                                
+  3 Forsyth, Natalie          12 PR                     50.48      47.67    2  
+      22.57   25.10                                                
+  4 Kraniak, Raquel           12 PR                     48.50      47.96    1  
+      23.13   24.83                                                
+  5 Barnett, Sarah            12 PR                     51.11     x49.26  
+      23.79   25.47                                                
+  6 Peters, Claire            11 Hurricanes             54.92     x53.19  
+      23.83   29.36                                                
+ -- Morais, Sonni             12 PR                     51.38     X51.68  
+      24.39   27.29                                                
+ -- Toma, Marlen              12 Hurricanes                NT     X52.11  
+      23.79   28.32                                                
+ -- Rolands, Ashley           12 Hurricanes             55.47     X53.83  
+      25.52   28.31                                                
+ -- Masters, Willow           12 PR                     54.15     X54.00  
+      25.79   28.21                                                
+ -- Mlutkowski, Amelia        12 Hurricanes             57.33     X54.85  
+      25.94   28.91                                                
+ -- Nischan, Vega             11 PR                   1:11.34   X1:11.78  
+      32.58   39.20                                                
+ -- Lerner, Liat              11 Hurricanes           1:19.66   X1:21.85  
+      35.98   45.87                                                
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Foreman, Nicholas         12 PR                     43.97      41.81    5  
+      19.66   22.15                                                
+  2 Olson, Aidan              12 Hurricanes             44.12      42.06    3  
+      19.62   22.44                                                
+  3 Prisby, Nicholas          11 Hurricanes             49.06      50.22    2  
+      22.71   27.51                                                
+  4 Bray, Karl                11 PR                     50.04      51.49    1  
+      26.33   25.16                                                
+  5 Arnone, Dominik           12 PR                     52.50     x51.97  
+      23.35   28.62                                                
+  6 Urikh, Spencer            12 Hurricanes           1:00.00     x54.59  
+      25.24   29.35                                                
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Scully, Bryce             13 PR                     29.80      30.28    5  
+      14.72   15.56                                                
+  2 Robert, Reagan            14 Hurricanes             32.65      31.04    3  
+      15.03   16.01                                                
+  3 Spurgeon, Mary            14 Hurricanes             33.09      32.81    2  
+      16.08   16.73                                                
+  4 Owens, Sophie             13 PR                     34.72      33.97    1  
+      16.33   17.64                                                
+  5 Francis, Chloe            14 PR                     34.53     x34.30  
+      16.44   17.86                                                
+  6 Sims, Sophia              14 Hurricanes             34.50     x36.03  
+      17.24   18.79                                                
+ -- Ritter, Kylie             14 Hurricanes             35.44     X33.88  
+      16.18   17.70                                                
+ -- Shepherd, Emily           14 Hurricanes             35.44     X36.13  
+      17.93   18.20                                                
+ -- Rendleman, Isabella       14 Hurricanes             41.63     X37.08  
+      17.81   19.27                                                
+ -- Guerra, Isabel            13 Hurricanes             39.56     X38.34  
+      18.49   19.85                                                
+ -- Grenier, Tanis            13 PR                     40.57     X38.71  
+      18.40   20.31                                                
+ -- Morello, Lainey           14 PR                     38.57     X39.77  
+      18.93   20.84                                                
+ -- Horwitz, Amanda           14 Hurricanes             41.70     X40.33  
+      19.29   21.04                                                
+ -- Batcheller, Meredith      14 Hurricanes                NT     X48.01  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ross, Joshua              14 Hurricanes             28.25      29.01    5  
+      14.10   14.91                                                
+  2 Papadopoulos, Alex        13 Hurricanes                NT      30.98    3  
+      15.33   15.65                                                
+  3 Laidlaw, Connor           13 PR                     32.08      31.95    2  
+      15.08   16.87                                                
+  4 Drouillard, Chase         14 PR                     34.14      33.23    1  
+      16.35   16.88                                                
+  5 Bowden, John              13 PR                     34.72     x34.86  
+  6 Fredal, Ben               13 Hurricanes                NT     x35.42  
+      16.91   18.51                                                
+ -- Miller, Nicolas           14 Hurricanes             39.30     X36.86  
+      18.59   18.27                                                
+ -- Khirallah, Andrew         14 Hurricanes                NT     X40.35  
+      19.57   20.78                                                
+ -- Czapski, Brendan          13 Hurricanes             40.98     X41.64  
+      19.82   21.82                                                
+ -- London, Noah              14 PR                     46.26     X42.73  
+      19.64   23.09                                                
+ -- Greenwald, Noah           13 Hurricanes                NT     X49.33  
+      22.91   26.42                                                
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Oal, Hale'                15 Hurricanes             30.25      30.29    5  
+      14.20   16.09                                                
+  2 Momblanco, Hannah         17 Hurricanes             32.99      32.37    3  
+      15.03   17.34                                                
+  3 Emmi, Mary                17 PR                     34.17      34.61    2  
+      16.05   18.56                                                
+  4 Beckerman, Eden           15 Hurricanes             34.28     x34.76  
+      15.68   19.08                                                
+  5 Graham, Erin              15 PR                     34.71      36.64    1  
+      16.92   19.72                                                
+ -- Georgeff, Nina            15 Hurricanes                NT     X36.13  
+      17.26   18.87                                                
+ -- Carlesso, Sophia          18 Hurricanes             35.97     X36.43  
+      17.13   19.30                                                
+ -- Samson, Olivia            15 Hurricanes                NT     X37.55  
+      17.23   20.32                                                
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Carpenter, Evan           18 Hurricanes             28.21      28.39    5  
+      13.12   15.27                                                
+  2 Cook, John                16 PR                     28.48      28.50    3  
+      13.36   15.14                                                
+  3 Solecki, Mason            16 PR                     29.06      28.72    2  
+      13.61   15.11                                                
+  4 Thayer, Jason             18 Hurricanes             29.30      29.00    1  
+      13.52   15.48                                                
+  5 Georgeff, Andrew          17 Hurricanes             30.08     x30.32  
+      13.84   16.48                                                
+  6 Merten, Peter             15 PR                     36.33     x37.19  
+      17.03   20.16                                                
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                2:39.21    2:22.79    8  
+     1) Snavely, Alden M9               2) Conti, Hannah W10              
+     3) Pankopf, Mackenzie W10          4) Quisling, Alexa W11            
+       16.56    34.06    18.13    38.26    17.12    37.00    15.48    33.47
+  2 Pleasant Ridge  'A'                               2:38.17    2:38.05    4  
+     1) Scully, Sloan W10               2) Foreman, Nicholas M12          
+     3) Gallagher, Connor M8            4) Murray, Jack M10               
+       18.51    39.13    17.85    37.97    18.26                           
+  3 Pleasant Ridge  'B'                               3:07.15   x3:09.65  
+     1) Roelofs, Kolbie W10             2) Lambert, Denny M9              
+     3) Pauls, Grace W9                 4) Soma, Sophia W12               
+       20.74    51.04    19.39    45.34             57.99    16.22    35.28
+  4 Huntington Woods Aquatic Club  'B'                     NT   x3:18.68  
+     1) Mcevoy, Sloane W11              2) Guerra, Ava W9                 
+     3) Shepard, Allison W9             4) Shepherd, Elise W11            
+       22.02                               19.17    41.10  1:06.20         
+  5 Huntington Woods Aquatic Club  'C'                     NT   x3:22.77  
+     1) Krauskoff, Brigette W10         2) Ross, Sadie W10                
+     3) Mlutkowski, Violet W10          4) Gray, Charlotte W10            
+       20.92    46.71    22.63    55.41    21.31                           
+  6 Pleasant Ridge  'C'                               3:35.66   x3:38.70  
+     1) Arnone, Dominik M12             2) Wahl, Charlotte W9             
+     3) Cooke, Theodore M9              4) Plymale, George M10            
+       19.12    43.97    26.63  1:04.18    23.58    54.56    55.99         
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                2:41.30    2:49.64    8  
+     1) Brooks, Elle W9                 2) Mracna, Mia W10                
+     3) Collins, Madeline W11           4) Spurgeon, Ruby W10             
+       21.23    45.53    20.17    45.16    16.88    38.42    19.44    40.53
+  2 Pleasant Ridge  'A'                               3:10.46    3:03.56    4  
+     1) Bitoff, Maryn W10               2) Francis, Samantha W10          
+     3) Rose, Ella W9                   4) Cavicchioli, Amelia W8         
+       20.24    42.45    24.68    51.63    20.02    45.63    20.77    43.85
+  3 Huntington Woods Aquatic Club  'C'                     NT   x3:38.17  
+     1) Metz, Harley W9                 2) Peters, Claire W11             
+     3) Rusk, Devon W9                  4) Baker, Eleanor W11             
+       27.21    59.44    24.42    55.79    24.50  1:07.00    12.07    35.94
+  4 Huntington Woods Aquatic Club  'B'                     NT   x3:42.41  
+     1) Clemence, Sophie W11            2) Elder, Lily W9                 
+     3) Saltsman, Tatum W10             4) Conti, Alex M10                
+       27.10    57.27    28.33  1:03.57    22.48    56.49    17.17    45.08
+  5 Pleasant Ridge  'B'                               3:26.74   x3:46.42  
+     1) Ceuninck, Maison M10            2) Monteiro, Brynn W9             
+     3) Foreman, Chantal W10            4) Roelofs, Kalli W11             
+       26.64    56.48    30.44  1:09.44    27.38  1:01.74    18.58    38.76
+  6 Pleasant Ridge  'C'                               3:55.25   x3:54.13  
+     1) Ford, Christian M10             2) Samoray, Max M10               
+     3) Buick, Scarlett W11             4) Jones, Rhea W9                 
+       35.90  1:15.70    25.75    58.57    17.87    47.39    21.97    52.47
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                2:18.64    2:21.64    8  
+     1) Oal, Hale' 15                   2) Grand, Elisha 14               
+     3) Pugh, Lucy 11                   4) Robert, Emerson 12             
+       16.66    33.82    20.09    42.70    15.17    33.19    15.24    31.93
+  2 Pleasant Ridge  'A'                               2:24.75    2:23.89    4  
+     1) Czarnik, Rebecca 12             2) Pund, Lucy 13                  
+     3) Scully, Bryce 13                4) Graham, Erin 15                
+       19.22    38.30    18.86    41.11    14.94    32.85    15.05    31.63
+  3 Huntington Woods Aquatic Club  'B'                     NT   x2:34.22  
+     1) Ritter, Kylie 14                2) Horwitz, Alana 12              
+     3) Hamilton, Molly 14              4) Pankopf, Kendall 12            
+       19.61    39.32    20.43    44.68    15.99                           
+  4 Pleasant Ridge  'B'                               2:42.90   x2:47.12  
+     1) Rose, Alyssa 13                 2) Collins, Kerrigan 14           
+     3) Purrier, Isidora 12             4) Owens, Sophie 13               
+       22.12    44.40    20.43    45.54    19.54    41.09    17.46    36.09
+  5 Huntington Woods Aquatic Club  'C'                     NT   x2:51.67  
+     1) Solomon, Theresa 11             2) Shepherd, Emily 14             
+     3) Beckerman, Eden 15              4) Rolands, Ashley 12             
+       22.20    50.86    20.24    45.94    15.75    34.72    19.57    40.15
+  6 Pleasant Ridge  'C'                                    NT   x2:55.98  
+     1) Wischman, Katherine 13          2) Kraniak, Raquel 12             
+     3) Barnett, Sarah 12               4) Barnett, Jane 14               
+       22.44    48.82    18.29    43.92    19.66    43.61    18.66    39.63
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                     NT    2:25.14    8  
+     1) Saltsman, Jack 12               2) Olson, Aidan 12                
+     3) Ross, Joshua 14                 4) Wisniewski, Oliver 14          
+       20.72    44.19    17.20    39.94    14.00    31.47    29.54         
+  2 Pleasant Ridge  'A'                               2:38.45    2:32.07    4  
+     1) Dowdell, Aden 14                2) Bray, Karl 11                  
+     3) Laidlaw, Connor 13              4) Curtin, Brady 14               
+       18.41    36.67    25.84    50.78    15.29    35.44    13.78    29.18
+  3 Huntington Woods Aquatic Club  'B'                     NT   x2:34.02  
+     1) Weiner, Adin 12                 2) Rolands, David 14              
+     3) Affer, Adam 15                  4) Prisby, Nicholas 11            
+       21.91    45.86    17.08    38.18    14.28    31.82    17.84    38.16
+  4 Pleasant Ridge  'B'                               2:50.74   x2:43.76  
+     1) Miller, Guy 13                  2) Bray, Cosmo 13                 
+     3) Strong, Kyle 14                 4) Francis, Charlie 12            
+       22.90    45.85    20.91    45.34    16.51    37.43    17.03    35.14
+  5 Pleasant Ridge  'C'                               3:04.35   x3:11.73  
+     1) Plymale, Walter 12              2) Drouillard, Chase 14           
+     3) Bowden, John 13                 4) McNamara, Miles 11             
+       23.35    50.08    19.96    43.64    22.16    48.55    21.98    49.46
+  6 Huntington Woods Aquatic Club  'C'                     NT   x3:16.98  
+     1) Wismer, Luke 14                 2) Warner, Chase 13               
+     3) Turner, Miles 13                4) Oal, Ethan 12                  
+       22.26    49.02    22.09    49.72    21.08    54.38    20.24    43.86
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                     NT    2:00.02    8  
+     1) Logsdon, Kelsey 17              2) Momblanco, Hannah 17           
+     3) Vogelheim, Ally 18              4) Robert, Reagan 14              
+       14.19    29.45    13.84    29.58    14.13    29.85    14.73    31.14
+  2 Pleasant Ridge  'A'                               2:11.19    2:11.40    4  
+     1) Oster, Evie 15                  2) Scully, Brynne 15              
+     3) Bader, Abby 15                  4) Emmi, Mary 17                  
+       16.39    34.07    15.74    33.53    15.74    33.19    14.79    30.61
+  3 Huntington Woods Aquatic Club  'B'                     NT   x2:13.21  
+     1) Spurgeon, Mary 14               2) Carlesso, Sophia 18            
+     3) Gurvitz, Jessica 16             4) Buckner, Hallie 17             
+       16.37    33.59    16.78    34.52    15.20    32.54    15.45    32.56
+  4 Huntington Woods Aquatic Club  'C'                     NT   x2:23.37  
+     1) Samson, Olivia 15               2) Saltsman, Carly 15             
+     3) Georgeff, Nina 15               4) Parent, Jacquelyn 15           
+       16.72    34.98    19.27    40.31    13.85    31.09    17.66    36.99
+  5 Pleasant Ridge  'B'                               2:20.62   x2:23.58  
+     1) Harris, Mia 15                  2) Crossman, Katherine 16         
+     3) Francis, Chloe 14               4) Arnone, Samantha 16            
+       17.04    35.66    18.45    39.29    16.63    35.38    16.05    33.25
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                1:46.31    1:44.84    8  
+     1) Carpenter, Evan 18              2) Thayer, Jason 18               
+     3) Carpenter, Ian 15               4) Hamilton, Jack 15              
+       12.58    26.59    12.50    26.69    12.84    26.94    11.62    24.62
+  2 Pleasant Ridge  'A'                               1:50.53    1:49.67    4  
+     1) Veasey, LaVaughn 15             2) Czarnik, Colin 15              
+     3) Solecki, Mason 16               4) Cook, John 16                  
+       12.82    26.79    13.72    28.80    12.74    26.71    13.13    27.37
+  3 Huntington Woods Aquatic Club  'B'                     NT   x1:50.74  
+     1) Georgeff, Andrew 17             2) Jacobs, Armen 17               
+     3) Grand, David 17                 4) Fredal, Joey 15                
+       13.20    27.49    12.79    27.48    12.78    27.08    13.78    28.69
+  4 Pleasant Ridge  'B'                               2:15.60   x2:05.27  
+     1) Pyykkonen, Kyle 16              2) Gibson, Aidan 16               
+     3) Needham, Bailey 15              4) Merten, Peter 15               
+       16.21    33.45    13.91    29.86    14.80    31.01    15.27    30.95
+  5 Huntington Woods Aquatic Club  'C'                     NT   x2:06.60  
+     1) Upcott, Kevin 17                2) Rendleman, James 17            
+     3) Wedepohl, Benjamin 15           4) Green, Nathan 15               
+       14.77    30.76    15.66    32.68    14.69    30.12    15.22    33.04

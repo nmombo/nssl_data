@@ -1,0 +1,1030 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Eberhardt, Kaitlyn        11 Sharks                 38.86      37.58    5  
+  2 Quisling, Alexa           11 Hurricanes             43.00      37.66    3  
+  3 Brown, Ava                12 Sharks                 39.86      39.49    2  
+  4 Robert, Emerson           12 Hurricanes             41.00      40.54    1  
+  5 Miller, Delaney           12 Sharks                 43.32      40.77  
+  6 Rayo, Annalia             11 Hurricanes             45.00      42.25  
+ -- Klintworth, Ashley        12 Sharks                 47.61     X40.88  
+ -- Shreffler, Kiera          12 Sharks                 45.92     X46.06  
+ -- Erickson, Gillian H       12 Sharks                 47.71     X46.51  
+ -- Wagner, Baity             11 Sharks                 47.32     X46.93  
+ -- Ceaser, Nadia             12 Hurricanes                NT     X46.96  
+ -- Law, Avery                12 Sharks                 50.49     X47.03  
+ -- Heller, Claire            11 Sharks                 46.78     X47.09  
+ -- Boyle, Norah              11 Sharks                 47.78     X47.14  
+ -- Solomon, Theresa          11 Hurricanes                NT     X49.38  
+ -- Agbay, Audrey             11 Sharks                 49.14     X50.79  
+ -- Beatty, Emma              11 Sharks                 53.64     X51.15  
+ -- Bentley, Charlotte        11 Sharks                 54.37     X51.46  
+ -- Francis, Ella             12 Hurricanes                NT     X51.98  
+ -- Zacklan, Olivia           12 Hurricanes                NT     X54.02  
+ -- Toma, Marlen              12 Hurricanes                NT     X54.32  
+ -- Baker, Eleanor            11 Hurricanes                NT     X55.21  
+ -- Goldstein, Olivia         11 Hurricanes                NT     X57.10  
+ -- Czapski, Maya             11 Hurricanes                NT     X57.97  
+ -- Mcevoy, Sloane            11 Hurricanes                NT   X1:00.75  
+ -- Zwick, Emma               12 Hurricanes                NT   X1:04.94  
+ -- Schindler, Madeleine      11 Hurricanes                NT   X1:08.80  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Saltsman, Jack            12 Hurricanes             44.00      41.30    5  
+  2 Heller, Arnot             12 Sharks                 43.02      42.48    3  
+  3 Weiner, Adin              12 Hurricanes             56.00      43.44    2  
+  4 Gaggos, Anthony           11 Sharks                 44.53      44.89    1  
+  5 Prisby, Nicholas          11 Hurricanes             58.00      48.20  
+  6 Gates, Charlie            12 Sharks                    NT      49.08  
+  7 Benavente, Emilio         11 Sharks                 49.29      51.08  
+ -- Marutz, Zachary           12 Hurricanes                NT     X52.72  
+ -- Just, William             11 Hurricanes                NT     X57.31  
+ -- O'Connor, Zach            11 Sharks               1:05.96     X57.88  
+ -- Moore, Phineas            11 Hurricanes                NT   X1:01.67  
+ -- Jorrey, Ethan             11 Sharks               1:06.94   X1:01.86  
+ -- Urikh, Spencer            12 Hurricanes                NT   X1:02.66  
+ -- Bullock, Benjamin         11 Hurricanes                NT   X1:07.46  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Grand, Elisha             14 Hurricanes           1:18.00    1:17.60    5  
+  2 Grake, Stella A           13 Sharks               1:22.38    1:19.69    3  
+  3 Spurgeon, Mary            14 Hurricanes           1:24.00    1:26.22    2  
+  4 Brown, Carley             13 Sharks               1:32.84    1:28.60    1  
+  5 Palm, Emily               14 Sharks               1:26.73    1:28.64  
+  6 Gurvitz, Abigail          14 Hurricanes           1:28.00    1:33.83  
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Duncan, Ian               14 Sharks               1:08.12    1:09.24    5  
+  2 Moriarty, Dimitri         13 Sharks               1:11.69    1:13.59    3  
+  3 Rolands, David            14 Hurricanes           1:20.00    1:18.81    2  
+  4 Bell, Alex                14 Sharks               1:29.98    1:28.69  
+  5 Warner, Chase             13 Hurricanes           1:36.00    1:35.22    1  
+  6 Wismer, Luke              14 Hurricanes           1:38.00    1:35.42  
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ruprich, Ellie            16 Sharks                 37.37      37.61    5  
+  2 Izydorek, Josephine       15 Sharks                 35.51      38.36    3  
+  3 Momblanco, Hannah         17 Hurricanes             38.00      38.46    2  
+  4 Warnica, Jocelyn          17 Sharks                 36.15      38.61  
+  5 Carlesso, Sophia          18 Hurricanes             39.00      39.95    1  
+  6 Gurvitz, Jessica          16 Hurricanes             43.00      44.09  
+ -- Warnica, Lily             15 Sharks                 40.11     X42.44  
+ -- Saltsman, Carly           15 Hurricanes                NT     X43.91  
+ -- Schaefer, Reilly          16 Sharks                 44.63     X44.88  
+ -- Meilinger, Elsie          15 Sharks                    NT     X48.27  
+ -- Samson, Olivia            15 Hurricanes                NT     X49.63  
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Carpenter, Evan           18 Hurricanes             31.00      32.11    5  
+  2 Carpenter, Ian            15 Hurricanes             36.00      35.61    3  
+  3 Gucciardo, Alex           15 Sharks                 34.85      36.69    2  
+  4 Grand, David              17 Hurricanes             39.00      38.29  
+  5 Meilinger, Charlie        16 Sharks                 43.43      41.85    1  
+  6 Hamady, Alec              16 Sharks                    NT      43.38  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Calver, Samantha           8 Sharks                 27.71      24.37    5  
+  2 Solomon, Sophie            8 Hurricanes             26.00      24.43    3  
+  3 Golembiewski, Ainsley      8 Hurricanes             30.00      26.64    2  
+  4 Davis, Kenzie              8 Sharks                 30.99      28.53    1  
+  5 Gutman, Sydney             8 Hurricanes             31.00      30.06  
+  6 Nelson, Isabel             8 Sharks                 29.48      31.95  
+ -- Byrd, Marian               7 Sharks                 34.17     X28.91  
+ -- Rickard, Olivia            8 Hurricanes                NT     X31.20  
+ -- Welbourne, Whitney         8 Sharks                    NT     X31.41  
+ -- Krumm, Grace               7 Sharks                    NT     X32.16  
+ -- George, Sammy              7 Sharks                 34.50     X32.40  
+ -- Bradley, Claire            8 Hurricanes                NT     X33.15  
+ -- Brooks, Emerson            6 Hurricanes                NT     X33.49  
+ -- Luxon, Kennadi             5 Sharks                 37.03     X33.49  
+ -- Barnett, Helena            8 Hurricanes                NT     X33.57  
+ -- Anderson, Layla            6 Sharks                 33.68     X33.71  
+ -- Rubin, Ceila               8 Hurricanes                NT     X34.01  
+ -- Makar, Audrey              6 Sharks                    NT     X34.67  
+ -- Groth, Reese               5 Sharks                    NT     X34.84  
+ -- Smart, Chloe               8 Hurricanes                NT     X36.56  
+ -- Quisling, Riley            8 Hurricanes                NT     X36.97  
+ -- Sumnicht, Emma             7 Hurricanes                NT     X37.10  
+ -- Dolgin, Sydney             8 Hurricanes                NT     X37.45  
+ -- Gorbatoff, Sophie          8 Sharks                 40.90     X39.38  
+ -- Stayer, Matilda            7 Hurricanes                NT     X39.54  
+ -- Stilger, Jovie             8 Hurricanes                NT     X40.49  
+ -- Kahn, Courtney             6 Sharks                 49.77     X41.20  
+ -- Jorrey, Ella               8 Sharks                 39.29     X43.09  
+ -- Levine, Cailey             7 Hurricanes                NT     X43.30  
+ -- Wesolowski, Olivia         6 Sharks                 52.64     X43.41  
+ -- Heicklen, Elena            7 Hurricanes                NT     X45.85  
+ -- Lusk, Charlotte            7 Sharks               1:02.13     X46.45  
+ -- Weber, Sara                7 Sharks                    NT     X46.73  
+ -- Mcevoy, Keira              8 Hurricanes                NT     X46.75  
+ -- King, Isla                 7 Sharks                    NT     X51.31  
+ -- Schwarzer, Liana           6 Hurricanes                NT     X58.40  
+ -- Griggs, Abby               7 Sharks                 55.01   X1:06.32  
+ -- Sullivan, Paige            5 Sharks                    NT   X1:07.04  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Drinkert, Charlie          8 Sharks                 25.11      24.83    5  
+  2 Solomon, John              7 Hurricanes             33.00      27.32    3  
+  3 O'Brien, Jake              8 Sharks                 29.07      29.58    2  
+  4 Tiseo, Alexander           7 Sharks                 32.04      31.74  
+  5 Jeffrey, Quinn             6 Hurricanes             36.00      37.79    1  
+  6 Jahnke, Jack               8 Hurricanes             38.00      45.00  
+ -- Wilker, Jack               7 Sharks               1:01.86     X23.50  
+ -- Mracna, Cal                7 Hurricanes                NT     X31.16  
+ -- Hurbis, Owen               7 Sharks                 53.51     X33.55  
+ -- MacDonell, Owen            7 Sharks                 39.89     X34.38  
+ -- Klintworth, Brennan        7 Sharks                 35.35     X34.90  
+ -- O'Connor, Danny            8 Sharks                 36.62     X35.40  
+ -- Donovan, Luke              6 Sharks                 39.50     X35.62  
+ -- Metz, Sebastian            6 Sharks                 37.09     X35.78  
+ -- Metz, Oliver               6 Sharks                 37.90     X36.14  
+ -- Reemmer, Zander            6 Sharks                 38.05     X36.21  
+ -- Robinson, Lachlan          7 Sharks                 37.15     X38.39  
+ -- Berg, Zachary              7 Hurricanes                NT     X39.07  
+ -- Olson, Asher               7 Hurricanes                NT     X40.03  
+ -- Drummond, Ollie            8 Sharks                 36.01     X40.31  
+ -- Calver, Charlie            7 Sharks                 40.12     X41.15  
+ -- Kessler, Elijah            7 Sharks                 43.43     X41.72  
+ -- Metz, Julien               5 Sharks                 57.47     X41.74  
+ -- Dare, Seamus               7 Hurricanes                NT     X42.21  
+ -- Vella, Michael             6 Sharks               1:05.61     X43.54  
+ -- Helmick, Carter            6 Sharks                 38.71     X43.58  
+ -- Wesolowski, Owen           8 Sharks                 39.84     X44.42  
+ -- MacKenzie, Charles         6 Sharks                 42.99     X44.57  
+ -- Boyle, Callahan            7 Sharks                 49.25     X46.54  
+ -- Dean, Jackson              7 Sharks               1:02.11     X51.01  
+ -- Morgan, Benjamin           6 Hurricanes                NT     X53.51  
+ -- St Andrew, James           6 Sharks                 58.93     X55.17  
+ -- O'Brien, Drew              6 Sharks                 57.97     X56.50  
+ -- Bloink, Christian          7 Sharks                 53.46     X57.32  
+ -- Dare, Sean                 6 Hurricanes                NT   X1:02.33  
+ -- Heller, Theodore           6 Sharks               2:15.93   X1:20.79  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Glime, Ashley             10 Sharks                 40.17      42.88    5  
+  2 Pankopf, Mackenzie        10 Hurricanes             53.00      44.81    3  
+  3 Conti, Hannah             10 Hurricanes             50.00      46.49    2  
+  4 Borovich, Leksie          10 Sharks                 55.92      50.26    1  
+  5 Heller, Jillian            9 Sharks                 56.27      53.25  
+ -- Saltsman, Tatum           10 Hurricanes                NT     X47.93  
+ -- Rusk, Devon                9 Hurricanes                NT     X55.17  
+ -- Ross, Sadie               10 Hurricanes                NT     X57.14  
+ -- Mountain, Matilda         10 Hurricanes                NT     X57.45  
+ -- Guerra, Ava                9 Hurricanes             55.00         DQ  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Grake, Oliver              9 Sharks                 37.46      37.00    5  
+  2 Snavely, Alden             9 Hurricanes             41.00      40.24    3  
+  3 Sloan, Ryan               10 Sharks                 45.19      44.13    2  
+  4 Griggs, Callan             9 Sharks                 51.65      55.38  
+  5 Golembiewski, Noah        10 Hurricanes           1:04.00    1:01.61    1  
+  6 Sachs, Nathaniel           9 Hurricanes           1:06.00    1:10.55  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Eberhardt, Kaitlyn        11 Sharks                 32.27      32.07    5  
+  2 Robert, Emerson           12 Hurricanes             34.00      32.68    3  
+  3 Zammit, India             12 Sharks                 35.90      34.17    2  
+  4 Miller, Delaney           12 Sharks                 35.55      34.39  
+  5 Pankopf, Kendall          12 Hurricanes             35.00      34.58    1  
+  6 Rayo, Annalia             11 Hurricanes             37.00      36.45  
+ -- Klintworth, Ashley        12 Sharks                 38.53     X35.09  
+ -- Shreffler, Kiera          12 Sharks                 36.98     X37.00  
+ -- Agbay, Audrey             11 Sharks                 37.64     X37.27  
+ -- Rolands, Ashley           12 Hurricanes                NT     X39.37  
+ -- Ceaser, Nadia             12 Hurricanes                NT     X39.41  
+ -- Fairman, Hannah           11 Hurricanes                NT     X39.41  
+ -- Boyle, Norah              11 Sharks                 39.83     X40.08  
+ -- Law, Avery                12 Sharks                 42.15     X40.43  
+ -- Erickson, Gillian H       12 Sharks                 41.12     X40.46  
+ -- Wagner, Baity             11 Sharks                 39.96     X40.56  
+ -- Shepherd, Elise           11 Hurricanes                NT     X41.32  
+ -- Bentley, Charlotte        11 Sharks                 47.45     X43.56  
+ -- Clemence, Sophie          11 Hurricanes                NT     X43.87  
+ -- Chandler, Emily           12 Hurricanes                NT     X44.14  
+ -- Heller, Claire            11 Sharks                 42.80     X44.35  
+ -- Baker, Eleanor            11 Hurricanes                NT     X45.91  
+ -- Kolwich, Nicole           12 Sharks                 49.16     X46.34  
+ -- Beatty, Emma              11 Sharks                 49.14     X46.74  
+ -- Mlutkowski, Amelia        12 Hurricanes                NT     X47.14  
+ -- Peters, Claire            11 Hurricanes                NT     X47.26  
+ -- Solomon, Theresa          11 Hurricanes                NT     X47.78  
+ -- Mcevoy, Sloane            11 Hurricanes                NT     X48.02  
+ -- Schindler, Madeleine      11 Hurricanes                NT     X48.37  
+ -- Toma, Marlen              12 Hurricanes                NT     X49.51  
+ -- Zacklan, Olivia           12 Hurricanes                NT     X49.56  
+ -- Francis, Ella             12 Hurricanes                NT     X52.72  
+ -- Zwick, Emma               12 Hurricanes                NT     X53.40  
+ -- Goldstein, Olivia         11 Hurricanes                NT     X56.46  
+ -- Czapski, Maya             11 Hurricanes                NT     X56.82  
+ -- Lerner, Liat              11 Hurricanes                NT   X1:07.96  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Weiss, Nick A             12 Sharks                 33.85      34.80    5  
+  2 Heller, Arnot             12 Sharks                 37.07      35.76    3  
+  3 Weiner, Adin              12 Hurricanes             43.00      36.18    2  
+  4 Danaher, Owen             11 Hurricanes             37.00      36.49    1  
+  5 Betanzo, Vincent          11 Sharks                 40.56      37.17  
+  6 Oal, Ethan                12 Hurricanes             42.00      40.60  
+  7 Gates, Charlie            12 Sharks                    NT      41.88  
+ -- Nelson, Cullen            11 Sharks                 40.97     X43.36  
+ -- Marutz, Zachary           12 Hurricanes                NT     X43.89  
+ -- Benavente, Emilio         11 Sharks                 44.36     X46.81  
+ -- O'Connor, Zach            11 Sharks                 53.63     X47.51  
+ -- Jorrey, Ethan             11 Sharks                 49.09     X48.24  
+ -- Moore, Phineas            11 Hurricanes                NT     X52.34  
+ -- Urikh, Spencer            12 Hurricanes                NT     X54.15  
+ -- Just, William             11 Hurricanes                NT     X56.77  
+ -- Bullock, Benjamin         11 Hurricanes                NT     X59.92  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Grand, Elisha             14 Hurricanes             34.00      33.48    5  
+  2 DeGrendel, Lindsey E      14 Sharks                 37.31      34.95    3  
+  3 Hamilton, Molly           14 Hurricanes             35.00      36.23    2  
+  4 Robert, Reagan            14 Hurricanes             38.00      36.50  
+  5 Auten, Alexis             13 Sharks                 40.71      37.58    1  
+  6 Hurley, Ava               13 Sharks                 42.15      39.97  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ross, Joshua              14 Hurricanes             33.00      31.22    5  
+  2 Gorbatoff, Gray           14 Sharks                 32.78      32.49    3  
+  3 Ruprich, Drew             14 Sharks                 35.98      34.08    2  
+  4 Keane, Colin              13 Sharks                 37.50      39.85  
+  5 Turner, Miles             13 Hurricanes             45.00      49.88    1  
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Helmick, Madison          15 Sharks                 31.87      33.05    5  
+  2 Thome, Marissa            16 Sharks                 31.91      33.46    3  
+  3 Thome, Sarah              17 Sharks                 32.58      35.78  
+  4 Vogelheim, Ally           18 Hurricanes             38.00      37.29    2  
+  5 Logsdon, Kelsey           17 Hurricanes             36.00      37.81    1  
+  6 Parent, Jacquelyn         15 Hurricanes             41.00      40.75  
+ -- Gaggos, Kalli             15 Sharks                 37.49     X36.68  
+ -- Meilinger, Elsie          15 Sharks                 41.14     X41.83  
+ -- Hamady, Mika              17 Sharks                 40.82     X43.56  
+ -- Bell, Julia               17 Sharks                 42.41     X43.86  
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hamilton, Jack            15 Hurricanes             29.00      29.61    5  
+  2 Hiipakka, Brody           16 Sharks                 32.70      35.04    3  
+  3 Fredal, Joey              15 Hurricanes             38.00      35.98    2  
+  4 Jacobs, Armen             17 Hurricanes             36.00      36.35  
+  5 Hamady, Alec              16 Sharks                    NT      37.42  
+  6 Meilinger, Charlie        16 Sharks                 39.70      39.65    1  
+  7 Gucciardo, Andrew         15 Sharks                    NT      45.48  
+ -- Upcott, Kevin             17 Hurricanes                NT     X35.21  
+ -- Rendleman, James          17 Hurricanes                NT     X40.48  
+ -- Kapitan, Christian        15 Hurricanes                NT     X40.53  
+ -- Green, Nathan             15 Hurricanes                NT     X42.39  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Calver, Samantha           8 Sharks                 20.39      19.51    5  
+  2 Drinkert, Amelia           7 Sharks                 21.33      22.39    3  
+  3 Nelson, Isabel             8 Sharks                 25.94      27.10  
+  4 Gutman, Sydney             8 Hurricanes             29.00      28.30    2  
+  5 Samuelson, Allegra         8 Hurricanes             33.00      30.14    1  
+  6 Ross, Evelyn               8 Hurricanes             30.00      30.32  
+ -- Davis, Kenzie              8 Sharks                 27.89     X25.59  
+ -- Welbourne, Whitney         8 Sharks                    NT     X26.65  
+ -- Bradley, Claire            8 Hurricanes                NT     X26.97  
+ -- Mcevoy, Ainsley            8 Hurricanes                NT     X27.36  
+ -- Gorbatoff, Sophie          8 Sharks                 30.79     X28.30  
+ -- George, Sammy              7 Sharks                 31.19     X29.99  
+ -- Barnett, Helena            8 Hurricanes                NT     X30.07  
+ -- Stilger, Jovie             8 Hurricanes                NT     X30.55  
+ -- Byrd, Marian               7 Sharks                 31.55     X30.78  
+ -- Makar, Audrey              6 Sharks                    NT     X30.79  
+ -- Brooks, Emerson            6 Hurricanes                NT     X30.99  
+ -- Sumnicht, Emma             7 Hurricanes                NT     X31.23  
+ -- Krumm, Grace               7 Sharks                    NT     X31.23  
+ -- Smart, Chloe               8 Hurricanes                NT     X31.32  
+ -- Groth, Reese               5 Sharks                    NT     X31.52  
+ -- Rubin, Ceila               8 Hurricanes                NT     X32.70  
+ -- Mcevoy, Keira              8 Hurricanes                NT     X32.87  
+ -- Quisling, Riley            8 Hurricanes                NT     X32.99  
+ -- Rickard, Olivia            8 Hurricanes                NT     X34.30  
+ -- Stayer, Matilda            7 Hurricanes                NT     X34.42  
+ -- Jorrey, Ella               8 Sharks                 38.68     X36.23  
+ -- Dolgin, Sydney             8 Hurricanes                NT     X36.51  
+ -- Luxon, Kennadi             5 Sharks                 46.48     X37.72  
+ -- Kahn, Courtney             6 Sharks                 41.83     X38.06  
+ -- Anderson, Layla            6 Sharks                 50.47     X38.41  
+ -- Wesolowski, Olivia         6 Sharks                 57.42     X39.03  
+ -- Weber, Sara                7 Sharks                    NT     X39.22  
+ -- Zammit, Amelia             7 Sharks                 43.19     X41.26  
+ -- Sullivan, Paige            5 Sharks                    NT     X41.52  
+ -- Lusk, Charlotte            7 Sharks                 38.96     X43.15  
+ -- Levine, Cailey             7 Hurricanes                NT     X45.37  
+ -- Griggs, Abby               7 Sharks                 44.61     X45.37  
+ -- Heicklen, Elena            7 Hurricanes                NT     X46.40  
+ -- King, Isla                 7 Sharks                    NT     X52.50  
+ -- Levine, Mia                7 Hurricanes                NT     X52.85  
+ -- Schwarzer, Liana           6 Hurricanes                NT     X53.48  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Reemmer, Kolya             8 Sharks                 19.50      19.75    5  
+  2 Sachs, Elliot              8 Hurricanes             24.00      21.79    3  
+  3 O'Brien, Jake              8 Sharks                 23.15      22.67    2  
+  4 Drummond, Ollie            8 Sharks                 26.77      27.95  
+  5 Jeffrey, Quinn             6 Hurricanes             32.00      29.14    1  
+  6 Mracna, Cal                7 Hurricanes             34.00      29.25  
+ -- Tiseo, Alexander           7 Sharks                 28.31     X26.03  
+ -- Metz, Sebastian            6 Sharks                 31.76     X27.37  
+ -- O'Connor, Danny            8 Sharks                 29.95     X27.41  
+ -- Wesolowski, Owen           8 Sharks                 27.75     X28.31  
+ -- Klintworth, Brennan        7 Sharks                 32.68     X28.63  
+ -- MacDonell, Owen            7 Sharks                 31.37     X29.12  
+ -- Berg, Zachary              7 Hurricanes                NT     X29.26  
+ -- Robinson, Lachlan          7 Sharks                 27.67     X31.01  
+ -- Donovan, Luke              6 Sharks                 31.31     X31.24  
+ -- Boyle, Callahan            7 Sharks                 31.93     X31.57  
+ -- Hurbis, Owen               7 Sharks                 42.70     X31.85  
+ -- Calver, Charlie            7 Sharks                 39.89     X31.98  
+ -- Haratsaris, Attis          7 Sharks                 32.58     X32.41  
+ -- Metz, Oliver               6 Sharks                 36.47     X34.56  
+ -- Olson, Asher               7 Hurricanes                NT     X37.12  
+ -- Dare, Seamus               7 Hurricanes                NT     X37.97  
+ -- MacKenzie, Charles         6 Sharks                 38.98     X38.59  
+ -- Helmick, Carter            6 Sharks                 37.20     X39.59  
+ -- Jahnke, Jack               8 Hurricanes                NT     X41.57  
+ -- Wilker, Jack               7 Sharks                 43.83     X42.77  
+ -- St Andrew, James           6 Sharks                 40.97     X44.62  
+ -- Morgan, Benjamin           6 Hurricanes                NT     X46.28  
+ -- Dare, Sean                 6 Hurricanes                NT     X47.24  
+ -- Kessler, Elijah            7 Sharks                 40.53     X47.25  
+ -- Vella, Michael             6 Sharks               1:02.36     X47.70  
+ -- Bloink, Christian          7 Sharks                 46.03     X47.85  
+ -- Reemmer, Zander            6 Sharks                 43.83     X47.93  
+ -- Metz, Julien               5 Sharks                 55.80     X48.21  
+ -- O'Brien, Drew              6 Sharks                 45.11     X50.46  
+ -- Heller, Theodore           6 Sharks               1:12.06     X57.73  
+ -- Dean, Jackson              7 Sharks               1:12.25     X59.02  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Mracna, Mia               10 Hurricanes             51.00      48.17    5  
+  2 Glime, Ashley             10 Sharks                 49.27      50.37    3  
+  3 Heller, Jillian            9 Sharks                 52.18      50.98    2  
+  4 Spurgeon, Ruby            10 Hurricanes             57.00      55.38    1  
+  5 Drummond, Mackenzie        9 Sharks               1:01.18      56.96  
+  6 Jeffrey, Isabel            9 Hurricanes             58.00    1:00.78  
+ -- Bussa, Olivia              9 Sharks               1:02.11     X55.71  
+ -- Benavides, Sophia         10 Sharks               1:02.81     X55.91  
+ -- Wright, Cameron           10 Sharks               1:05.14   X1:02.34  
+ -- Champion, Ella            10 Sharks               1:05.77   X1:06.35  
+ -- Boyle, Elsie               9 Sharks               1:09.75   X1:09.99  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Snavely, Alden             9 Hurricanes             46.00      42.75    5  
+  2 Drinkert, Jack             9 Sharks                 53.64      52.35    3  
+  3 Bailey, Michael            9 Sharks                 56.01      54.28    2  
+  4 Helmick, Jackson          10 Sharks                 55.81      55.99  
+  5 Conti, Alex               10 Hurricanes           1:08.00    1:03.16    1  
+  6 Birkett, Keegan           10 Hurricanes           1:11.00    1:06.00  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Pugh, Lucy                11 Hurricanes           1:23.00    1:17.84    5  
+  2 Ruggirello, Bella G       12 Sharks               1:19.80    1:18.44    3  
+  3 O'Brien, Ally K           12 Sharks               1:26.36    1:20.89    2  
+  4 Horwitz, Alana            12 Hurricanes           1:26.00    1:26.75    1  
+  5 Duncan, Sylvia            11 Sharks               1:36.51    1:32.22  
+  6 Collins, Madeline         11 Hurricanes           1:32.00    1:32.38  
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Olson, Aidan              12 Hurricanes           1:36.00    1:23.89    5  
+  2 Kusiak, Brock             12 Sharks               1:34.75    1:28.76    3  
+  3 Weiss, Nick A             12 Sharks               1:31.44    1:33.84    2  
+  4 George, Spencer           12 Sharks                    NT    1:35.09  
+  5 Olson, Luke               12 Hurricanes           1:41.00    1:39.23    1  
+  6 Oal, Ethan                12 Hurricanes           1:44.00    1:56.06  
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Grake, Stella A           13 Sharks                 40.19      39.18    5  
+  2 McLaughlin, Delphine      13 Sharks                 46.07      44.85    3  
+  3 MacKenzie, Caitlin S      14 Sharks                 47.26      45.01  
+  4 Shepherd, Emily           14 Hurricanes             44.00      45.83    2  
+  5 Gurvitz, Abigail          14 Hurricanes             45.00      46.62    1  
+  6 Guerra, Isabel            13 Hurricanes             53.00      50.89  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Moriarty, Dimitri         13 Sharks                 34.52      34.31    5  
+  2 Ruprich, Eric             14 Sharks                 39.75      38.89    3  
+  3 Kaye, Carson              14 Sharks                 41.39      40.33  
+  4 Rolands, David            14 Hurricanes             41.00      40.78    2  
+  5 Miller, Nicolas           14 Hurricanes             50.00      46.12    1  
+  6 Warner, Chase             13 Hurricanes             48.00      48.41  
+ -- Richardson, Chase         14 Sharks                 44.31     X42.61  
+ -- Meilinger, Matt           13 Sharks                 42.72     X43.79  
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Helmick, Madison          15 Sharks               1:05.00    1:02.74    5  
+  2 Logsdon, Kelsey           17 Hurricanes           1:04.00    1:05.96    3  
+  3 McNally, Kelsey           18 Sharks               1:02.82    1:06.37    2  
+  4 Vogelheim, Ally           18 Hurricanes           1:06.00    1:06.63    1  
+  5 Izydorek, Josephine       15 Sharks               1:06.00    1:07.55  
+  6 Beckerman, Eden           15 Hurricanes           1:12.00    1:13.05  
+ -- Ruprich, Ellie            16 Sharks               1:06.68   X1:07.56  
+ -- McNally, Reagan           18 Sharks               1:15.59   X1:13.80  
+ -- Parent, Jacquelyn         15 Hurricanes                NT   X1:18.29  
+ -- Hutchison, Ally           15 Sharks                    NT   X1:18.39  
+ -- Samson, Olivia            15 Hurricanes                NT   X1:19.25  
+ -- Cook, Ellie               15 Sharks                    NT   X1:20.86  
+ -- Schaefer, Reilly          16 Sharks               1:19.75   X1:22.00  
+ -- Hamady, Mika              17 Sharks               1:21.14   X1:22.93  
+ -- Bell, Julia               17 Sharks               1:21.55   X1:23.30  
+ -- Ceaser, Mia               15 Hurricanes                NT   X1:23.65  
+ -- Mercurio, Alexandra       15 Sharks                    NT   X1:23.73  
+ -- McLaughlin, Elodie        15 Sharks                    NT   X1:25.77  
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hupp, Graham              17 Sharks               1:01.51    1:01.42    5  
+  2 Fredal, Joey              15 Hurricanes           1:06.00    1:03.22    3  
+  3 Jacobs, Armen             17 Hurricanes           1:05.00    1:03.78    2  
+  4 Thayer, Jason             18 Hurricanes           1:02.00    1:05.40  
+  5 Gucciardo, Andrew         15 Sharks                    NT    1:30.26    1  
+ -- Affer, Adam               15 Hurricanes                NT   X1:08.74  
+ -- Upcott, Kevin             17 Hurricanes                NT   X1:09.43  
+ -- Rendleman, James          17 Hurricanes                NT   X1:11.26  
+ -- Kapitan, Christian        15 Hurricanes                NT   X1:13.79  
+ -- Green, Nathan             15 Hurricanes                NT   X1:22.63  
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Drinkert, Lucy             8 Sharks                 26.04      22.96    5  
+  2 Golembiewski, Ainsley      8 Hurricanes             32.00      25.45    3  
+  3 Drinkert, Amelia           7 Sharks                 27.11      28.26    2  
+  4 Solomon, Sophie            8 Hurricanes             31.00      31.50    1  
+  5 Ross, Evelyn               8 Hurricanes             34.00      38.84  
+  6 Glime, Mary                8 Sharks                 41.34      40.50  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Reemmer, Kolya             8 Sharks                 24.82      24.08    5  
+  2 Karmol, Sullivan           8 Sharks                 35.88      30.97    3  
+  3 Sachs, Elliot              8 Hurricanes             33.00      34.33    2  
+  4 Solomon, John              7 Hurricanes             34.00      35.49    1  
+  5 Zwick, Elliot              8 Hurricanes             36.00      39.90  
+  6 Bussa, Alexander           7 Sharks                 36.60    1:03.22  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Brooks, Elle               9 Hurricanes             48.00      43.60    5  
+  2 Mracna, Mia               10 Hurricanes             50.00      45.35    3  
+  3 Donovan, Alexis            9 Sharks                 52.02      46.54    2  
+  4 Eberhardt, Kamryn          9 Sharks                 51.78      51.47    1  
+  5 Shepard, Allison           9 Hurricanes             58.00      52.86  
+  6 Borovich, Leksie          10 Sharks                 54.73      54.16  
+ -- Elder, Lily                9 Hurricanes                NT     X50.44  
+ -- Wright, Cameron           10 Sharks                 58.08     X52.50  
+ -- Horner, Audrey            10 Hurricanes                NT     X55.04  
+ -- Kusiak, Blakely            9 Sharks               1:08.65     X55.20  
+ -- Luxon, Camryn              9 Sharks                 57.76     X55.37  
+ -- Gray, Charlotte           10 Hurricanes                NT     X55.56  
+ -- Metz, Harley               9 Hurricanes                NT     X55.90  
+ -- Krauskoff, Brigette       10 Hurricanes                NT     X57.29  
+ -- Benavente, Gabrielle       9 Sharks               1:03.53     X57.29  
+ -- Joseph, Jillian            9 Sharks                 58.94     X58.50  
+ -- Molloy, McKenna            9 Sharks                    NT     X58.80  
+ -- Hirschhorn, Abigail        9 Hurricanes                NT   X1:00.11  
+ -- Tiseo, Gemma               9 Sharks               1:11.47   X1:00.20  
+ -- Lim, Isla                  9 Sharks               1:06.91   X1:00.43  
+ -- Anantharam, Lyla           9 Hurricanes                NT   X1:00.84  
+ -- Levine, Marni              9 Hurricanes                NT   X1:02.12  
+ -- Peters, Stella             9 Hurricanes                NT   X1:04.12  
+ -- Quinn, Annabelle          10 Sharks               1:04.49   X1:04.32  
+ -- Frankel, Molly            10 Hurricanes                NT   X1:05.66  
+ -- Anantharam, Nora           9 Hurricanes                NT   X1:05.81  
+ -- Rosenbaum, Alexis          9 Hurricanes                NT   X1:06.33  
+ -- Mlutkowski, Violet        10 Hurricanes                NT   X1:06.51  
+ -- O'Gorman, Callyn           9 Sharks                    NT   X1:07.48  
+ -- Racco, Nadia               9 Sharks               1:09.34   X1:08.46  
+ -- Brodjeski, Ella           10 Sharks               1:07.46   X1:09.03  
+ -- Zwick, Madelyn            10 Hurricanes                NT   X1:10.92  
+ -- King, Emma                 9 Sharks               1:22.13   X1:11.01  
+ -- Karmol, Sawyer             9 Sharks               1:26.19   X1:13.65  
+ -- Murray, Olivia             9 Hurricanes                NT   X1:14.49  
+ -- Glibota, Ava               9 Hurricanes                NT   X1:14.98  
+ -- Feinberg, Noa              9 Hurricanes                NT   X1:28.91  
+ -- Miller, Jessalyn          10 Hurricanes                NT   X1:34.41  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Drinkert, Jack             9 Sharks                 46.57      46.76    5  
+  2 Helmick, Jackson          10 Sharks                 48.95      50.64    3  
+  3 O'Callaghan, Liam         10 Sharks                 54.07      52.75  
+  4 Jahnke, Luke              10 Hurricanes           1:00.00      54.40    2  
+  5 Grecki, Julian             9 Hurricanes             59.00      57.97    1  
+  6 Sanborn, Jack              9 Hurricanes           1:05.00    1:18.77  
+ -- Haratsaris, Niko           9 Sharks               1:04.20     X52.58  
+ -- Kaye, Jake                 9 Sharks               1:03.91     X57.18  
+ -- Borovich, Fisher          10 Sharks                 57.20     X58.85  
+ -- Affer, Nick               10 Hurricanes                NT   X1:03.25  
+ -- Labarre, Weston            9 Sharks               1:05.96   X1:03.53  
+ -- Robinson, Rhys             9 Sharks               1:06.91   X1:03.63  
+ -- Van Gorder, Gabe           9 Hurricanes                NT   X1:06.61  
+ -- Lassen, Duke               9 Sharks               1:08.14   X1:07.72  
+ -- Kahn, Lukas                9 Sharks               1:16.59   X1:11.97  
+ -- Rolands, Reece            10 Hurricanes                NT   X1:16.97  
+ -- Berg, Charlie              9 Hurricanes                NT   X1:20.20  
+ -- Law, Gibson                9 Sharks               1:30.56   X1:20.76  
+ -- Cantor, Robert             9 Hurricanes                NT   X1:22.47  
+ -- Gates, Tommy               9 Sharks                    NT   X1:31.20  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Pugh, Lucy                11 Hurricanes             35.00      34.87    5  
+  2 Ruggirello, Bella G       12 Sharks                 36.02      35.50    3  
+  3 O'Brien, Ally K           12 Sharks                 37.96      37.81    2  
+  4 Collins, Madeline         11 Hurricanes             40.00      37.97    1  
+  5 Quisling, Alexa           11 Hurricanes             41.00      40.16  
+  6 Brown, Ava                12 Sharks                 40.54      42.57  
+ -- Fairman, Hannah           11 Hurricanes                NT     X45.36  
+ -- Clemence, Sophie          11 Hurricanes                NT     X55.25  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Saltsman, Jack            12 Hurricanes             38.00      39.53    5  
+  2 Kusiak, Brock             12 Sharks                 43.40      39.80    3  
+  3 Wright, Evan              12 Sharks                 44.61      41.92    2  
+  4 Betanzo, Vincent          11 Sharks                 52.42      44.99  
+  5 Danaher, Owen             11 Hurricanes             46.00      51.93    1  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hamilton, Molly           14 Hurricanes             39.00      37.38    5  
+  2 Hurley, Ava               13 Sharks                 36.38      37.50    3  
+  3 Ritter, Kylie             14 Hurricanes             38.00      38.05    2  
+  4 Auten, Alexis             13 Sharks                 38.17      39.20    1  
+  5 Brown, Carley             13 Sharks                 42.11      42.06  
+  6 Newman, Rikki             13 Hurricanes             48.00      46.79  
+ -- Benavides, Mikayla        13 Sharks                 42.64     X40.74  
+ -- Wooldridge, Alyssa        13 Sharks                 46.98     X45.80  
+ -- George, Elizabeth         14 Sharks                    NT     X46.47  
+ -- Rendleman, Isabella       14 Hurricanes                NT     X46.56  
+ -- Horwitz, Amanda           14 Hurricanes                NT     X49.74  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Duncan, Ian               14 Sharks                 31.37      31.29    5  
+  2 Wisniewski, Oliver        14 Hurricanes             35.00      35.01    3  
+  3 Ruprich, Eric             14 Sharks                 38.45      37.56  
+  4 Sazgari, Kevin            13 Sharks                 39.92      37.67    2  
+  5 Wismer, Luke              14 Hurricanes             46.00      44.33    1  
+  6 Turner, Miles             13 Hurricanes             48.00      47.50  
+ -- Quinn, Jackson            13 Sharks                 44.02     X40.92  
+ -- Richardson, Chase         14 Sharks                    NT     X42.30  
+ -- Evangelista, Lucio        14 Sharks                    NT     X42.54  
+ -- Goodwin, Luke             14 Sharks                    NT     X43.64  
+ -- Czapski, Brendan          13 Hurricanes                NT     X50.26  
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Oal, Hale'                15 Hurricanes           1:14.00    1:10.11    5  
+  2 Izydorek, Pauline         15 Sharks               1:11.46    1:10.29    3  
+  3 Thome, Marissa            16 Sharks               1:12.05    1:12.54    2  
+  4 Warnica, Jocelyn          17 Sharks               1:14.50    1:17.20  
+  5 Gurvitz, Jessica          16 Hurricanes           1:25.00    1:25.62    1  
+  6 Saltsman, Carly           15 Hurricanes           1:28.00    1:29.62  
+ -- Gaggos, Kalli             15 Sharks               1:16.54   X1:20.15  
+ -- Warnica, Lily             15 Sharks               1:20.87   X1:21.81  
+ -- McNally, Reagan           18 Sharks               1:24.75   X1:23.55  
+ -- Hutchison, Ally           15 Sharks               1:38.91   X1:34.61  
+ -- McLaughlin, Elodie        15 Sharks                    NT   X1:40.24  
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hamilton, Jack            15 Hurricanes           1:04.00    1:02.49    5  
+  2 Carpenter, Ian            15 Hurricanes           1:11.00    1:11.05    3  
+  3 Gucciardo, Alex           15 Sharks               1:10.76    1:13.19    2  
+  4 Georgeff, Andrew          17 Hurricanes           1:13.00    1:14.24  
+  5 Klintworth, David         13 Sharks                    NT    1:30.99    1  
+  6 Warrow, Aaron             17 Hurricanes                NT    1:46.75  
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Drinkert, Lucy             8 Sharks                 27.26      26.86    5  
+  2 Glime, Mary                8 Sharks                 33.54      34.96    3  
+  3 Samuelson, Allegra         8 Hurricanes             36.00      37.13    2  
+  4 Mcevoy, Ainsley            8 Hurricanes             41.00      38.32    1  
+  5 Zammit, Amelia             7 Sharks                 42.02      38.57  
+  6 Levine, Mia                7 Hurricanes             53.00      49.51  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Drinkert, Charlie          8 Sharks                 27.68      27.38    5  
+  2 Bussa, Alexander           7 Sharks                 34.28      37.30    3  
+  3 Karmol, Sullivan           8 Sharks                 39.36      40.12  
+  4 Zwick, Elliot              8 Hurricanes             39.00      41.43    2  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Conti, Hannah             10 Hurricanes             38.00      38.43    5  
+  2 Brooks, Elle               9 Hurricanes             37.00      38.83    3  
+  3 Eberhardt, Kamryn          9 Sharks                 42.65      39.01    2  
+  4 Spurgeon, Ruby            10 Hurricanes             43.00      41.03  
+  5 Drummond, Mackenzie        9 Sharks                 46.37      43.14    1  
+  6 Donovan, Alexis            9 Sharks                 47.09      45.41  
+  7 O'Gorman, Callyn           9 Sharks                    NT    1:11.10  
+ -- Levine, Marni              9 Hurricanes                NT      X2.08  
+ -- Pankopf, Mackenzie        10 Hurricanes                NT     X38.49  
+ -- Guerra, Ava                9 Hurricanes                NT     X42.64  
+ -- Elder, Lily                9 Hurricanes                NT     X44.10  
+ -- Saltsman, Tatum           10 Hurricanes                NT     X44.28  
+ -- Krauskoff, Brigette       10 Hurricanes                NT     X46.12  
+ -- Bussa, Olivia              9 Sharks                 48.34     X46.28  
+ -- Ross, Sadie               10 Hurricanes                NT     X46.43  
+ -- Mlutkowski, Violet        10 Hurricanes                NT     X47.43  
+ -- Shepard, Allison           9 Hurricanes                NT     X47.84  
+ -- Benavides, Sophia         10 Sharks                 51.31     X48.18  
+ -- Horner, Audrey            10 Hurricanes                NT     X48.67  
+ -- Mountain, Matilda         10 Hurricanes                NT     X48.80  
+ -- Rusk, Devon                9 Hurricanes                NT     X49.70  
+ -- Gray, Charlotte           10 Hurricanes                NT     X49.74  
+ -- Kusiak, Blakely            9 Sharks                 57.22     X50.01  
+ -- Champion, Ella            10 Sharks                 50.54     X50.39  
+ -- Benavente, Gabrielle       9 Sharks                 52.46     X50.84  
+ -- Metz, Harley               9 Hurricanes                NT     X50.84  
+ -- Luxon, Camryn              9 Sharks                 56.55     X51.08  
+ -- Zwick, Madelyn            10 Hurricanes                NT     X51.42  
+ -- Anantharam, Lyla           9 Hurricanes                NT     X52.37  
+ -- Rosenbaum, Alexis          9 Hurricanes                NT     X52.39  
+ -- Peters, Stella             9 Hurricanes                NT     X53.59  
+ -- Joseph, Jillian            9 Sharks                 56.63     X53.62  
+ -- Brodjeski, Ella           10 Sharks                 55.71     X54.80  
+ -- Molloy, McKenna            9 Sharks                    NT     X56.01  
+ -- Frankel, Molly            10 Hurricanes                NT     X56.13  
+ -- Quinn, Annabelle          10 Sharks                 55.14     X56.60  
+ -- Lim, Isla                  9 Sharks                 59.07     X56.90  
+ -- Glibota, Ava               9 Hurricanes                NT     X59.91  
+ -- Boyle, Elsie               9 Sharks               1:03.13   X1:00.35  
+ -- Tiseo, Gemma               9 Sharks               1:08.92   X1:01.10  
+ -- Karmol, Sawyer             9 Sharks               1:11.49   X1:02.62  
+ -- Murray, Olivia             9 Hurricanes                NT   X1:03.26  
+ -- Racco, Nadia               9 Sharks               1:03.16   X1:05.19  
+ -- Hirschhorn, Abigail        9 Hurricanes                NT   X1:05.62  
+ -- Anantharam, Nora           9 Hurricanes                NT   X1:08.00  
+ -- King, Emma                 9 Sharks               1:20.04   X1:08.42  
+ -- Miller, Jessalyn          10 Hurricanes                NT   X1:17.12  
+ -- Feinberg, Noa              9 Hurricanes                NT   X1:24.03  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Grake, Oliver              9 Sharks                 34.27      33.18    5  
+  2 O'Callaghan, Liam         10 Sharks                 41.38      39.80    3  
+  3 Sloan, Ryan               10 Sharks                 39.53      45.09  
+  4 Grecki, Julian             9 Hurricanes             49.00      55.33    2  
+  5 Sachs, Nathaniel           9 Hurricanes             48.00    1:04.80    1  
+  6 Sanborn, Jack              9 Hurricanes             52.00    1:11.46  
+ -- Borovich, Fisher          10 Sharks                 45.50     X44.10  
+ -- Bailey, Michael            9 Sharks               1:02.25     X44.19  
+ -- Griggs, Callan             9 Sharks                 44.68     X44.71  
+ -- Haratsaris, Niko           9 Sharks                 49.44     X45.43  
+ -- Golembiewski, Noah        10 Hurricanes                NT     X48.61  
+ -- Conti, Alex               10 Hurricanes                NT     X49.15  
+ -- Birkett, Keegan           10 Hurricanes                NT     X49.80  
+ -- Labarre, Weston            9 Sharks                 52.09     X52.17  
+ -- Kaye, Jake                 9 Sharks                 57.14     X52.93  
+ -- Jahnke, Luke              10 Hurricanes                NT     X56.76  
+ -- Lassen, Duke               9 Sharks               1:03.46     X57.27  
+ -- Robinson, Rhys             9 Sharks               1:06.86     X59.28  
+ -- Kahn, Lukas                9 Sharks               1:05.49   X1:02.38  
+ -- Van Gorder, Gabe           9 Hurricanes                NT   X1:03.44  
+ -- Berg, Charlie              9 Hurricanes                NT   X1:04.25  
+ -- Rolands, Reece            10 Hurricanes                NT   X1:06.42  
+ -- Law, Gibson                9 Sharks               1:18.46   X1:08.22  
+ -- Gates, Tommy               9 Sharks                    NT   X1:08.46  
+ -- Affer, Nick               10 Hurricanes                NT   X1:09.45  
+ -- Cantor, Robert             9 Hurricanes                NT   X1:09.60  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Zammit, India             12 Sharks                 41.28      41.05    5  
+  2 Duncan, Sylvia            11 Sharks                 45.04      44.10    3  
+  3 Pankopf, Kendall          12 Hurricanes             45.00      44.55    2  
+  4 Horwitz, Alana            12 Hurricanes             44.00      44.66    1  
+  5 Kolwich, Nicole           12 Sharks                 52.17      52.98  
+  6 Peters, Claire            11 Hurricanes             53.00      54.92  
+ -- Rolands, Ashley           12 Hurricanes                NT     X55.47  
+ -- Chandler, Emily           12 Hurricanes                NT     X57.22  
+ -- Mlutkowski, Amelia        12 Hurricanes                NT     X57.33  
+ -- Shepherd, Elise           11 Hurricanes                NT   X1:03.67  
+ -- Lerner, Liat              11 Hurricanes                NT   X1:19.66  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Olson, Aidan              12 Hurricanes             48.00     J44.12    5  
+  2 Wright, Evan              12 Sharks                 43.90     J44.91    3  
+  3 Prisby, Nicholas          11 Hurricanes             55.00     J49.06    2  
+  4 Olson, Luke               12 Hurricanes             52.00     J49.91  
+  5 Gaggos, Anthony           11 Sharks                 50.06     J49.87    1  
+  6 Nelson, Cullen            11 Sharks                 52.14      55.18  
+ -- George, Spencer           12 Sharks                 52.90     X49.35  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 DeGrendel, Lindsey E      14 Sharks                 31.25      30.46    5  
+  2 Robert, Reagan            14 Hurricanes             34.00      32.65    3  
+  3 Spurgeon, Mary            14 Hurricanes             33.00      33.09    2  
+  4 McLaughlin, Delphine      13 Sharks                 32.83      33.27    1  
+  5 Palm, Emily               14 Sharks                 34.93      33.93  
+  6 Ritter, Kylie             14 Hurricanes             35.00      35.44  
+ -- Benavides, Mikayla        13 Sharks                    NT     X35.11  
+ -- Shepherd, Emily           14 Hurricanes                NT     X35.44  
+ -- MacKenzie, Caitlin S      14 Sharks                 37.51     X35.73  
+ -- Wooldridge, Alyssa        13 Sharks                 39.10     X38.37  
+ -- Guerra, Isabel            13 Hurricanes                NT     X39.56  
+ -- George, Elizabeth         14 Sharks                    NT     X41.59  
+ -- Rendleman, Isabella       14 Hurricanes                NT     X41.63  
+ -- Horwitz, Amanda           14 Hurricanes                NT     X41.70  
+ -- Newman, Rikki             13 Hurricanes                NT     X41.91  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gorbatoff, Gray           14 Sharks                 28.50      28.01    5  
+  2 Ross, Joshua              14 Hurricanes             29.00      28.25    3  
+  3 Ruprich, Drew             14 Sharks                 31.50      29.47    2  
+  4 Wisniewski, Oliver        14 Hurricanes             30.00      30.14    1  
+  5 Sazgari, Kevin            13 Sharks                 33.69      33.09  
+  6 Miller, Nicolas           14 Hurricanes             35.00      39.30  
+ -- Klintworth, David         13 Sharks                 34.64     X34.34  
+ -- Kaye, Carson              14 Sharks                 35.79     X34.47  
+ -- Bell, Alex                14 Sharks                 36.23     X34.93  
+ -- Meilinger, Matt           13 Sharks                    NT     X35.00  
+ -- Quinn, Jackson            13 Sharks                 39.38     X35.31  
+ -- Keane, Colin              13 Sharks                 38.03     X35.81  
+ -- Goodwin, Luke             14 Sharks                 37.54     X36.10  
+ -- Czapski, Brendan          13 Hurricanes                NT     X40.98  
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Izydorek, Pauline         15 Sharks                 29.26     J30.43    5  
+  2 Oal, Hale'                15 Hurricanes             31.00     J30.25    3  
+  3 Thome, Sarah              17 Sharks                 29.72      31.72    2  
+  4 Momblanco, Hannah         17 Hurricanes             33.00      32.99    1  
+  5 McNally, Kelsey           18 Sharks                 32.57      33.47  
+  6 Carlesso, Sophia          18 Hurricanes             35.00      35.97  
+ -- Beckerman, Eden           15 Hurricanes                NT     X34.28  
+ -- Ceaser, Mia               15 Hurricanes                NT     X40.61  
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Carpenter, Evan           18 Hurricanes             28.00      28.21    5  
+  2 Thayer, Jason             18 Hurricanes             29.00      29.30    3  
+  3 Georgeff, Andrew          17 Hurricanes             29.00      30.08  
+  4 Hiipakka, Brody           16 Sharks                 30.27      31.12    2  
+  5 Hupp, Graham              17 Sharks                 35.89      32.91    1  
+  6 Warrow, Aaron             17 Hurricanes                NT      53.58  
+ -- Grand, David              17 Hurricanes                NT     X31.24  
+ -- Affer, Adam               15 Hurricanes                NT     X33.37  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beverly Hills Athletic Club  'A'                  2:13.55    2:21.73    8  
+     1) Eberhardt, Kaitlyn W11          2) Drinkert, Jack M9              
+     3) Agbay, Audrey W11               4) Grake, Oliver M9               
+  2 Huntington Woods Aquatic Club  'A'                     NT    2:39.21    4  
+     1) Quisling, Alexa W11             2) Pankopf, Mackenzie W10         
+     3) Guerra, Ava W9                  4) Conti, Hannah W10              
+  3 Beverly Hills Athletic Club  'B'                       NT    2:43.92  
+     1) Brown, Ava W12                  2) Helmick, Jackson M10           
+     3) O'Callaghan, Liam M10           4) Reemmer, Kolya M8              
+  4 Beverly Hills Athletic Club  'C'                       NT    2:48.32  
+     1) Wagner, Baity W11               2) Borovich, Fisher M10           
+     3) Drummond, Mackenzie W9          4) Borovich, Leksie W10           
+  5 Huntington Woods Aquatic Club  'B'                     NT    3:03.50  
+     1) Clemence, Sophie W11            2) Solomon, Theresa W11           
+     3) Saltsman, Tatum W10             4) Solomon, Sophie W8             
+  6 Huntington Woods Aquatic Club  'C'                     NT    3:13.10  
+     1) Elder, Lily W9                  2) Horner, Audrey W10             
+     3) Krauskoff, Brigette W10         4) Golembiewski, Noah M10         
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                     NT    2:41.30    8  
+     1) Brooks, Elle W9                 2) Snavely, Alden M9              
+     3) Collins, Madeline W11           4) Rayo, Annalia W11              
+  2 Beverly Hills Athletic Club  'A'                  2:37.40    2:55.78    4  
+     1) Sloan, Ryan M10                 2) Duncan, Sylvia W11             
+     3) Glime, Ashley W10               4) Eberhardt, Kamryn W9           
+  3 Beverly Hills Athletic Club  'B'                       NT    3:02.05  
+     1) Miller, Delaney W12             2) Heller, Jillian W9             
+     3) Heller, Claire W11              4) Drinkert, Charlie M8           
+  4 Beverly Hills Athletic Club  'C'                       NT    3:12.95  
+     1) Donovan, Alexis W9              2) Bailey, Michael M9             
+     3) Betanzo, Vincent M11            4) Boyle, Norah W11               
+  5 Huntington Woods Aquatic Club  'B'                     NT    3:18.24  
+     1) Mracna, Mia W10                 2) Spurgeon, Ruby W10             
+     3) Fairman, Hannah W11             4) Rusk, Devon W9                 
+  6 Huntington Woods Aquatic Club  'C'                     NT    3:57.15  
+     1) Jahnke, Luke M10                2) Peters, Claire W11             
+     3) Mountain, Matilda W10           4) Grecki, Julian M9              
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                     NT    2:18.64    8  
+     1) Pugh, Lucy 11                   2) Oal, Hale' 15                  
+     3) Grand, Elisha 14                4) Robert, Emerson 12             
+  2 Beverly Hills Athletic Club  'A'                  2:12.12    2:19.22    4  
+     1) Helmick, Madison 15             2) Grake, Stella A 13             
+     3) Ruggirello, Bella G 12          4) O'Brien, Ally K 12             
+  3 Beverly Hills Athletic Club  'B'                       NT    2:27.46  
+     1) Hurley, Ava 13                  2) Zammit, India 12               
+     3) DeGrendel, Lindsey E 14         4) Auten, Alexis 13               
+  4 Huntington Woods Aquatic Club  'B'                     NT    2:38.92  
+     1) Ritter, Kylie 14                2) Horwitz, Alana 12              
+     3) Hamilton, Molly 14              4) Pankopf, Kendall 12            
+  5 Beverly Hills Athletic Club  'C'                       NT    2:47.76  
+     1) Benavides, Mikayla 13           2) McLaughlin, Delphine 13        
+     3) Wooldridge, Alyssa 13           4) Brown, Carley 13               
+  6 Huntington Woods Aquatic Club  'C'                     NT    2:59.43  
+     1) Ceaser, Nadia 12                2) Shepherd, Emily 14             
+     3) Beckerman, Eden 15              4) Mcevoy, Sloane 11              
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beverly Hills Athletic Club  'A'                  2:08.27    2:13.55    8  
+     1) Duncan, Ian 14                  2) Moriarty, Dimitri 13           
+     3) Gorbatoff, Gray 14              4) Gaggos, Anthony 11             
+  2 Huntington Woods Aquatic Club  'A'                     NT    2:28.25    4  
+     1) Wisniewski, Oliver 14           2) Carpenter, Ian 15              
+     3) Saltsman, Jack 12               4) Danaher, Owen 11               
+  3 Beverly Hills Athletic Club  'B'                       NT    2:33.79  
+     1) Weiss, Nick A 12                2) Wright, Evan 12                
+     3) Ruprich, Drew 14                4) Ruprich, Eric 14               
+  4 Beverly Hills Athletic Club  'C'                       NT   J2:40.57  
+     1) Klintworth, David 13            2) Kaye, Carson 14                
+     3) Keane, Colin 13                 4) Heller, Arnot 12               
+  5 Huntington Woods Aquatic Club  'B'                     NT   J2:43.32  
+     1) Rolands, David 14               2) Olson, Aidan 12                
+     3) Warner, Chase 13                4) Wismer, Luke 14                
+  6 Huntington Woods Aquatic Club  'C'                     NT    3:11.31  
+     1) Turner, Miles 13                2) Olson, Luke 12                 
+     3) Oal, Ethan 12                   4) Miller, Nicolas 14             
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beverly Hills Athletic Club  'A'                  1:52.35    1:56.39    8  
+     1) McNally, Kelsey 18              2) Izydorek, Pauline 15           
+     3) Thome, Marissa 16               4) Thome, Sarah 17                
+  2 Huntington Woods Aquatic Club  'A'                     NT    2:01.26    4  
+     1) Logsdon, Kelsey 17              2) Vogelheim, Ally 18             
+     3) Momblanco, Hannah 17            4) Robert, Reagan 14              
+  3 Beverly Hills Athletic Club  'B'                       NT    2:01.62  
+     1) Izydorek, Josephine 15          2) Warnica, Jocelyn 17            
+     3) Ruprich, Ellie 16               4) McNally, Reagan 18             
+  4 Huntington Woods Aquatic Club  'B'                     NT    2:14.26  
+     1) Spurgeon, Mary 14               2) Carlesso, Sophia 18            
+     3) Samson, Olivia 15               4) Gurvitz, Jessica 16            
+  5 Beverly Hills Athletic Club  'C'                       NT    2:16.11  
+     1) Gaggos, Kalli 15                2) Schaefer, Reilly 16            
+     3) Warnica, Lily 15                4) Hutchison, Ally 15             
+  6 Huntington Woods Aquatic Club  'C'                     NT    2:29.78  
+     1) Ceaser, Mia 15                  2) Saltsman, Carly 15             
+     3) Gurvitz, Abigail 14             4) Parent, Jacquelyn 15           
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Huntington Woods Aquatic Club  'A'                     NT    1:46.31    8  
+     1) Hamilton, Jack 15               2) Thayer, Jason 18               
+     3) Ross, Joshua 14                 4) Carpenter, Evan 18             
+  2 Huntington Woods Aquatic Club  'B'                     NT    1:50.42  
+     1) Georgeff, Andrew 17             2) Jacobs, Armen 17               
+     3) Grand, David 17                 4) Fredal, Joey 15                
+  3 Beverly Hills Athletic Club  'A'                  1:42.15    1:56.18    4  
+     1) Hiipakka, Brody 16              2) Hupp, Graham 17                
+     3) Gucciardo, Alex 15              4) Richardson, Chase 14           
+  4 Huntington Woods Aquatic Club  'C'                     NT    2:19.62  
+     1) Affer, Adam 15                  2) Rendleman, James 17            
+     3) Green, Nathan 15                4) Warrow, Aaron 17               
+  5 Beverly Hills Athletic Club  'C'                       NT    2:20.70  
+     1) Sazgari, Kevin 13               2) Quinn, Jackson 13              
+     3) Meilinger, Matt 13              4) Goodwin, Luke 14               
+  6 Beverly Hills Athletic Club  'B'                       NT    2:23.55  
+     1) Gucciardo, Andrew 15            2) Bell, Alex 14                  
+     3) Evangelista, Lucio 14           4) Kusiak, Brock 12               

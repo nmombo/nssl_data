@@ -1,0 +1,934 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hassett, Kelley           12 WaterHogs              35.63      35.13    5  
+  2 McKinley, Gillian         12 WaterHogs              37.81      36.87    3  
+  3 Gregg, Lauren             11 WaterHogs              37.82     x39.88  
+  4 Knoper, Libby             11 Dolphins               52.51      50.23    2  
+  5 Denhof, Julia             12 Dolphins               54.50      50.71    1  
+  6 Kamoo, Talia              12 Dolphins               54.43     x52.50  
+ -- Mahmoud, Noor             11 WaterHogs              43.58     X44.15  
+ -- Dery, Grace               11 WaterHogs              46.25     X46.04  
+ -- Walton, Emerson           12 WaterHogs              46.70     X46.58  
+ -- Taylor, Georgia           12 WaterHogs              57.51     X52.69  
+ -- Awad, Marina              11 WaterHogs                 NT     X52.69  
+ -- Kaur, Maya                11 WaterHogs              59.72     X55.58  
+ -- Hall, Grace               11 WaterHogs                 NT     X58.36  
+ -- Larson, Bella             11 Dolphins             1:07.53     X59.92  
+ -- Saroukhanian, Aren        11 WaterHogs                 NT   X1:00.10  
+ -- Verplank, Morgan          12 WaterHogs              57.38   X1:00.10  
+ -- Merlo, Giana              11 Dolphins             1:11.01   X1:00.50  
+ -- Antaki, Clara             11 Dolphins                  NT   X1:00.53  
+ -- Maxwell, Annie            11 Dolphins             1:19.50   X1:05.75  
+ -- Damman, Claire            11 Dolphins             1:18.93   X1:10.38  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 McLean, Andrew            12 WaterHogs              39.90      35.20    5  
+  2 Whan, Ian                 11 Dolphins               37.68      36.35    3  
+  3 Dunlap, Ryan              12 WaterHogs              39.91      41.68    2  
+  4 Prindle, Matteo           11 Dolphins               44.72      43.34    1  
+  5 Antwan, Noah              11 Dolphins               58.13     x51.80  
+  6 Siver, Charlie            12 WaterHogs                 NT     x54.67  
+ -- Cotant, Liam              11 Dolphins                  NT     X50.31  
+ -- Forquer, Zach             11 WaterHogs              52.81     X51.82  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Austin, Karen             14 Dolphins             1:10.94    1:09.20    5  
+  2 Derkevorkian, Sydney      14 WaterHogs            1:25.00    1:12.86    3  
+  3 Higgins, Amylia           13 WaterHogs            1:25.01    1:16.98    2  
+  4 McKenney, Lena            13 Dolphins             1:26.56    1:23.21    1  
+  5 Carter, Catherine         14 WaterHogs            1:25.02   x1:30.80  
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Higgins, Robbie Jack      14 WaterHogs            1:15.00    1:08.39    5  
+  2 Chutkow, Zane             14 Dolphins             1:16.35    1:13.20    3  
+  3 Gregg, Owen               13 WaterHogs            1:15.01    1:15.99    2  
+  4 Ankatha, Ramey            13 WaterHogs            1:15.02   x1:30.35  
+  5 McIntyre, Diego           13 Dolphins             1:25.05    1:30.46    1  
+  6 Bergmann, Maximilian      14 Dolphins             1:31.67   x1:31.81  
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hoppen, Genevieve         17 WaterHogs              50.00      37.85    5  
+  2 Peil, Michaela            18 Dolphins               36.95      38.00    3  
+  3 Kozlowski, Samantha       15 WaterHogs              50.02      41.32    2  
+  4 Deighan, Haley            15 WaterHogs              50.01     x42.02  
+  5 Morris, Lilly             16 Dolphins               40.68      45.23    1  
+  6 Leahy, Erin               16 Dolphins               42.76     x46.85  
+ -- Grohs, Lindsay            15 WaterHogs                 NT     X43.58  
+ -- Dimsdale, Casey           17 WaterHogs                 NT     X45.22  
+ -- Carter, Mary              17 WaterHogs                 NT     X47.64  
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Chutkow, Tate             16 Dolphins               32.62      32.46    5  
+  2 Bukowinski, Joshua        15 WaterHogs              55.00      33.52    3  
+  3 Liddell, Bryce            16 WaterHogs              55.02      36.35    2  
+  4 Austin, Tyler             17 Dolphins               37.97      37.10    1  
+  5 Wallgren, Arthur          17 WaterHogs              55.01     x37.17  
+ -- Hewson, Noah              15 WaterHogs                 NT     X37.85  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Garn, Payton               8 Dolphins               25.34      23.31    5  
+  2 Haenggi, Reagan            8 Dolphins               29.58      26.02    3  
+  3 Caronis, Adriana           8 WaterHogs              25.89      27.15    2  
+  4 Woerner, Layla             7 WaterHogs              29.44      27.59    1  
+  5 Janus, Molly               7 WaterHogs              28.09     x28.75  
+  6 Ley, Isla                  7 Dolphins               27.01     x29.24  
+ -- Galayda, Lily              7 Dolphins               33.83     X28.63  
+ -- Stien, Ella                7 Dolphins               30.00     X29.66  
+ -- Brown, Sara                8 Dolphins               31.84     X29.85  
+ -- Dillingham, Grace          8 Dolphins               34.85     X30.03  
+ -- Saroukhanian, Lucine       8 WaterHogs                 NT     X30.59  
+ -- Croft, Violet              7 WaterHogs              46.04     X30.61  
+ -- Nori, Juliana              6 WaterHogs              42.97     X30.71  
+ -- Stress, Reagan             7 WaterHogs              37.20     X32.41  
+ -- Awad, Phoebe               8 WaterHogs                 NT     X32.58  
+ -- DeCapite, Lucy             8 WaterHogs              33.12     X33.10  
+ -- Appel, Natalie             8 WaterHogs              32.70     X33.43  
+ -- Roth, Riley                8 WaterHogs              38.38     X34.31  
+ -- Pennock, Emory             7 WaterHogs              36.63     X34.51  
+ -- Berry, Leah                8 WaterHogs                 NT     X34.71  
+ -- Berry, Finja               7 WaterHogs              35.59     X34.81  
+ -- Kreger, Kennedy            7 Dolphins               43.69     X34.99  
+ -- Smith, Brooklyn            8 Dolphins               36.97     X35.23  
+ -- Hulgrave, Clare            7 WaterHogs              48.78     X36.16  
+ -- Murray, Jane               6 WaterHogs              38.50     X36.36  
+ -- McLean, Elizabeth          6 WaterHogs              45.59     X37.67  
+ -- Vargo, Cecilia             6 WaterHogs              35.95     X37.73  
+ -- Gough, Claire              7 Dolphins               45.06     X39.11  
+ -- Ringold, Harper            5 WaterHogs              41.76     X41.05  
+ -- Dobski, Loren              7 Dolphins               51.88     X42.91  
+ -- Lupienski, Cecelia         7 WaterHogs              42.61     X45.48  
+ -- Sesplankis, Clara          6 WaterHogs              49.24     X49.05  
+ -- Nakhieh, Sofie             7 WaterHogs              53.86     X54.13  
+ -- Stein, Halle               6 Dolphins             1:01.00     X59.90  
+ -- Larson, Ariana             7 WaterHogs            1:08.40   X1:20.60  
+ -- Chioini, Giuliana          6 WaterHogs            1:04.85   X1:20.97  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Dobbs, Blake               8 WaterHogs              27.50      23.59    5  
+  2 Della-Torre Woolley, Max   8 Dolphins               27.22      26.51    3  
+  3 Forquer, Jake              8 WaterHogs              27.51      26.55    2  
+  4 Waterhouse, Cooper         8 Dolphins               31.75      28.39    1  
+  5 Bloyer, Colin              7 Dolphins               32.22     x29.53  
+  6 Sesplankis, Theo           8 WaterHogs              28.40     x30.16  
+ -- Deighan, Stosh             8 WaterHogs              28.41     X28.27  
+ -- Awad, James                5 WaterHogs                 NT     X28.75  
+ -- Antaki, Nabeel             8 Dolphins               32.53     X28.85  
+ -- Lu, Winston                7 WaterHogs                 NT     X29.83  
+ -- Tighe, Anderson            8 Dolphins               33.31     X30.74  
+ -- Crockett, Nathan           8 WaterHogs                 NT     X32.13  
+ -- Deighan, Clem              8 WaterHogs              31.20     X33.40  
+ -- Chinnalyan, Kai            7 WaterHogs              35.07     X33.59  
+ -- Moran, Benjamin            7 WaterHogs              35.04     X33.98  
+ -- Wagner, Garrett            8 WaterHogs                 NT     X35.14  
+ -- Lee, James                 5 WaterHogs              37.41     X36.06  
+ -- Mays, William              8 Dolphins               40.67     X36.19  
+ -- Carpenter, Andrew          7 WaterHogs              47.79     X37.18  
+ -- Bologna, Blake             7 Dolphins             1:19.19     X37.66  
+ -- Jarrard, Hayden            7 WaterHogs                 NT     X38.65  
+ -- Daley, Ashton              8 WaterHogs                 NT     X40.04  
+ -- Bassett, Benjamin          8 WaterHogs              45.92     X41.34  
+ -- Pennock, Reed              6 WaterHogs              54.86     X46.75  
+ -- Moore, Brennan             6 WaterHogs              55.17     X51.48  
+ -- Nelson, Owen               6 WaterHogs            1:10.59     X54.10  
+ -- Licari, Ford               7 WaterHogs                 NT   X1:23.07  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Allen, Samantha           10 WaterHogs              49.13      40.73    5  
+  2 DeCapite, Liliana         10 WaterHogs              46.93      47.82    3  
+  3 Clifford, Anna            10 WaterHogs              49.14     x52.68  
+  4 Antwan, Lilly             10 Dolphins               54.16      53.78    2  
+  5 Zalewski, Francesca        9 Dolphins             1:04.93      54.42    1  
+  6 Lanfear, Natalie          10 Dolphins             1:06.02   x1:05.71  
+ -- Hamway, Jojo               9 Dolphins                  NT     X58.72  
+ -- Silbert, Mairin            9 Dolphins                  NT   X1:14.63  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Drew             10 Dolphins               39.19      36.95    5  
+  2 Chinnaiyan, Bodhi         10 WaterHogs              42.15      40.28    3  
+  3 Bonel Muras, Nicolas       9 WaterHogs              47.75      42.92    2  
+  4 Deighan, Franklin         10 WaterHogs              47.74     x47.69  
+  5 Drake, Xavier             10 Dolphins                  NT      53.21    1  
+  6 McLachlan, Aiden          10 Dolphins             1:15.69   x1:03.61  
+ -- Robertson, Wyatt           9 WaterHogs              53.70     X49.70  
+ -- Filliung-Reinard, Max      9 WaterHogs              57.26     X54.24  
+ -- Richmond, Carter          10 WaterHogs            1:02.53     X59.51  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Lee, Caroline             12 WaterHogs              33.79      32.91    5  
+  2 Brown, Brooke             11 Dolphins               38.02      34.40    3  
+  3 Gregg, Lauren             11 WaterHogs              33.80      35.08    2  
+  4 Davis, Cate               11 WaterHogs              33.81     x36.07  
+  5 Keenan, Elena             12 Dolphins               35.20      36.46    1  
+  6 DeKruif, Kaitlin          12 Dolphins               40.56     x41.35  
+ -- Licari, Sloane            11 WaterHogs                 NT     X36.27  
+ -- Kennedy, Ella             12 WaterHogs              37.68     X36.28  
+ -- Walton, Abigail           12 WaterHogs                 NT     X36.57  
+ -- Lyons, Campbell           12 WaterHogs                 NT     X37.48  
+ -- Edwards, Hope             12 WaterHogs              41.92     X38.34  
+ -- Dery, Grace               11 WaterHogs              39.71     X39.21  
+ -- Mahmoud, Noor             11 WaterHogs              40.65     X39.31  
+ -- Walton, Emerson           12 WaterHogs              40.92     X39.40  
+ -- Arceo, Amanda             11 WaterHogs                 NT     X40.36  
+ -- Bassett, Ella             12 WaterHogs                 NT     X42.30  
+ -- Llarena, Tanith           12 WaterHogs                 NT     X42.94  
+ -- Knoper, Libby             11 Dolphins               40.94     X43.12  
+ -- Kaur, Maya                11 WaterHogs              44.18     X43.78  
+ -- Johnson-Sears, Grace      11 WaterHogs              54.80     X43.99  
+ -- Whelan, Roisin            11 WaterHogs              42.26     X45.09  
+ -- Taylor, Georgia           12 WaterHogs              48.24     X45.27  
+ -- Larson, Bella             11 Dolphins             1:03.62     X45.32  
+ -- Verplank, Morgan          12 WaterHogs              49.91     X47.07  
+ -- Hall, Grace               11 WaterHogs                 NT     X49.72  
+ -- Awad, Marina              11 WaterHogs                 NT     X51.50  
+ -- Antaki, Clara             11 Dolphins             1:02.37     X51.96  
+ -- Saroukhanian, Aren        11 WaterHogs                 NT     X54.37  
+ -- Kujawa, Ruby              11 WaterHogs                 NT     X58.06  
+ -- Maxwell, Annie            11 Dolphins             1:01.33     X59.83  
+ -- Damman, Claire            11 Dolphins             1:05.84   X1:01.30  
+ -- Merlo, Giana              11 Dolphins             1:05.97   X1:04.86  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 McLean, Andrew            12 WaterHogs              36.98      31.77    5  
+  2 Lee, Joseph               11 WaterHogs              36.99      35.69    3  
+  3 Prindle, Matteo           11 Dolphins               36.88      36.34    2  
+  4 Walsh, Nathan             12 WaterHogs              38.05     x37.78  
+  5 Walgren, Graham           11 Dolphins               43.69      41.37    1  
+  6 Bergmann, Alexander       12 Dolphins               52.16     x46.53  
+ -- Filak, Soren              11 WaterHogs                 NT     X38.46  
+ -- Siver, Charlie            12 WaterHogs              44.30     X45.39  
+ -- Amoros, Maximo            11 Dolphins               53.67     X45.70  
+ -- Hamlin, Chase             12 WaterHogs                 NT     X45.71  
+ -- Kosiba, Hudson            11 WaterHogs              52.42     X49.98  
+ -- Cotant, Liam              11 Dolphins                  NT     X57.92  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Vaughan, Isabella         14 WaterHogs              55.00      32.72    5  
+  2 Yordanova, Ana            14 WaterHogs              55.01      35.40    3  
+  3 Rothweil, Macy            14 WaterHogs              55.02     x36.73  
+  4 Layer, Mia                13 Dolphins               47.72      41.66    2  
+  5 Darby, Ella               13 Dolphins               51.25      43.58    1  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Higgins, Robbie Jack      14 WaterHogs              45.00      30.28    5  
+  2 Gregg, Owen               13 WaterHogs              45.01      33.59    3  
+  3 McIntyre, Diego           13 Dolphins               43.36      37.76    2  
+  4 Silbert, Griffin          13 Dolphins               44.89      39.81    1  
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Misra, Camille            17 WaterHogs              50.00      32.36    5  
+  2 Hiotaky, Laura            17 WaterHogs              50.01      37.70    3  
+  3 Cafferty, Chloe           16 WaterHogs              50.02     x38.37  
+  4 Leahy, Erin               16 Dolphins               38.42      39.42    2  
+  5 Layer, Ella               15 Dolphins               38.84      39.53    1  
+ -- McPhaul, Kamryn           15 WaterHogs                 NT     X37.33  
+ -- Nummer, Brooke            16 WaterHogs                 NT     X41.55  
+ -- Edwards, Jayne            16 WaterHogs                 NT     X42.05  
+ -- May, Lily                 15 WaterHogs                 NT     X42.54  
+ -- Marcum, Kaitlyn           15 WaterHogs                 NT     X42.85  
+ -- Carter, Mary              17 WaterHogs                 NT     X43.52  
+ -- LaFave, Katie             15 WaterHogs                 NT     X52.14  
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Helton, David             18 Dolphins               28.98      30.84    5  
+  2 Liddell, Bryce            16 WaterHogs              50.01      33.44    3  
+  3 Wallgren, Arthur          17 WaterHogs              50.00      33.82    2  
+  4 Chekal, Danny             17 WaterHogs              50.02     x37.98  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Natalie         8 Dolphins               19.85      19.15    5  
+  2 Ahmed, Sumaiya             7 WaterHogs              21.08      20.80    3  
+  3 Ley, Isla                  7 Dolphins               22.63      22.75    2  
+  4 Fehervary, Ellie           8 WaterHogs              23.72      23.08    1  
+  5 Woerner, Layla             7 WaterHogs              23.73     x24.23  
+  6 Villajuan, Ellory          7 Dolphins               23.13     x24.73  
+ -- Croft, Violet              7 WaterHogs              23.03     X22.60  
+ -- Berry, Leah                8 WaterHogs              23.78     X24.50  
+ -- Grace, Cecelia             8 WaterHogs              28.33     X24.91  
+ -- Walker, Madison            8 Dolphins               27.22     X25.10  
+ -- Wojdyla, Dania             7 WaterHogs                 NT     X25.25  
+ -- Murtfeldt, Emily           7 WaterHogs                 NT     X25.31  
+ -- Moore, Anaya               8 WaterHogs              24.15     X26.67  
+ -- Saroukhanian, Lucine       8 WaterHogs                 NT     X27.04  
+ -- Appel, Natalie             8 WaterHogs              26.56     X27.34  
+ -- Brown, Sara                8 Dolphins               26.87     X29.39  
+ -- Awad, Phoebe               8 WaterHogs                 NT     X29.39  
+ -- Pennock, Emory             7 WaterHogs              28.90     X29.58  
+ -- Berry, Finja               7 WaterHogs              31.59     X30.10  
+ -- Smith, Brooklyn            8 Dolphins               31.90     X30.26  
+ -- Nakhieh, Sofie             7 WaterHogs              32.78     X30.39  
+ -- DeCapite, Lucy             8 WaterHogs              30.25     X30.93  
+ -- Murray, Jane               6 WaterHogs              37.50     X31.13  
+ -- Stress, Reagan             7 WaterHogs              30.74     X31.94  
+ -- Hulgrave, Clare            7 WaterHogs              35.52     X32.09  
+ -- Walker, Olivia             8 Dolphins               33.12     X32.77  
+ -- Nori, Juliana              6 WaterHogs              43.59     X33.87  
+ -- Mclachlan, Lilly           7 Dolphins               32.41     X34.15  
+ -- Roth, Riley                8 WaterHogs              35.14     X34.27  
+ -- Arora, Iniya               8 WaterHogs              37.35     X37.69  
+ -- Ringold, Harper            5 WaterHogs              37.81     X38.72  
+ -- Vargo, Cecilia             6 WaterHogs              42.54     X39.78  
+ -- McLean, Elizabeth          6 WaterHogs              42.31     X40.70  
+ -- Sesplankis, Clara          6 WaterHogs              44.95     X41.63  
+ -- Lauter, Talia              7 Dolphins                  NT     X41.96  
+ -- Cotant, Claire             5 Dolphins                  NT     X42.04  
+ -- Lupienski, Cecelia         7 WaterHogs              39.34     X43.46  
+ -- Amoros, Lola               5 Dolphins                  NT     X51.97  
+ -- Chioini, Giuliana          6 WaterHogs              52.06     X57.27  
+ -- Larson, Ariana             7 WaterHogs            1:34.28   X1:42.06  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Kyle              8 Dolphins               17.50      18.01    5  
+  2 Dobbs, Blake               8 WaterHogs              21.02      18.99    3  
+  3 Amoros, Franco             8 Dolphins               20.47      19.32    2  
+  4 Derkevorkian, Sam          8 WaterHogs              21.03      21.18    1  
+  5 Walgren, Desmond           8 Dolphins               22.50     x21.98  
+  6 Higdon, Tommy              8 WaterHogs              25.11     x22.86  
+ -- Tighe, Anderson            8 Dolphins               26.31     X22.15  
+ -- Waterhouse, Cooper         8 Dolphins               23.10     X22.88  
+ -- Forquer, Jake              8 WaterHogs              25.94     X24.45  
+ -- Deighan, Clem              8 WaterHogs              24.68     X24.92  
+ -- Lu, Winston                7 WaterHogs                 NT     X25.52  
+ -- Crockett, Nathan           8 WaterHogs                 NT     X25.57  
+ -- McCann, Sully              7 Dolphins               27.18     X25.78  
+ -- Wagner, Garrett            8 WaterHogs                 NT     X26.00  
+ -- Antaki, Nabeel             8 Dolphins               28.75     X26.02  
+ -- Chinnalyan, Kai            7 WaterHogs              32.31     X26.04  
+ -- Moore, Brennan             6 WaterHogs              30.26     X26.96  
+ -- Brown, CJ                  8 Dolphins               39.66     X27.85  
+ -- Bassett, Benjamin          8 WaterHogs              33.44     X30.10  
+ -- Dehko, Jagger              8 Dolphins               29.04     X30.39  
+ -- Ryckman, Isaac             8 Dolphins               33.10     X31.00  
+ -- Lee, James                 5 WaterHogs              29.56     X31.11  
+ -- Moran, Benjamin            7 WaterHogs              34.68     X31.39  
+ -- Smith, Jackson             7 Dolphins               38.25     X31.74  
+ -- Licari, Ford               7 WaterHogs                 NT     X35.61  
+ -- Carpenter, Andrew          7 WaterHogs              50.88     X36.26  
+ -- Bologna, Blake             7 Dolphins               35.50     X37.47  
+ -- Jarrard, Hayden            7 WaterHogs                 NT     X37.60  
+ -- Daley, Ashton              8 WaterHogs                 NT     X37.96  
+ -- Bloyer, Ryan               6 Dolphins               38.22     X40.33  
+ -- Nelson, Owen               6 WaterHogs              51.70     X42.82  
+ -- Galayda, Andrew            6 Dolphins               53.87     X44.71  
+ -- Dobski, Chase              7 Dolphins                  NT     X47.06  
+ -- Galayda, Jack              6 Dolphins               53.47     X48.05  
+ -- Stein, Jake                6 Dolphins             1:17.27     X48.96  
+ -- Pennock, Reed              6 WaterHogs            1:02.30     X52.83  
+ -- Dillingham, Jaime          5 Dolphins               45.90     X55.21  
+ -- Awad, James                5 WaterHogs                 NT   X1:47.85  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Allen, Samantha           10 WaterHogs              54.08      45.56    5  
+  2 Guffey, Hazel             10 WaterHogs              54.09      50.95    3  
+  3 Clifford, Anna            10 WaterHogs              54.43     x55.09  
+  4 Zalewski, Francesca        9 Dolphins             1:05.19      59.77    2  
+  5 Lanfear, Natalie          10 Dolphins             1:05.72    1:04.04    1  
+  6 Brown, Amelia              9 Dolphins                  NT   x1:04.54  
+ -- Prantera, Madelyn         10 WaterHogs            1:06.40   X1:06.55  
+ -- Carter, Caroline           9 WaterHogs            1:33.97   X1:11.54  
+ -- Croft, Olive               9 WaterHogs            1:14.00   X1:15.94  
+ -- Bloom, Kelly              10 WaterHogs                 NT   X1:22.65  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Drew             10 Dolphins               46.91      45.55    5  
+  2 Chinnaiyan, Bodhi         10 WaterHogs            1:00.67      46.29    3  
+  3 Layer, Dylan              10 Dolphins               51.51      49.79    2  
+  4 Mahmoud, Adam              9 WaterHogs            1:05.59      56.21    1  
+  5 Tighe, Ryan               10 Dolphins               58.78     x57.27  
+  6 Dery, Jack                 9 WaterHogs            1:05.60   x1:06.20  
+ -- Fehervary, Max             9 WaterHogs                 NT     X56.67  
+ -- Dery, Reid                 9 WaterHogs            1:07.45   X1:04.21  
+ -- Johnson, Miles            10 WaterHogs            1:12.54   X1:06.52  
+ -- Moran, Luke                9 WaterHogs            1:17.77   X1:08.38  
+ -- Kosiba, Westin            10 WaterHogs            1:16.19   X1:10.63  
+ -- Pfeiffer, Calvin          10 Dolphins             1:18.92   X1:14.68  
+ -- Damman, Jake               9 Dolphins                  NT   X1:30.40  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Erin             12 Dolphins             1:21.03    1:16.85    5  
+  2 Cameron, Dominique        11 WaterHogs              50.00    1:22.40    3  
+  3 Memmer, Samantha          11 WaterHogs              50.01    1:27.01    2  
+  4 Della- Torre Woolley, Al  12 Dolphins             1:36.92    1:31.02    1  
+  5 Guffey, Clara             12 WaterHogs              50.02   x1:32.08  
+  6 Keenan, Elena             12 Dolphins             1:41.40   x1:43.65  
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Elliot         11 Dolphins             1:22.45    1:17.99    5  
+  2 Whan, Ian                 11 Dolphins             1:26.50    1:23.53    3  
+  3 Eberlein, Robbie          12 Dolphins             1:35.27   x1:30.83  
+  4 Dunlap, Ryan              12 WaterHogs                 NT    1:30.97    2  
+  5 Rothweil, Alec            11 WaterHogs                 NT    1:31.25    1  
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Austin, Karen             14 Dolphins               37.71      37.64    5  
+  2 Higgins, Amylia           13 WaterHogs              50.00      39.27    3  
+  3 Murray, Meghan            14 WaterHogs              50.01      44.58    2  
+  4 Marcum, Courtney          13 WaterHogs              50.02     x46.30  
+  5 Hogan, Mary Grace         13 Dolphins             1:06.39    1:07.56    1  
+ -- O'Brien, Mallory          13 WaterHogs                 NT     X45.60  
+ -- Tappan, Kathryn           13 WaterHogs                 NT     X46.45  
+ -- Parfenov, Sophia          13 WaterHogs                 NT     X51.11  
+ -- Forcina, Alexis           13 WaterHogs                 NT     X51.77  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hassett, Scott            14 WaterHogs              50.00      35.21    5  
+  2 Bukowinski, Cameron       13 WaterHogs              50.01      36.60    3  
+  3 Dinkeloo, William         13 Dolphins               39.66      38.53    2  
+  4 Bergmann, Maximilian      14 Dolphins               44.56      46.63    1  
+  5 Brennan, Michael          13 Dolphins               48.62     x48.70  
+  6 Johnson-Sears, Luke       14 WaterHogs              50.02     x49.33  
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Blakely, Abigail          15 WaterHogs              50.00    1:05.73    5  
+  2 Cousins, Cecilia          18 WaterHogs              50.01    1:08.16    3  
+  3 McKenney, Ella            16 Dolphins             1:07.51    1:09.08    2  
+  4 McPhaul, Kamryn           15 WaterHogs              50.02   x1:13.58  
+  5 Pfeiffer, Lila            15 Dolphins             1:18.41    1:16.09    1  
+ -- Kozlowski, Samantha       15 WaterHogs                 NT   X1:10.30  
+ -- Hiotaky, Laura            17 WaterHogs                 NT   X1:12.44  
+ -- Marcum, Kaitlyn           15 WaterHogs                 NT   X1:15.79  
+ -- May, Lily                 15 WaterHogs                 NT   X1:16.57  
+ -- Nummer, Brooke            16 WaterHogs                 NT   X1:16.63  
+ -- Cafferty, Chloe           16 WaterHogs                 NT   X1:16.75  
+ -- Dimsdale, Casey           17 WaterHogs                 NT   X1:17.45  
+ -- Edwards, Jayne            16 WaterHogs                 NT   X1:20.88  
+ -- LaFave, Katie             15 WaterHogs                 NT   X1:29.61  
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Helton, David             18 Dolphins               56.89      58.21    5  
+  2 Dimsdale, Colby           16 WaterHogs              50.01      58.80    3  
+  3 Bukowinski, Iain          17 WaterHogs              50.00      59.28    2  
+  4 Branch, Patrick           15 Dolphins             1:03.05    1:01.35    1  
+  5 Chekal, Danny             17 WaterHogs              50.02   x1:11.45  
+  6 Leahy, Danny              15 Dolphins             1:29.75   x1:21.32  
+ -- Hewson, Noah              15 WaterHogs                 NT   X1:11.97  
+ -- Herbster, Wesley          16 WaterHogs                 NT   X1:15.34  
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Garn, Payton               8 Dolphins               19.69      18.63    5  
+  2 Ahmed, Sumaiya             7 WaterHogs              25.85      23.40    3  
+  3 Valentine, Hannah          8 WaterHogs              35.17      30.31    2  
+  4 Wojdyla, Dania             7 WaterHogs                 NT     x30.90  
+  5 Haenggi, Reagan            8 Dolphins               31.44      32.78    1  
+  6 Villajuan, Ellory          7 Dolphins               34.14     x34.88  
+ -- Walker, Madison            8 Dolphins                  NT     X36.57  
+ -- Mclachlan, Lilly           7 Dolphins               46.73     X41.79  
+ -- Galayda, Lily              7 Dolphins               47.58     X42.70  
+ -- Walker, Olivia             8 Dolphins                  NT     X44.00  
+ -- Kreger, Kennedy            7 Dolphins             1:01.34     X58.24  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Kyle              8 Dolphins               21.93      21.44    5  
+  2 Ruud, Jack                 7 WaterHogs              23.64      21.60    3  
+  3 Amoros, Franco             8 Dolphins               25.41      21.83    2  
+  4 Higdon, Tommy              8 WaterHogs              27.48      24.97    1  
+  5 Walgren, Desmond           8 Dolphins               30.50     x26.50  
+  6 Deighan, Stosh             8 WaterHogs              33.38     x29.66  
+ -- McCann, Sully              7 Dolphins               30.63     X26.75  
+ -- Bloyer, Colin              7 Dolphins                  NT     X28.50  
+ -- Ryckman, Isaac             8 Dolphins               51.18     X30.75  
+ -- Dehko, Jagger              8 Dolphins               35.30     X36.68  
+ -- Brown, CJ                  8 Dolphins                  NT     X37.03  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bongiovanni, Leah         10 WaterHogs              21.57      40.98    5  
+  2 Kraytem, Leena            10 Dolphins               46.74      42.70    3  
+  3 Layer, Sophie             10 Dolphins               47.34      42.80    2  
+  4 McLean, Kathryn           10 WaterHogs              49.60      48.35    1  
+  5 Guffey, Hazel             10 WaterHogs              49.61     x50.43  
+  6 Dobski, Brooke             9 Dolphins                  NT     x57.43  
+ -- Howard, Madailein          9 WaterHogs                 NT     X50.59  
+ -- Tappan, Clare             10 WaterHogs              50.89     X52.62  
+ -- Bush, Adele               10 WaterHogs                 NT     X53.16  
+ -- Ankatha, Shyla             9 WaterHogs                 NT     X54.03  
+ -- Murtfeldt, Audrey          9 WaterHogs                 NT     X56.94  
+ -- Hall, Catherine            9 WaterHogs                 NT     X58.85  
+ -- Wagner, Amelie            10 WaterHogs                 NT   X1:00.43  
+ -- Richmond, Camryn           9 WaterHogs            1:08.09   X1:01.36  
+ -- Janus, Lucy                9 WaterHogs            1:12.26   X1:03.16  
+ -- Robertson, Emmie           9 WaterHogs            1:26.44   X1:12.69  
+ -- Nelson, Olivia             9 WaterHogs            1:25.24   X1:20.47  
+ -- Taylor, Eloise            10 WaterHogs            1:38.39   X1:27.00  
+ -- Kujawa, Audrey             9 WaterHogs                 NT   X1:37.97  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Forberg, William          10 WaterHogs              44.89      43.78    5  
+  2 Deighan, Franklin         10 WaterHogs              44.86      45.86    3  
+  3 Dobbs, Colin              10 WaterHogs              44.90     x47.28  
+  4 Layer, Dylan              10 Dolphins               59.38      49.87    2  
+  5 Villajuan, Auggie         10 Dolphins             1:01.52      59.67    1  
+  6 McLachlan, Aiden          10 Dolphins             1:09.89   x1:04.01  
+ -- Ley, Roman                 9 Dolphins             1:11.47     X59.68  
+ -- Kennedy, Danny            10 WaterHogs            1:08.70     X59.72  
+ -- Giska, Nicholas           10 WaterHogs                 NT     X59.74  
+ -- Haley, Benjamin           10 WaterHogs            1:18.66   X1:02.99  
+ -- Schreibeis, Nathan        10 Dolphins             1:17.81   X1:08.19  
+ -- McKinley, Ethan            9 WaterHogs            1:11.10   X1:08.34  
+ -- Jarrard, Clisby            9 WaterHogs                 NT   X1:11.52  
+ -- Hulgrave, Grant           10 WaterHogs            1:27.57   X1:15.24  
+ -- Bologna, Aidan             9 Dolphins             1:49.59   X1:21.43  
+ -- Ridley, Evan              10 WaterHogs            2:29.91   X1:37.46  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Erin             12 Dolphins               35.66      33.98    5  
+  2 Lee, Caroline             12 WaterHogs              38.21      36.53    3  
+  3 McKinley, Gillian         12 WaterHogs              37.00      37.25    2  
+  4 Brown, Brooke             11 Dolphins               43.43      40.92    1  
+  5 Guffey, Clara             12 WaterHogs              43.60     x42.00  
+  6 Kamoo, Talia              12 Dolphins               57.11     x54.61  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Elliot         11 Dolphins               36.03      35.23    5  
+  2 Rothweil, Alec            11 WaterHogs              40.17      39.95    3  
+  3 Amoros, Maximo            11 Dolphins             1:01.66      54.30    2  
+  4 Lee, Joseph               11 WaterHogs              49.08      55.94    1  
+  5 Antwan, Noah              11 Dolphins               54.53     x56.39  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Vaughan, Isabella         14 WaterHogs              50.00      32.81    5  
+  2 Lange, Penny              14 WaterHogs              50.01      36.49    3  
+  3 McKenney, Lena            13 Dolphins               37.87      37.82    2  
+  4 Yordanova, Ana            14 WaterHogs              50.02     x39.20  
+  5 Hogan, Mary Grace         13 Dolphins               55.92      53.65    1  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Chutkow, Zane             14 Dolphins               34.97      32.85    5  
+  2 Heath, Kai                14 WaterHogs                 NT      33.76    3  
+  3 Hassett, Scott            14 WaterHogs                 NT      33.82    2  
+  4 Rijnovean, Finley         13 Dolphins               38.12      37.45    1  
+  5 Kosiba, Keegan            13 WaterHogs                 NT     x39.91  
+  6 Bautista, Carlo           14 Dolphins               41.40     x40.49  
+ -- Slavin, Ethan             14 WaterHogs                 NT     X39.15  
+ -- Schroeder, Erich          14 WaterHogs                 NT     X44.75  
+ -- Maliszewski, Maxwell      14 WaterHogs                 NT     X45.18  
+ -- Singh, Max                13 WaterHogs                 NT     X47.89  
+ -- Wade, Michael             13 WaterHogs                 NT     X48.69  
+ -- Leahy, Sean               13 Dolphins               56.16     X54.83  
+ -- Connolly, Parker          13 Dolphins               57.53     X55.53  
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Misra, Camille            17 WaterHogs              50.00    1:12.65    5  
+  2 Blakely, Abigail          15 WaterHogs              50.01    1:14.66    3  
+  3 Peil, Michaela            18 Dolphins             1:13.05    1:15.34    2  
+  4 McKenney, Ella            16 Dolphins             1:19.27    1:21.63    1  
+  5 Grohs, Lindsay            15 WaterHogs              50.02   x1:26.90  
+  6 Layer, Ella               15 Dolphins             1:29.00   x1:28.19  
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Chutkow, Tate             16 Dolphins             1:08.51    1:06.62    5  
+  2 Dimsdale, Colby           16 WaterHogs              50.00    1:08.63    3  
+  3 Bukowinski, Joshua        15 WaterHogs              50.01    1:09.86    2  
+  4 Branch, Patrick           15 Dolphins             1:11.77    1:10.33    1  
+  5 Memmer, Matthew           16 WaterHogs              50.02   x1:23.17  
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Natalie         8 Dolphins               27.59      24.97    5  
+  2 Caronis, Adriana           8 WaterHogs              32.70      28.54    3  
+  3 Grace, Cecelia             8 WaterHogs              34.74      29.95    2  
+  4 Valentine, Hannah          8 WaterHogs              32.09     x34.73  
+  5 Dillingham, Grace          8 Dolphins               39.78      34.91    1  
+  6 Stien, Ella                7 Dolphins               23.47     x42.51  
+ -- Lauter, Talia              7 Dolphins                  NT     X35.68  
+ -- Fehervary, Ellie           8 WaterHogs              53.46     X37.69  
+ -- Moore, Anaya               8 WaterHogs              45.38     X37.78  
+ -- Murtfeldt, Emily           7 WaterHogs                 NT     X39.99  
+ -- Janus, Molly               7 WaterHogs              40.50     X41.54  
+ -- Garn, Skylar               6 Dolphins               49.61     X48.87  
+ -- Dobski, Loren              7 Dolphins                  NT     X49.28  
+ -- Arora, Iniya               8 WaterHogs              47.98     X53.33  
+ -- Stein, Halle               6 Dolphins                  NT     X56.13  
+ -- Gough, Claire              7 Dolphins                  NT   X1:00.11  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ruud, Jack                 7 WaterHogs              26.43      27.98    5  
+  2 Della-Torre Woolley, Max   8 Dolphins               31.00      28.47    3  
+  3 Sesplankis, Theo           8 WaterHogs              29.17      29.44    2  
+  4 Derkevorkian, Sam          8 WaterHogs              39.06     x34.63  
+  5 Mays, William              8 Dolphins               48.72      50.56    1  
+ -- Smith, Jackson             7 Dolphins               51.34     X45.55  
+ -- Galayda, Jack              6 Dolphins                  NT     X45.81  
+ -- Galayda, Andrew            6 Dolphins                  NT     X45.89  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bongiovanni, Leah         10 WaterHogs              35.87      35.20    5  
+  2 Layer, Sophie             10 Dolphins               40.20      37.02    3  
+  3 Kraytem, Leena            10 Dolphins               37.37      37.18    2  
+  4 McLean, Kathryn           10 WaterHogs              42.85      38.29    1  
+  5 DeCapite, Liliana         10 WaterHogs              42.86     x45.36  
+  6 Antwan, Lilly             10 Dolphins               49.44     x46.81  
+ -- Bush, Adele               10 WaterHogs                 NT     X43.72  
+ -- Tappan, Clare             10 WaterHogs              46.35     X44.93  
+ -- Howard, Madailein          9 WaterHogs                 NT     X44.93  
+ -- Carter, Caroline           9 WaterHogs              58.22     X47.33  
+ -- Wagner, Amelie            10 WaterHogs                 NT     X48.75  
+ -- Croft, Olive               9 WaterHogs            1:04.66     X48.91  
+ -- Hamway, Jojo               9 Dolphins                  NT     X50.65  
+ -- Ankatha, Shyla             9 WaterHogs                 NT     X50.86  
+ -- Murtfeldt, Audrey          9 WaterHogs                 NT     X55.26  
+ -- Dobski, Brooke             9 Dolphins                  NT     X57.48  
+ -- Prantera, Madelyn         10 WaterHogs            1:07.82     X57.68  
+ -- Janus, Lucy                9 WaterHogs            1:00.80     X58.12  
+ -- Hall, Catherine            9 WaterHogs                 NT     X58.88  
+ -- Richmond, Camryn           9 WaterHogs            1:03.56   X1:00.68  
+ -- Silbert, Mairin            9 Dolphins             1:09.32   X1:02.76  
+ -- Taylor, Eloise            10 WaterHogs            1:12.02   X1:04.55  
+ -- Robertson, Emmie           9 WaterHogs            1:09.78   X1:08.65  
+ -- Nelson, Olivia             9 WaterHogs            1:21.45   X1:09.51  
+ -- Bloom, Kelly              10 WaterHogs                 NT   X1:10.42  
+ -- Kujawa, Audrey             9 WaterHogs                 NT   X1:39.34  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Dobbs, Colin              10 WaterHogs              44.41      32.88    5  
+  2 Forberg, William          10 WaterHogs              35.03      34.46    3  
+  3 Drake, Xavier             10 Dolphins                  NT      42.23    2  
+  4 Tighe, Ryan               10 Dolphins               46.90      47.74    1  
+  5 Villajuan, Auggie         10 Dolphins               53.38     x49.30  
+ -- Bonel Muras, Nicolas       9 WaterHogs                 NT     X39.38  
+ -- Robertson, Wyatt           9 WaterHogs              52.96     X42.32  
+ -- Filliung-Reinard, Max      9 WaterHogs              46.38     X44.56  
+ -- Fehervary, Max             9 WaterHogs                 NT     X45.85  
+ -- Richmond, Carter          10 WaterHogs              50.04     X47.56  
+ -- Giska, Nicholas           10 WaterHogs                 NT     X49.68  
+ -- Weber, Ethan               9 Dolphins                  NT     X51.83  
+ -- Ley, Roman                 9 Dolphins               54.63     X53.10  
+ -- Kennedy, Danny            10 WaterHogs              54.90     X53.55  
+ -- Johnson, Miles            10 WaterHogs              51.26     X55.22  
+ -- Kosiba, Westin            10 WaterHogs            1:09.41     X55.47  
+ -- Jarrard, Clisby            9 WaterHogs                 NT     X56.65  
+ -- Dery, Jack                 9 WaterHogs            1:06.88     X57.39  
+ -- Dery, Reid                 9 WaterHogs            1:02.10     X58.67  
+ -- Haley, Benjamin           10 WaterHogs            1:09.61     X59.38  
+ -- Moran, Luke                9 WaterHogs            1:05.78     X59.51  
+ -- Schreibeis, Nathan        10 Dolphins             1:13.65     X59.86  
+ -- Pfeiffer, Calvin          10 Dolphins             1:06.36   X1:00.60  
+ -- Ridley, Evan              10 WaterHogs                 NT   X1:03.17  
+ -- McKinley, Ethan            9 WaterHogs              58.92   X1:03.29  
+ -- Hulgrave, Grant           10 WaterHogs            1:17.11   X1:10.18  
+ -- Bologna, Aidan             9 Dolphins             1:23.79   X1:11.18  
+ -- Damman, Jake               9 Dolphins             1:31.18   X1:16.88  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hassett, Kelley           12 WaterHogs              38.04      36.60    5  
+  2 Cameron, Dominique        11 WaterHogs              43.07      42.23    3  
+  3 Della- Torre Woolley, Al  12 Dolphins               47.67      44.37    2  
+  4 Memmer, Samantha          11 WaterHogs              47.77     x47.14  
+  5 Denhof, Julia             12 Dolphins               58.53      54.88    1  
+  6 DeKruif, Kaitlin          12 Dolphins             1:01.00     x57.41  
+ -- Bassett, Ella             12 WaterHogs                 NT     X45.26  
+ -- Kennedy, Ella             12 WaterHogs              49.80     X47.43  
+ -- Lyons, Campbell           12 WaterHogs                 NT     X47.97  
+ -- Licari, Sloane            11 WaterHogs                 NT     X49.25  
+ -- Edwards, Hope             12 WaterHogs              53.82     X50.57  
+ -- Walton, Abigail           12 WaterHogs                 NT     X53.20  
+ -- Arceo, Amanda             11 WaterHogs                 NT     X55.42  
+ -- Whelan, Roisin            11 WaterHogs              58.93     X58.16  
+ -- Johnson-Sears, Grace      11 WaterHogs            1:02.76   X1:01.33  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Murray, Finn              11 WaterHogs              46.93      47.29    5  
+  2 Eberlein, Robbie          12 Dolphins               52.42      49.44    3  
+  3 Walsh, Nathan             12 WaterHogs              51.26      50.32    2  
+  4 Filak, Soren              11 WaterHogs              51.25     x51.17  
+  5 Walgren, Graham           11 Dolphins               57.67      55.13    1  
+  6 Bergmann, Alexander       12 Dolphins             1:06.68   x1:00.46  
+ -- Hamlin, Chase             12 WaterHogs                 NT     X58.52  
+ -- Kosiba, Hudson            11 WaterHogs              59.24     X58.52  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Derkevorkian, Sydney      14 WaterHogs              50.00      29.25    5  
+  2 Lange, Penny              14 WaterHogs              50.01      31.35    3  
+  3 Rothweil, Macy            14 WaterHogs              50.02     x33.03  
+  4 Layer, Mia                13 Dolphins               39.15      35.54    2  
+  5 Darby, Ella               13 Dolphins               38.12      36.89    1  
+ -- Carter, Catherine         14 WaterHogs                 NT     X32.96  
+ -- Murray, Meghan            14 WaterHogs                 NT     X33.30  
+ -- Forcina, Alexis           13 WaterHogs                 NT     X34.62  
+ -- Tappan, Kathryn           13 WaterHogs                 NT     X35.58  
+ -- Marcum, Courtney          13 WaterHogs                 NT     X35.66  
+ -- Parfenov, Sophia          13 WaterHogs                 NT     X39.31  
+ -- O'Brien, Mallory          13 WaterHogs                 NT     X39.41  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Heath, Kai                14 WaterHogs              50.00      29.48    5  
+  2 Bukowinski, Cameron       13 WaterHogs              50.01      29.63    3  
+  3 Bautista, Carlo           14 Dolphins               33.73      31.40    2  
+  4 Dinkeloo, William         13 Dolphins               32.87      32.22    1  
+  5 Ankatha, Ramey            13 WaterHogs              50.02     x35.10  
+  6 Rijnovean, Finley         13 Dolphins               34.36     x35.51  
+ -- Slavin, Ethan             14 WaterHogs                 NT     X32.47  
+ -- Brennan, Michael          13 Dolphins               34.66     X33.18  
+ -- Silbert, Griffin          13 Dolphins               37.81     X35.20  
+ -- Wade, Michael             13 WaterHogs                 NT     X36.89  
+ -- Schroeder, Erich          14 WaterHogs                 NT     X37.24  
+ -- Singh, Max                13 WaterHogs                 NT     X38.87  
+ -- Maliszewski, Maxwell      14 WaterHogs                 NT     X39.74  
+ -- Leahy, Sean               13 Dolphins               43.11     X41.85  
+ -- Johnson-Sears, Luke       14 WaterHogs                 NT     X43.62  
+ -- Connolly, Parker          13 Dolphins               57.12     X48.27  
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hoppen, Genevieve         17 WaterHogs              51.00      33.33    5  
+  2 Cousins, Cecilia          18 WaterHogs              50.00      33.90    3  
+  3 Pfeiffer, Lila            15 Dolphins               33.36      36.48    2  
+  4 Deighan, Haley            15 WaterHogs              52.00     x38.54  
+  5 Morris, Lilly             16 Dolphins               34.73      39.19    1  
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bukowinski, Iain          17 WaterHogs              50.00      28.36    5  
+  2 Austin, Tyler             17 Dolphins               33.84      35.45    3  
+  3 Memmer, Matthew           16 WaterHogs              51.00      38.42    2  
+  4 Herbster, Wesley          16 WaterHogs              52.00     x40.17  
+  5 Leahy, Danny              15 Dolphins               44.05      44.69    1  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Forest Hills Swim Club  'A'                            NT    2:27.29    8  
+     1) Gregg, Lauren W11               2) Cameron, Dominique W11         
+     3) Memmer, Samantha W11            4) Ruud, Jack M7                  
+  2 Cranbook SwimClub  'B'                                 NT    2:34.18    4  
+     1) Rijnovean, Finley M13           2) Prindle, Matteo M11            
+     3) Garn, Payton W8                 4) Rijnovean, Natalie W8          
+  3 Forest Hills Swim Club  'B'                            NT   x2:42.47  
+     1) Lee, Joseph M11                 2) Dunlap, Ryan M12               
+     3) Tappan, Clare W10               4) Ahmed, Sumaiya W7              
+  4 Cranbook SwimClub  'A'                            2:48.69   x2:50.50  
+     1) Layer, Sophie W10               2) Layer, Dylan M10               
+     3) Kraytem, Leena W10              4) Tighe, Ryan M10                
+  5 Forest Hills Swim Club  'C'                            NT   x3:02.03  
+     1) Carter, Caroline W9             2) Bonel Muras, Nicolas M9        
+     3) Filak, Soren M11                4) Forquer, Jake M8               
+  6 Cranbook SwimClub  'C'                            3:29.32   x3:10.57  
+     1) Antwan, Noah M11                2) Amoros, Franco M8              
+     3) Villajuan, Auggie M10           4) Amoros, Maximo M11             
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Forest Hills Swim Club  'A'                            NT    2:41.43    8  
+     1) Allen, Samantha W10             2) Bongiovanni, Leah W10          
+     3) Chinnaiyan, Bodhi M10           4) Forberg, William M10           
+  2 Cranbook SwimClub  'A'                            2:38.34    3:02.10    4  
+     1) Brown, Brooke W11               2) Della- Torre Woolley, Alexandra
+     3) Madigan, Kyle M8                4) Della-Torre Woolley, Max M8    
+  3 Forest Hills Swim Club  'B'                            NT   x3:07.94  
+     1) Deighan, Franklin M10           2) McLean, Kathryn W10            
+     3) DeCapite, Liliana W10           4) Dobbs, Colin M10               
+  4 Forest Hills Swim Club  'C'                            NT   x3:18.18  
+     1) Guffey, Hazel W10               2) Mahmoud, Adam M9               
+     3) Arceo, Amanda W11               4) Clifford, Anna W10             
+  5 Cranbook SwimClub  'B'                                 NT   x4:04.55  
+     1) Antwan, Lilly W10               2) Hamway, Jojo W9                
+     3) Walgren, Graham M11             4) Zalewski, Francesca W9         
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Forest Hills Swim Club  'A'                            NT    2:16.07    8  
+     1) McKinley, Gillian 12            2) Hassett, Kelley 12             
+     3) Vaughan, Isabella 14            4) Higgins, Amylia 13             
+  2 Cranbook SwimClub  'A'                            2:26.44    2:25.84    4  
+     1) McKenney, Lena 13               2) Austin, Karen 14               
+     3) Madigan, Erin 12                4) Keenan, Elena 12               
+  3 Forest Hills Swim Club  'B'                            NT   x2:29.75  
+     1) Davis, Cate 11                  2) Deighan, Haley 15              
+     3) Lee, Caroline 12                4) Lange, Penny 14                
+  4 Cranbook SwimClub  'B'                            2:58.08   x2:55.34  
+     1) Layer, Ella 15                  2) Layer, Mia 13                  
+     3) Darby, Ella 13                  4) Knoper, Libby 11               
+  5 Forest Hills Swim Club  'C'                            NT   x3:04.03  
+     1) Guffey, Clara 12                2) Murray, Meghan 14              
+     3) Walton, Abigail 12              4) Walton, Emerson 12             
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Forest Hills Swim Club  'A'                            NT    2:11.94    8  
+     1) McLean, Andrew 12               2) Bukowinski, Cameron 13         
+     3) Gregg, Owen 13                  4) Hassett, Scott 14              
+  2 Cranbook SwimClub  'B'                            2:25.31    2:17.61    4  
+     1) Branch, Patrick 15              2) Chutkow, Zane 14               
+     3) Whan, Ian 11                    4) Eberlein, Robbie 12            
+  3 Cranbook SwimClub  'A'                            2:23.42   x2:18.44  
+     1) Rijnovean, Elliot 11            2) Madigan, Drew 10               
+     3) Helton, David 18                4) Dinkeloo, William 13           
+  4 Forest Hills Swim Club  'B'                            NT   x2:34.86  
+     1) Heath, Kai 14                   2) Murray, Finn 11                
+     3) Rothweil, Alec 11               4) Kosiba, Keegan 13              
+  5 Forest Hills Swim Club  'C'                            NT   x2:56.46  
+     1) Walsh, Nathan 12                2) Johnson-Sears, Luke 14         
+     3) Ankatha, Ramey 13               4) Wade, Michael 13               
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Forest Hills Swim Club  'A'                            NT    1:58.36    8  
+     1) Misra, Camille 17               2) Blakely, Abigail 15            
+     3) Cousins, Cecilia 18             4) Derkevorkian, Sydney 14        
+  2 Cranbook SwimClub  'A'                            1:49.42    2:07.11    4  
+     1) McKenney, Ella 16               2) Pfeiffer, Lila 15              
+     3) Leahy, Erin 16                  4) Peil, Michaela 18              
+  3 Forest Hills Swim Club  'B'                            NT   x2:11.54  
+     1) McPhaul, Kamryn 15              2) Hoppen, Genevieve 17           
+     3) Cafferty, Chloe 16              4) Hiotaky, Laura 17              
+  4 Forest Hills Swim Club  'C'                            NT   x2:18.49  
+     1) Nummer, Brooke 16               2) May, Lily 15                   
+     3) Kozlowski, Samantha 15          4) Edwards, Jayne 16              
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Forest Hills Swim Club  'A'                            NT    1:45.72    8  
+     1) Bukowinski, Joshua 15           2) Bukowinski, Iain 17            
+     3) Higgins, Robbie Jack 14         4) Dimsdale, Colby 16             
+  2 Forest Hills Swim Club  'B'                            NT   x1:59.15  
+     1) Liddell, Bryce 16               2) Wallgren, Arthur 17            
+     3) Hewson, Noah 15                 4) Chekal, Danny 17               
+  3 Cranbook SwimClub  'A'                            2:05.41    2:03.63    4  
+     1) Austin, Tyler 17                2) Bautista, Carlo 14             
+     3) Bergmann, Maximilian 14         4) Chutkow, Tate 16               
+  4 Forest Hills Swim Club  'C'                            NT   x2:21.79  
+     1) Memmer, Matthew 16              2) Singh, Max 13                  
+     3) Schroeder, Erich 14             4) Slavin, Ethan 14               

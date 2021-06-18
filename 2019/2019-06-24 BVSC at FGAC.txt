@@ -1,0 +1,783 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cho, Annika               11 GLEN-ZZ                37.33      38.56    5  
+  2 Cline, Lily               12 GLEN-ZZ                40.91      39.81    3  
+  3 Hodges, Lillian           12 GLEN-ZZ                42.12     x43.32  
+  4 Thompson-Lange, Maddie     9 Beechview-MI         1:10.61    1:09.76    2  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 DeMartini, Paul           11 GLEN-ZZ                39.58      37.65    5  
+  2 Brady, Gavin              12 GLEN-ZZ                53.80      54.04    3  
+  3 Kelly, Brenden            12 GLEN-ZZ                54.47     x55.18  
+  4 Salhaney, Dylan           11 Beechview-MI           54.04      55.65    2  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kindseth, Viv             14 GLEN-ZZ              1:17.25    1:14.94    5  
+  2 Yardley, Louisa           14 Beechview-MI              NT    1:20.84    3  
+  3 Anzivino, Emma            14 Beechview-MI              NT    1:21.81    2  
+  4 McEvilly, Mya             13 GLEN-ZZ              1:23.16    1:22.37    1  
+  5 Burke, Miranda            14 Beechview-MI              NT   x1:24.79  
+  6 Heard, Ameliya            14 GLEN-ZZ              1:24.79   x1:25.45  
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ezzeddine, Hassan         14 GLEN-ZZ              1:11.80    1:11.26    5  
+  2 Roberts, Foster           14 Beechview-MI              NT    1:15.69    3  
+  3 Hahn, Bo                  14 GLEN-ZZ              1:21.32    1:16.60    2  
+  4 Gerzema, Paddy            13 GLEN-ZZ              1:21.31   x1:18.25  
+  5 Ludden, Daniel            13 Beechview-MI         1:19.04    1:19.39    1  
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Greaves, Madeline         15 GLEN-ZZ                33.22      35.46    5  
+  2 Borregard, Dayna          18 Beechview-MI           36.95      37.36    3  
+  3 Fleming, Kristen          15 GLEN-ZZ                37.53      38.12    2  
+  4 Greaves, Mack             18 GLEN-ZZ                35.40     x40.31  
+  5 Koon, Sophia              17 Beechview-MI           50.65      49.17    1  
+  6 McCown, Katie             15 Beechview-MI           53.42     x53.22  
+ -- Meier, Paige              15 GLEN-ZZ                57.79     X40.75  
+ -- Inch, Gabby               17 GLEN-ZZ                42.29     X43.34  
+ -- Hahn, Goldie              16 GLEN-ZZ                38.37     X43.49  
+ -- Riley, Aidan              15 GLEN-ZZ                46.01     X45.73  
+ -- Cline, Charlotte          15 GLEN-ZZ                52.38     X46.61  
+ -- Kindseth, Ellie           16 GLEN-ZZ                42.77     X46.92  
+ -- Ezzeddine, Taima          16 GLEN-ZZ                44.34     X47.00  
+ -- Palma, Sophia             15 GLEN-ZZ                   NT     X51.37  
+ -- McDonald, Kelsey          15 GLEN-ZZ                   NT     X51.42  
+ -- Schroeder, Lia            15 GLEN-ZZ                51.55     X51.43  
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Lane, Matt                17 GLEN-ZZ                31.60      32.92    5  
+  2 Kozara, Evan              17 Beechview-MI           34.02      34.65    3  
+  3 Hinckley, Drew            18 Beechview-MI           34.26      34.66    2  
+  4 McDonald, Mario           17 GLEN-ZZ                40.72      35.27    1  
+  5 Radomski, Alex            15 Beechview-MI           38.50     x39.45  
+  6 Pennington, Ryan          18 GLEN-ZZ                38.61     x40.00  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Stricher, Jill             8 Beechview-MI           24.96      25.69    5  
+  2 Birmelin, Kinley           6 Beechview-MI           24.19      28.43    3  
+  3 Leon, Lola                 7 GLEN-ZZ                27.92      30.61    2  
+  4 Vankoughnet, Anna          8 GLEN-ZZ                27.89     J31.37    1  
+  5 Salhaney, Emma             8 Beechview-MI           31.20    xJ31.01  
+ -- Thompson-Lange, Sophie     8 Beechview-MI           34.24     X29.84  
+ -- Black, Bree                8 Beechview-MI           36.14     X32.26  
+ -- Fowler, Evi                6 Beechview-MI           35.76     X33.44  
+ -- Schan, Ellie               7 GLEN-ZZ                39.20     X37.52  
+ -- Welday, Natalie            8 GLEN-ZZ                39.03     X40.28  
+ -- Meehan, Layla              6 Beechview-MI           29.08     X40.89  
+ -- Drozd, Sarah               6 Beechview-MI           36.24     X43.77  
+ -- de Four, Luca              7 Beechview-MI           52.60     X45.76  
+ -- Peura, Morgan              6 GLEN-ZZ                43.93     X53.14  
+ -- Mahjoory, Maxine           5 GLEN-ZZ                53.73     X55.25  
+ -- Black, Catherine           6 Beechview-MI         1:03.67     X55.53  
+ -- McCown, Maggie             6 Beechview-MI           44.54     X57.03  
+ -- Cranson, Raina             6 Beechview-MI           51.49     X58.71  
+ -- Black, Juliet              8 Beechview-MI           47.83     X59.66  
+ -- McEvilly, Sloane           6 GLEN-ZZ              1:00.04   X1:22.53  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cho, Markus                8 GLEN-ZZ                22.40      22.76    5  
+  2 Kipf, Oliver               8 GLEN-ZZ                25.19      23.84    3  
+  3 Skubic, Keaton             8 GLEN-ZZ                26.08     x27.73  
+  4 Hougard, Chase             7 Beechview-MI           29.08      31.83    2  
+  5 Richard, Alex              8 Beechview-MI           35.86      32.70    1  
+  6 Piggott, Edwin             7 Beechview-MI           39.13     x51.34  
+ -- Schroeder, Griffin         6 GLEN-ZZ                   NT     X30.83  
+ -- Vendittelli, Henry         8 GLEN-ZZ                34.91     X33.08  
+ -- Visconti, Benjamin         8 GLEN-ZZ                33.27     X33.56  
+ -- Brady, Kellan              7 GLEN-ZZ              1:09.69     X36.21  
+ -- Stilwill, Christian        7 GLEN-ZZ                49.82     X40.58  
+ -- Varga, Gavin               7 Beechview-MI           39.73     X41.25  
+ -- Moulliet, Henry            7 Beechview-MI           46.33     X41.61  
+ -- Roberts, Weston            7 GLEN-ZZ                39.47     X41.63  
+ -- Vendittelli, Charlie       6 GLEN-ZZ                43.32     X41.94  
+ -- Etue, Aidan                8 GLEN-ZZ                43.41     X42.21  
+ -- Vankoughnet, Kyle          5 GLEN-ZZ                35.27     X45.49  
+ -- Schultz, Lucas             7 GLEN-ZZ                54.48     X46.77  
+ -- Schleicher, Edison         6 Beechview-MI           52.60     X47.35  
+ -- Beacome, Ben               5 GLEN-ZZ                59.52     X55.09  
+ -- Rusak, Blake               6 GLEN-ZZ              1:09.72     X55.69  
+ -- Bridges, Charlie           5 GLEN-ZZ                   NT   X1:13.60  
+ -- Lemieux, Gabriel           7 GLEN-ZZ              1:05.28   X1:16.97  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Dicks, Maddie             10 GLEN-ZZ                34.65      35.70    5  
+  2 Hodges, Eleanor           10 GLEN-ZZ                50.12      49.13    3  
+  3 Kowalski, Claire           9 GLEN-ZZ                53.43     x59.52  
+  4 Vassas, Ada                9 Beechview-MI         1:01.81    1:01.00    2  
+  5 Cranson, Sona              9 Beechview-MI         1:02.02    1:01.93    1  
+ -- Gerzema, Libby             9 GLEN-ZZ                   NT     X52.16  
+ -- Shelly, Brooke             9 GLEN-ZZ                   NT     X55.05  
+ -- Roberts, Viviana          10 GLEN-ZZ              1:02.41     X59.88  
+ -- Millar, Megan             10 GLEN-ZZ                56.38   X1:03.81  
+ -- Graca, Kendra              9 GLEN-ZZ              1:03.83   X1:03.85  
+ -- Rusak, Allie              10 GLEN-ZZ              1:12.77   X1:04.83  
+ -- Yost, Alyssa              10 GLEN-ZZ              1:09.18   X1:05.23  
+ -- Zdyrski, Logan            10 GLEN-ZZ              1:11.83   X1:05.42  
+ -- Duggan, Kelly              9 GLEN-ZZ              1:12.23   X1:09.50  
+ -- McEvilly, Ryann            9 GLEN-ZZ              1:04.82   X1:11.35  
+ -- Skubic, Tatum             10 GLEN-ZZ              1:14.65   X1:13.94  
+ -- Puhl, Charlie              9 GLEN-ZZ              1:35.10   X1:18.32  
+ -- Gilliam, Maya              9 GLEN-ZZ              1:39.55   X1:19.70  
+ -- Rottet, Ceci               9 GLEN-ZZ              1:48.91   X1:21.73  
+ -- Schultz, Shannon           9 GLEN-ZZ              1:30.78   X1:28.26  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gurgel, Kyle               9 GLEN-ZZ                44.62      45.74    5  
+  2 Stricher, Grayson         10 Beechview-MI           58.41      55.13    3  
+  3 Kindseth, Levi             9 GLEN-ZZ              1:11.39      55.99    2  
+  4 Custard, Jacob            10 Beechview-MI         1:12.83    1:05.08    1  
+  5 Poullelaouen, Flynn        9 GLEN-ZZ              1:12.25   x1:05.24  
+ -- Hansen, Dane               9 GLEN-ZZ                   NT   X1:04.80  
+ -- Peura, Brody               9 GLEN-ZZ                   NT   X1:08.85  
+ -- Miller, BO                10 GLEN-ZZ              1:18.76   X1:23.46  
+ -- Echols, Cody               9 GLEN-ZZ              1:29.44   X1:30.34  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Taylor, Ocean             12 GLEN-ZZ                30.57      30.00    5  
+  2 Gurgel, Hannah            11 GLEN-ZZ                30.50      30.52    3  
+  3 Wilder, Sarah             12 GLEN-ZZ                31.63     x32.71  
+  4 Thompson-Lange, Maddie     9 Beechview-MI         1:00.80      59.29    2  
+  5 de Four, Maya              9 Beechview-MI         1:04.26      59.95    1  
+ -- Millar, Melanie           12 GLEN-ZZ                33.73     X33.86  
+ -- Weber, Sarah              12 GLEN-ZZ                35.45     X34.86  
+ -- Golicz, Kaitlyn           11 GLEN-ZZ                36.37     X35.46  
+ -- Larick, Meagan            12 GLEN-ZZ                36.02     X35.48  
+ -- Visser, Sydney            12 GLEN-ZZ                36.94     X35.85  
+ -- Meier, Kellan             12 GLEN-ZZ                36.81     X37.18  
+ -- Gerzema, Nora             11 GLEN-ZZ                38.74     X38.44  
+ -- Mott, Margo               11 GLEN-ZZ                38.85     X38.90  
+ -- Shelly, Teagan            11 GLEN-ZZ                45.29     X40.02  
+ -- Etue, Arielle             11 GLEN-ZZ                45.40     X42.74  
+ -- Norgard, Clare            11 GLEN-ZZ                45.80     X43.09  
+ -- Brown, Jacqueline         12 GLEN-ZZ                43.67     X44.43  
+ -- Grynaviski, Rose          11 GLEN-ZZ                45.03     X44.48  
+ -- Stanek, Katelyn           11 GLEN-ZZ                45.24     X45.42  
+ -- Palma, Isabella           11 GLEN-ZZ                46.65     X47.28  
+ -- Stewart, Alison           12 GLEN-ZZ                51.71     X47.71  
+ -- Visconti, Sophia          11 GLEN-ZZ              1:02.78     X51.71  
+ -- Deisinger, Izzy           11 GLEN-ZZ                53.51     X52.99  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Miller, William           12 GLEN-ZZ                39.35      39.65    5  
+  2 Brady, Gavin              12 GLEN-ZZ                40.74      40.76    3  
+  3 Salhaney, Dylan           11 Beechview-MI           46.58      45.12    2  
+  4 Goel, Noam                11 GLEN-ZZ                44.20     x45.42  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 D'Errico, Emme            13 Beechview-MI           30.00      31.41    5  
+  2 Goel, Mayah               14 GLEN-ZZ                35.62      33.83    3  
+  3 Schwalm, Lily             14 Beechview-MI           32.00      34.73    2  
+  4 Peura, Madelyn            14 GLEN-ZZ                36.20      35.54    1  
+  5 Jennings, Naima           14 Beechview-MI              NT     x35.87  
+  6 Kindseth, Annie           13 GLEN-ZZ                44.27     x37.07  
+ -- Kaczmar, Lillian          13 Beechview-MI           41.53     X39.39  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Golicz, Brendo            14 GLEN-ZZ                32.87      31.01    5  
+  2 Ezzeddine, Hassan         14 GLEN-ZZ                32.51      31.45    3  
+  3 Hess, Shane               13 Beechview-MI           33.54      32.01    2  
+  4 Grynaviski, Iggy          13 GLEN-ZZ                39.17     x37.38  
+  5 Nykanen, Ben              13 Beechview-MI           40.43      37.76    1  
+ -- Brady, Noah               13 GLEN-ZZ                52.03     X49.13  
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Feenstra, Bella           17 GLEN-ZZ                31.29      34.37    5  
+  2 Larick, Katie             16 GLEN-ZZ                33.39      34.44    3  
+  3 Munson, Lia               17 GLEN-ZZ                50.22     x34.71  
+  4 D'Errico, Ella            15 Beechview-MI           35.14      34.97    2  
+  5 Carter, Maddy             17 Beechview-MI           38.04      36.99    1  
+  6 McCown, Katie             15 Beechview-MI           50.09     x49.89  
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Yarian, Noah              18 GLEN-ZZ                25.70      28.31    5  
+  2 Mateyak, Elliot           17 Beechview-MI           30.15      30.45    3  
+  3 Xu, Daniel                16 Beechview-MI           31.32      31.42    2  
+  4 Udupi, Aayush             15 GLEN-ZZ                31.36      32.02    1  
+  5 Prahin, Michael           17 GLEN-ZZ                37.04     x33.26  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rusak, Tessa               8 GLEN-ZZ                21.64      21.35    5  
+  2 Stricher, Jill             8 Beechview-MI           21.57      21.49    3  
+  3 Harvill, Rian              8 GLEN-ZZ                24.86      23.81    2  
+  4 Burnham, Grace             8 Beechview-MI           24.84      25.01    1  
+  5 Mahjoory, Minah            8 GLEN-ZZ                24.98     x25.85  
+  6 Thompson-Lange, Sophie     8 Beechview-MI           29.07     x26.35  
+ -- Black, Bree                8 Beechview-MI           29.07     X28.20  
+ -- Drozd, Sarah               6 Beechview-MI           32.02     X29.24  
+ -- Leon, Lola                 7 GLEN-ZZ                32.38     X29.32  
+ -- Salhaney, Emma             8 Beechview-MI           33.20     X31.50  
+ -- Black, Juliet              8 Beechview-MI           39.77     X32.16  
+ -- Welday, Natalie            8 GLEN-ZZ                30.10     X32.96  
+ -- Meehan, Layla              6 Beechview-MI           32.99     X33.96  
+ -- Schan, Ellie               7 GLEN-ZZ                34.75     X35.17  
+ -- Fowler, Evi                6 Beechview-MI           39.92     X36.20  
+ -- Rottet, Lili               7 GLEN-ZZ                41.46     X41.14  
+ -- McCown, Maggie             6 Beechview-MI           50.18     X42.24  
+ -- Black, Catherine           6 Beechview-MI           44.83     X43.71  
+ -- Cranson, Raina             6 Beechview-MI           29.43     X46.95  
+ -- McEvilly, Sloane           6 GLEN-ZZ                59.12     X49.90  
+ -- Peura, Morgan              6 GLEN-ZZ                46.13     X51.83  
+ -- de Four, Luca              7 Beechview-MI           43.15   X1:10.31  
+ -- Skubic, Piper              4 GLEN-ZZ                   NT   X1:19.15  
+ -- Mahjoory, Maxine           5 GLEN-ZZ                   NT   X1:57.41  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Golicz, Aidan              7 GLEN-ZZ                20.39      20.32    5  
+  2 Echols, George             7 GLEN-ZZ                21.74      20.79    3  
+  3 Skubic, Keaton             8 GLEN-ZZ                21.18     x23.01  
+  4 Hougard, Chase             7 Beechview-MI           25.59      24.18    2  
+  5 Richard, Alex              8 Beechview-MI           31.36      28.40    1  
+  6 Holmes, Christopher        7 Beechview-MI           31.19     x30.47  
+ -- Visconti, Benjamin         8 GLEN-ZZ                27.69     X27.85  
+ -- Bailey, Miles              8 GLEN-ZZ                30.10     X29.52  
+ -- Etue, Aidan                8 GLEN-ZZ                31.15     X30.66  
+ -- Roberts, Weston            7 GLEN-ZZ                27.94     X30.69  
+ -- Varga, Gavin               7 Beechview-MI           31.80     X30.96  
+ -- Schroeder, Griffin         6 GLEN-ZZ                32.63     X32.16  
+ -- Vendittelli, Charlie       6 GLEN-ZZ                35.05     X32.41  
+ -- Stilwill, Christian        7 GLEN-ZZ                34.19     X34.56  
+ -- Brady, Kellan              7 GLEN-ZZ                35.48     X34.64  
+ -- Schultz, Lucas             7 GLEN-ZZ                39.46     X35.81  
+ -- Moulliet, Henry            7 Beechview-MI           39.76     X36.72  
+ -- Schleicher, Edison         6 Beechview-MI           43.95     X40.97  
+ -- Vankoughnet, Kyle          5 GLEN-ZZ                41.05     X42.17  
+ -- Gerzema, Jack              5 GLEN-ZZ                40.23     X43.07  
+ -- Piggott, Edwin             7 Beechview-MI           37.91     X43.59  
+ -- Lemieux, Gabriel           7 GLEN-ZZ                46.15     X43.83  
+ -- Beacome, Ben               5 GLEN-ZZ                49.90     X47.63  
+ -- Rusak, Blake               6 GLEN-ZZ                44.32     X53.18  
+ -- Stricher, Jack             5 Beechview-MI           55.02     X55.36  
+ -- Vassas, Marcus             6 Beechview-MI           51.52     X56.38  
+ -- Bridges, Charlie           5 GLEN-ZZ              1:26.49   X1:17.65  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Taylor, Sierra            10 GLEN-ZZ                53.23      50.80    5  
+  2 Kowalski, Claire           9 GLEN-ZZ                53.98      54.33    3  
+  3 Gerzema, Libby             9 GLEN-ZZ                57.82     x56.93  
+  4 Cranson, Sona              9 Beechview-MI         1:00.44      57.15    2  
+  5 Cranson, Shaila           10 Beechview-MI         1:01.51    1:01.11    1  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kipf, Zachary             10 GLEN-ZZ                51.83      53.11    5  
+  2 Vankoughnet, Ben          10 GLEN-ZZ              1:01.99      58.43    3  
+  3 Goel, Ethan                9 GLEN-ZZ                   NT   x1:05.49  
+  4 Piggott, Jackson           9 Beechview-MI         1:09.14    1:05.57    2  
+  5 Seals, Ronin              10 Beechview-MI         1:21.44    1:17.52    1  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Taylor, Ocean             12 GLEN-ZZ              1:12.17    1:16.20    5  
+  2 Cho, Annika               11 GLEN-ZZ              1:24.77    1:20.04    3  
+  3 Wilder, Sarah             12 GLEN-ZZ              1:29.63   x1:25.61  
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Marinucci, Sam            12 GLEN-ZZ                   NT    1:21.61    5  
+  2 Szuba, Jack               12 GLEN-ZZ              1:29.00    1:27.24    3  
+  3 Peura, Benjamin           12 GLEN-ZZ              2:01.89   x1:41.89  
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kindseth, Viv             14 GLEN-ZZ                39.56      38.84    5  
+  2 Anzivino, Emma            14 Beechview-MI           42.06      41.19    3  
+  3 Schwalm, Lily             14 Beechview-MI           42.82     J44.13    2  
+  4 Rinker, Christine         14 GLEN-ZZ                39.95      44.12    1  
+  5 Heard, Ameliya            14 GLEN-ZZ                40.33    xJ41.31  
+ -- Bock, Anneka              13 Beechview-MI           53.70     X50.33  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Roberts, Foster           14 Beechview-MI              NT      37.77    5  
+  2 Hahn, Bo                  14 GLEN-ZZ                37.44      37.93    3  
+  3 Ludden, Daniel            13 Beechview-MI           39.47      38.59    2  
+  4 Gerzema, Paddy            13 GLEN-ZZ                39.75      41.12    1  
+  5 Harvill, Aidan            14 GLEN-ZZ                49.75     x50.14  
+  6 Heinicke, Will            13 Beechview-MI              NT     x59.44  
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Greaves, Madeline         15 GLEN-ZZ              1:15.82    1:02.05    5  
+  2 Larick, Katie             16 GLEN-ZZ              1:06.65   J1:08.91    3  
+  3 Pierini, Kate             17 GLEN-ZZ                   NT  xJ1:08.80  
+  4 Evers, Emily              15 Beechview-MI              NT    1:09.64    2  
+  5 Carter, Maddy             17 Beechview-MI         1:10.35    1:09.85    1  
+  6 Nykanen, Danielle         17 Beechview-MI              NT   x1:14.88  
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Jamieson, Brodeo          16 GLEN-ZZ                53.01      54.79    5  
+  2 Jones, Bird               16 GLEN-ZZ                52.21      54.88    3  
+  3 Hinckley, Drew            18 Beechview-MI           55.71      55.82    2  
+  4 McDonald, Mario           17 GLEN-ZZ                56.56     x56.18  
+  5 Mateyak, Elliot           17 Beechview-MI           57.79      57.84    1  
+  6 Strasberger, Tristan      18 Beechview-MI         1:01.21   x1:01.70  
+ -- Prahin, Michael           17 GLEN-ZZ                58.55     X57.69  
+ -- Bartman, Owen             16 GLEN-ZZ              1:00.93   X1:02.99  
+ -- Radomski, Alex            15 Beechview-MI              NT   X1:03.93  
+ -- Szuba, Scooby             15 GLEN-ZZ              1:04.62   X1:04.68  
+ -- Rinker, Josh              15 GLEN-ZZ                   NT   X1:05.82  
+ -- Howell, Griffin           18 GLEN-ZZ              1:04.34   X1:10.10  
+ -- Brady, Quinn              15 GLEN-ZZ                   NT   X1:12.67  
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Birmelin, Kinley           6 Beechview-MI           22.94      22.77    5  
+  2 Rusak, Tessa               8 GLEN-ZZ                39.21      28.67    3  
+  3 Beacome, Clare             8 GLEN-ZZ                34.29      34.81    2  
+  4 Anzivino, Olivia           8 Beechview-MI              NT      35.28    1  
+  5 Vankoughnet, Anna          8 GLEN-ZZ                33.93     x37.23  
+  6 Seals, Zoe                 7 Beechview-MI           36.14     x38.11  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kipf, Oliver               8 GLEN-ZZ                22.69      24.40    5  
+  2 Echols, George             7 GLEN-ZZ                30.17      29.31    3  
+  3 Vendittelli, Henry         8 GLEN-ZZ                28.28     x30.80  
+  4 Holmes, Christopher        7 Beechview-MI         1:13.36      46.21    2  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Greaves, Leah             10 GLEN-ZZ                43.50      42.54    5  
+  2 Hougard, Ayla             10 Beechview-MI           46.35      45.70    3  
+  3 Duggan, Kelly              9 GLEN-ZZ                51.13      52.90    2  
+  4 Cranson, Shaila           10 Beechview-MI         1:06.03    1:01.61    1  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kipf, Zachary             10 GLEN-ZZ                44.02      43.57    5  
+  2 Stricher, Grayson         10 Beechview-MI           54.53      52.56    3  
+  3 Dicks, Mikey               9 GLEN-ZZ                   NT    1:00.53    2  
+  4 Vankoughnet, Ben          10 GLEN-ZZ              1:00.98   x1:00.83  
+  5 Axe, Anderson              9 Beechview-MI           57.22    1:01.41    1  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Meyer, Sydney             12 GLEN-ZZ                35.35      35.20    5  
+  2 Millar, Melanie           12 GLEN-ZZ                34.31      36.52    3  
+  3 Larick, Meagan            12 GLEN-ZZ                39.58     x39.76  
+  4 de Four, Maya              9 Beechview-MI         1:12.26    1:20.53    2  
+ -- O'Connor, Jessalee        12 GLEN-ZZ                41.66     X39.94  
+ -- Cline, Lily               12 GLEN-ZZ                46.58     X40.09  
+ -- Hodges, Lillian           12 GLEN-ZZ                42.62     X42.30  
+ -- Weber, Sarah              12 GLEN-ZZ                44.47     X43.58  
+ -- Meier, Kellan             12 GLEN-ZZ                44.11     X45.09  
+ -- Gerzema, Nora             11 GLEN-ZZ                47.12     X47.58  
+ -- Golicz, Kaitlyn           11 GLEN-ZZ                50.68     X48.63  
+ -- Shelly, Teagan            11 GLEN-ZZ              1:01.04     X51.05  
+ -- Etue, Arielle             11 GLEN-ZZ                57.22     X52.28  
+ -- Norgard, Clare            11 GLEN-ZZ                53.21     X52.34  
+ -- Visser, Sydney            12 GLEN-ZZ                50.02     X54.25  
+ -- Grynaviski, Rose          11 GLEN-ZZ                58.78     X55.57  
+ -- Mott, Margo               11 GLEN-ZZ                56.03     X57.01  
+ -- Stanek, Katelyn           11 GLEN-ZZ                57.94     X59.17  
+ -- Deisinger, Izzy           11 GLEN-ZZ              1:10.08   X1:01.29  
+ -- Brown, Jacqueline         12 GLEN-ZZ              1:00.07   X1:01.94  
+ -- Palma, Isabella           11 GLEN-ZZ              1:07.89   X1:04.24  
+ -- Stewart, Alison           12 GLEN-ZZ              1:03.86   X1:06.58  
+ -- Visconti, Sophia          11 GLEN-ZZ              1:19.29   X1:07.29  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Marinucci, Sam            12 GLEN-ZZ                43.83      37.90    5  
+  2 Szuba, Jack               12 GLEN-ZZ                38.73      38.14    3  
+  3 Ezzeddine, Machine        12 GLEN-ZZ                51.48     x49.66  
+  4 Piggott, Jackson           9 Beechview-MI         1:16.09    1:19.53    2  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Mateyak, Rachael          13 Beechview-MI           35.71      34.54    5  
+  2 McEvilly, Mya             13 GLEN-ZZ                35.48      37.42    3  
+  3 Jennings, Naima           14 Beechview-MI           38.43      38.17    2  
+  4 Peura, Madelyn            14 GLEN-ZZ                38.07      38.62    1  
+  5 Kindseth, Annie           13 GLEN-ZZ                40.99     x40.05  
+  6 Burke, Miranda            14 Beechview-MI           40.87     x40.46  
+ -- Marinucci, Reagan         14 GLEN-ZZ                42.28     X38.65  
+ -- Rasico, Claire            14 GLEN-ZZ                44.32     X41.75  
+ -- Kowalski, Madelyn         13 GLEN-ZZ                51.28     X42.91  
+ -- Millar, Mandy             14 GLEN-ZZ                44.04     X43.34  
+ -- Rinker, Christine         14 GLEN-ZZ                41.15     X43.62  
+ -- Howell, Maddox            13 GLEN-ZZ                49.34     X45.53  
+ -- Hoisington, Natalie       14 GLEN-ZZ                44.47     X45.97  
+ -- Hansen, Molly             13 GLEN-ZZ                53.55     X49.41  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gurgel, Ryan              14 GLEN-ZZ                34.43      31.74    5  
+  2 Grynaviski, Iggy          13 GLEN-ZZ                43.88      40.08    3  
+  3 Axe, Jeremiah             13 Beechview-MI           42.25      41.42    2  
+  4 Brady, Noah               13 GLEN-ZZ              1:08.79     x59.78  
+  5 Heinicke, Will            13 Beechview-MI              NT    1:00.42    1  
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Inch, Emma                17 GLEN-ZZ              1:05.91    1:10.13    5  
+  2 Petrak, Julianna          17 GLEN-ZZ              1:08.43    1:10.83    3  
+  3 Borregard, Dayna          18 Beechview-MI         1:13.37    1:13.55    2  
+  4 Pierini, Kate             17 GLEN-ZZ              1:09.13   x1:14.67  
+  5 Koon, Sophia              17 Beechview-MI              NT    1:34.03    1  
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Jones, Bird               16 GLEN-ZZ                58.87    1:03.32    5  
+  2 Lane, Matt                17 GLEN-ZZ              1:04.10    1:05.60    3  
+  3 Kozara, Evan              17 Beechview-MI         1:06.09    1:06.50    2  
+  4 Ludden, Andrew            17 Beechview-MI         1:08.76    1:10.02    1  
+  5 Udupi, Aayush             15 GLEN-ZZ              1:08.28   x1:10.32  
+  6 Xu, Daniel                16 Beechview-MI              NT   x1:10.57  
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Beacome, Clare             8 GLEN-ZZ                35.69      35.54    5  
+  2 Harvill, Rian              8 GLEN-ZZ                33.44      36.89    3  
+  3 Burnham, Grace             8 Beechview-MI              NT      37.33    2  
+  4 Mahjoory, Minah            8 GLEN-ZZ                42.02     x38.91  
+  5 Anzivino, Olivia           8 Beechview-MI              NT      42.03    1  
+  6 Seals, Zoe                 7 Beechview-MI              NT     x49.89  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cho, Markus                8 GLEN-ZZ                23.00      23.25    5  
+  2 Golicz, Aidan              7 GLEN-ZZ                26.84      31.30    3  
+  3 Bailey, Miles              8 GLEN-ZZ                46.93     x46.98  
+ -- Gerzema, Jack              5 GLEN-ZZ                47.27     X50.92  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Dicks, Maddie             10 GLEN-ZZ                35.41      33.47    5  
+  2 Greaves, Leah             10 GLEN-ZZ                34.13      35.19    3  
+  3 Hougard, Ayla             10 Beechview-MI           37.09      35.79    2  
+  4 Hodges, Eleanor           10 GLEN-ZZ                42.50     x42.29  
+  5 Moulliet, Clara           10 Beechview-MI           53.03      47.48    1  
+ -- Roberts, Viviana          10 GLEN-ZZ                47.20     X46.73  
+ -- Rusak, Allie              10 GLEN-ZZ                48.77     X48.27  
+ -- Yost, Alyssa              10 GLEN-ZZ                49.21     X48.35  
+ -- Shelly, Brooke             9 GLEN-ZZ                47.50     X50.40  
+ -- Graca, Kendra              9 GLEN-ZZ                54.58     X50.50  
+ -- Skubic, Tatum             10 GLEN-ZZ                54.07     X50.56  
+ -- Zdyrski, Logan            10 GLEN-ZZ                51.61     X50.85  
+ -- Millar, Megan             10 GLEN-ZZ                49.58     X51.84  
+ -- McEvilly, Ryann            9 GLEN-ZZ                49.95     X53.31  
+ -- Gilliam, Maya              9 GLEN-ZZ              1:03.38   X1:00.82  
+ -- Puhl, Charlie              9 GLEN-ZZ              1:00.51   X1:04.58  
+ -- Rottet, Ceci               9 GLEN-ZZ              1:08.32   X1:12.63  
+ -- Schultz, Shannon           9 GLEN-ZZ              1:19.07   X1:18.88  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gurgel, Kyle               9 GLEN-ZZ                37.25      37.72    5  
+  2 Axe, Anderson              9 Beechview-MI           40.20      42.74    3  
+  3 Dicks, Mikey               9 GLEN-ZZ                58.78      56.53    2  
+  4 Seals, Ronin              10 Beechview-MI         1:13.77      57.79    1  
+  5 Poullelaouen, Flynn        9 GLEN-ZZ              1:00.02     x58.33  
+ -- Goel, Ethan                9 GLEN-ZZ                   NT     X49.51  
+ -- Peura, Brody               9 GLEN-ZZ                   NT     X50.96  
+ -- Kindseth, Levi             9 GLEN-ZZ              1:09.70     X55.62  
+ -- Miller, BO                10 GLEN-ZZ              1:01.91     X57.52  
+ -- Hansen, Dane               9 GLEN-ZZ                   NT     X57.53  
+ -- Echols, Cody               9 GLEN-ZZ                   NT   X1:05.57  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Meyer, Sydney             12 GLEN-ZZ                42.42      43.16    5  
+  2 Gurgel, Hannah            11 GLEN-ZZ                41.46      43.30    3  
+  3 O'Connor, Jessalee        12 GLEN-ZZ                43.50     x45.43  
+  4 Vassas, Ada                9 Beechview-MI         1:08.00    1:05.38    2  
+  5 Moulliet, Clara           10 Beechview-MI         1:08.91    1:07.66    1  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 DeMartini, Paul           11 GLEN-ZZ                47.22      46.00    5  
+  2 Ezzeddine, Machine        12 GLEN-ZZ                51.70      50.82    3  
+  3 Goel, Noam                11 GLEN-ZZ                55.16     x58.19  
+  4 Custard, Jacob            10 Beechview-MI         1:28.39    1:08.45    2  
+ -- Kelly, Brenden            12 GLEN-ZZ                56.67     X53.38  
+ -- Miller, William           12 GLEN-ZZ                57.23     X53.72  
+ -- Peura, Benjamin           12 GLEN-ZZ                59.91     X58.94  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 D'Errico, Emme            13 Beechview-MI              NT      29.33    5  
+  2 Mateyak, Rachael          13 Beechview-MI              NT      30.34    3  
+  3 Yardley, Louisa           14 Beechview-MI              NT     x31.60  
+ -- Goel, Mayah               14 GLEN-ZZ                30.23     X30.04  
+ -- Rasico, Claire            14 GLEN-ZZ                32.82     X32.05  
+ -- Marinucci, Reagan         14 GLEN-ZZ                33.42     X32.46  
+ -- Kowalski, Madelyn         13 GLEN-ZZ                40.82     X34.88  
+ -- Kaczmar, Lillian          13 Beechview-MI           37.55     X36.29  
+ -- Howell, Maddox            13 GLEN-ZZ                40.21     X36.41  
+ -- Millar, Mandy             14 GLEN-ZZ                37.92     X36.81  
+ -- Hoisington, Natalie       14 GLEN-ZZ                38.12     X39.85  
+ -- Hansen, Molly             13 GLEN-ZZ                42.92     X41.50  
+ -- Bock, Anneka              13 Beechview-MI           38.58     X42.28  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hess, Shane               13 Beechview-MI           28.49      29.56    5  
+  2 Nykanen, Ben              13 Beechview-MI              NT      32.80    3  
+  3 Axe, Jeremiah             13 Beechview-MI           37.33     x37.77  
+ -- Gurgel, Ryan              14 GLEN-ZZ                28.90     X27.45  
+ -- Golicz, Brendo            14 GLEN-ZZ                29.27     X28.11  
+ -- Harvill, Aidan            14 GLEN-ZZ                38.74     X37.44  
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Evers, Emily              15 Beechview-MI           34.38      34.01    5  
+  2 D'Errico, Ella            15 Beechview-MI              NT      34.08    3  
+  3 Nykanen, Danielle         17 Beechview-MI              NT     x37.66  
+ -- Munson, Lia               17 GLEN-ZZ                28.47     X30.74  
+ -- Petrak, Julianna          17 GLEN-ZZ                29.27     X31.16  
+ -- Inch, Emma                17 GLEN-ZZ                30.12     X31.79  
+ -- Feenstra, Bella           17 GLEN-ZZ                32.20     X33.09  
+ -- Fleming, Kristen          15 GLEN-ZZ                33.49     X33.41  
+ -- Meier, Paige              15 GLEN-ZZ                32.93     X34.05  
+ -- Greaves, Mack             18 GLEN-ZZ                31.60     X34.14  
+ -- Inch, Gabby               17 GLEN-ZZ                34.34     X34.92  
+ -- Ezzeddine, Taima          16 GLEN-ZZ                34.07     X37.41  
+ -- Cline, Charlotte          15 GLEN-ZZ                43.39     X39.09  
+ -- Palma, Sophia             15 GLEN-ZZ                   NT     X39.38  
+ -- Riley, Aidan              15 GLEN-ZZ                40.46     X39.80  
+ -- Hahn, Goldie              16 GLEN-ZZ                42.22     X39.92  
+ -- McDonald, Kelsey          15 GLEN-ZZ                   NT     X44.49  
+ -- Kindseth, Ellie           16 GLEN-ZZ                43.94     X45.22  
+ -- Schroeder, Lia            15 GLEN-ZZ                47.52     X45.25  
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ludden, Andrew            17 Beechview-MI           29.83      30.26    5  
+  2 Strasberger, Tristan      18 Beechview-MI           30.37      30.81    3  
+ -- Yarian, Noah              18 GLEN-ZZ                25.23     X27.49  
+ -- Jamieson, Brodeo          16 GLEN-ZZ                26.77     X28.05  
+ -- Bartman, Owen             16 GLEN-ZZ                29.03     X30.73  
+ -- Rinker, Josh              15 GLEN-ZZ                32.53     X32.24  
+ -- Howell, Griffin           18 GLEN-ZZ                33.41     X33.29  
+ -- Szuba, Scooby             15 GLEN-ZZ                43.25     X35.01  
+ -- Pennington, Ryan          18 GLEN-ZZ                35.79     X36.09  
+ -- Brady, Quinn              15 GLEN-ZZ                38.18     X38.75  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                       2:53.51    2:59.09    8  
+     1) Ludden, Daniel M13              2) Stricher, Jill W8              
+     3) Vassas, Ada W9                  4) Custard, Jacob M10             
+  2 Beechview Swim Club-MI  'B'                            NT   x3:48.04  
+     1) Salhaney, Dylan M11             2) Moulliet, Clara W10            
+     3) Seals, Ronin M10                4) Burnham, Grace W8              
+  3 Beechview Swim Club-MI  'C'                            NT   x3:48.43  
+     1) Bock, Anneka W13                2) Hougard, Chase M7              
+     3) Anzivino, Olivia W8             4) Seals, Zoe W7                  
+ -- Farmington Glen Aquatic Club-ZZ  'A'              2:23.79   X2:19.96  
+     1) Taylor, Sierra W10              2) Greaves, Leah W10              
+     3) Gurgel, Kyle M9                 4) Gurgel, Hannah W11             
+ -- Farmington Glen Aquatic Club-ZZ  'B'                   NT   X2:54.04  
+     1) Hodges, Lillian W12             2) Hodges, Eleanor W10            
+     3) Kindseth, Levi M9               4) Duggan, Kelly W9               
+ -- Farmington Glen Aquatic Club-ZZ  'C'                   NT   X3:34.15  
+     1) Gerzema, Libby W9               2) Gerzema, Nora W11              
+     3) Gerzema, Jack M5                4) Gerzema, Paddy M13             
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                       3:43.91    3:16.38    8  
+     1) Stricher, Grayson M10           2) Cranson, Sona W9               
+     3) Kaczmar, Lillian W13            4) Birmelin, Kinley W6            
+  2 Beechview Swim Club-MI  'B'                            NT   x4:23.64  
+     1) Piggott, Jackson M9             2) Cranson, Shaila W10            
+     3) de Four, Maya W9                4) Thompson-Lange, Maddie W9      
+ -- Farmington Glen Aquatic Club-ZZ  'A'              2:39.29   X2:37.14  
+     1) Kipf, Zachary M10               2) Taylor, Ocean W12              
+     3) Dicks, Maddie W10               4) Cho, Markus M8                 
+ -- Farmington Glen Aquatic Club-ZZ  'B'                   NT   X2:48.25  
+     1) Cline, Lily W12                 2) Golicz, Kaitlyn W11            
+     3) DeMartini, Paul M11             4) Golicz, Aidan M7               
+ -- Farmington Glen Aquatic Club-ZZ  'C'                   NT   X2:59.12  
+     1) Shelly, Teagan W11              2) Kowalski, Claire W9            
+     3) Larick, Meagan W12              4) Kipf, Oliver M8                
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                       2:28.74    2:19.46    8  
+     1) Mateyak, Rachael 13             2) Evers, Emily 15                
+     3) D'Errico, Emme 13               4) Hougard, Ayla 10               
+ -- Farmington Glen Aquatic Club-ZZ  'A'              2:10.85   X2:14.81  
+     1) Cho, Annika 11                  2) Greaves, Madeline 15           
+     3) Kindseth, Viv 14                4) Wilder, Sarah 12               
+ -- Farmington Glen Aquatic Club-ZZ  'B'                   NT   X2:25.91  
+     1) McEvilly, Mya 13                2) Heard, Ameliya 14              
+     3) Millar, Melanie 12              4) Kindseth, Annie 13             
+ -- Farmington Glen Aquatic Club-ZZ  'C'                   NT   X2:41.42  
+     1) Peura, Madelyn 14               2) Meier, Kellan 12               
+     3) Rinker, Christine 14            4) Weber, Sarah 12                
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                       2:29.12    2:36.45    8  
+     1) Axe, Jeremiah 13                2) Roberts, Foster 14             
+     3) Xu, Daniel 16                   4) Axe, Anderson 9                
+ -- Farmington Glen Aquatic Club-ZZ  'A'              2:04.39   X2:14.64  
+     1) Szuba, Jack 12                  2) Ezzeddine, Hassan 14           
+     3) Gurgel, Ryan 14                 4) Marinucci, Sam 12              
+ -- Farmington Glen Aquatic Club-ZZ  'B'                   NT   X2:45.02  
+     1) Peura, Benjamin 12              2) Hahn, Bo 14                    
+     3) Grynaviski, Iggy 13             4) Miller, William 12             
+ -- Farmington Glen Aquatic Club-ZZ  'C'                   NT   X3:11.91  
+     1) Brady, Gavin 12                 2) Kelly, Brenden 12              
+     3) Brady, Quinn 15                 4) Ezzeddine, Machine 12          
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                       2:03.54    2:03.62    8  
+     1) Borregard, Dayna 18             2) Yardley, Louisa 14             
+     3) D'Errico, Ella 15               4) Carter, Maddy 17               
+  2 Beechview Swim Club-MI  'B'                            NT   x2:12.12  
+     1) Nykanen, Danielle 17            2) Jennings, Naima 14             
+     3) Schwalm, Lily 14                4) Anzivino, Emma 14              
+ -- Farmington Glen Aquatic Club-ZZ  'A'              1:55.67   X1:55.01  
+     1) Petrak, Julianna 17             2) Goel, Mayah 14                 
+     3) Inch, Emma 17                   4) Munson, Lia 17                 
+ -- Farmington Glen Aquatic Club-ZZ  'B'                   NT   X2:04.07  
+     1) Greaves, Mack 18                2) Fleming, Kristen 15            
+     3) Larick, Katie 16                4) Pierini, Kate 17               
+ -- Farmington Glen Aquatic Club-ZZ  'C'                   NT   X2:10.94  
+     1) Inch, Gabby 17                  2) Feenstra, Bella 17             
+     3) Marinucci, Reagan 14            4) Rasico, Claire 14              
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Beechview Swim Club-MI  'A'                       1:44.87    1:48.42    8  
+     1) Hinckley, Drew 18               2) Strasberger, Tristan 18        
+     3) Hess, Shane 13                  4) Kozara, Evan 17                
+  2 Beechview Swim Club-MI  'B'                            NT   x1:57.56  
+     1) Ludden, Andrew 17               2) Mateyak, Elliot 17             
+     3) Radomski, Alex 15               4) Nykanen, Ben 13                
+ -- Farmington Glen Aquatic Club-ZZ  'B'                   NT   X1:40.10  
+     1) Lane, Matt 17                   2) Jamieson, Brodeo 16            
+     3) McDonald, Mario 17              4) Jones, Bird 16                 
+ -- Farmington Glen Aquatic Club-ZZ  'A'              1:35.07   X1:46.00  
+     1) Prahin, Michael 17              2) Yarian, Noah 18                
+     3) Bartman, Owen 16                4) Udupi, Aayush 15               
+ -- Farmington Glen Aquatic Club-ZZ  'C'                   NT   X1:57.55  
+     1) Rinker, Josh 15                 2) Howell, Griffin 18             
+     3) Golicz, Brendo 14               4) Szuba, Scooby 15               

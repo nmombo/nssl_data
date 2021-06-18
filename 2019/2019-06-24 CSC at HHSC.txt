@@ -1,0 +1,795 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rapetti, Gabriella        12 Heart                  36.24      35.13    5  
+  2 McCauslin, Riley          11 Heart                  39.45      38.66    3  
+  3 Brown, Brooke             11 Dolphins               43.74      43.29    2  
+  4 Keenan, Elena             12 Dolphins               44.80      44.05    1  
+  5 Bahorski, Isabelle        11 Heart                  48.38     x47.91  
+  6 DeKruif, Kaitlin          12 Dolphins               54.56     x51.55  
+ -- Fraser, Avery             12 Heart                  47.21     X43.57  
+ -- Teknos, Eva               11 Heart                  48.02     X51.45  
+ -- Tafel, Ava                11 Heart                  59.24     X54.39  
+ -- Cosnowski, Ariel          11 Heart                  54.62     X55.84  
+ -- Gittner, Olivia           11 Heart                1:07.12   X1:02.22  
+ -- Beltran, Olivia           11 Heart                1:49.95   X1:37.82  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Elliot         11 Dolphins               35.31      35.36    5  
+  2 Moffitt, Kevin            11 Heart                  39.73      40.44    3  
+  3 Prindle, Matteo           11 Dolphins               43.34      43.12    2  
+  4 Santella, Charlie         12 Heart                  46.63      45.07    1  
+  5 English, Ben              12 Heart                  44.27     x47.44  
+  6 Bergmann, Alexander       12 Dolphins             1:07.47   x1:00.26  
+ -- Rheault, Drew             11 Heart                  43.93     X44.26  
+ -- Agius, Michael            11 Heart                  50.51     X47.83  
+ -- Bayne, Charlie            12 Heart                  56.41     X53.11  
+ -- Vollmayer, Vincent        11 Heart                  52.86     X54.71  
+ -- Dotson, Cameron           11 Heart                1:01.77     X55.89  
+ -- Palazzolo, Anthony        11 Heart                  57.02     X59.01  
+ -- Moriarty, Ryan            11 Heart                     NT   X1:01.74  
+ -- Beltran, Jorge            12 Heart                1:19.33   X1:16.39  
+ -- DeWitt, Dillon            11 Heart                1:18.48   X1:21.42  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Delaere, Megan            14 Heart                1:14.56    1:17.43    5  
+  2 Murphy, Mary              13 Heart                1:28.53    1:27.62    3  
+  3 Layer, Mia                13 Dolphins             1:55.39    1:30.93    2  
+  4 Darby, Ella               13 Dolphins             1:41.08    1:35.98    1  
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bautista, Carlo           14 Dolphins             1:34.23    1:22.47    5  
+  2 Louton, Andrew            12 Heart                1:26.40    1:24.92    3  
+  3 McIntyre, Diego           13 Dolphins             1:30.46    1:30.36    2  
+  4 Brennan, Michael          13 Dolphins             1:37.18   x1:31.53  
+  5 English, Ben              12 Heart                     NT    1:42.92    1  
+  6 Kavanaugh, Luke           11 Heart                     NT   x1:43.40  
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Evans, Kendall            17 Heart                  37.11      38.44    5  
+  2 Smythe, Sophie            18 Heart                  35.55      38.96    3  
+  3 Agius, Grace              15 Heart                  38.77     x39.82  
+  4 Backus, Virginia          17 Dolphins               37.10      40.43    2  
+  5 McKenney, Ella            16 Dolphins               43.00      41.58    1  
+  6 Leahy, Erin               16 Dolphins               42.76     x47.35  
+ -- Rinke, Catherine          18 Heart                  41.98     X44.17  
+ -- Rieger, Madison           16 Heart                  45.47     X45.07  
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Chutkow, Tate             16 Dolphins               32.46      32.04    5  
+  2 French, Ryan              15 Dolphins               36.10      34.34    3  
+  3 Steenson, Isaac           18 Heart                  33.18      34.41    2  
+  4 Louton, Tyler             15 Heart                  36.81      37.67    1  
+  5 Zalewski, Max             16 Dolphins               38.81     x38.51  
+ -- Walter, Benjamin          15 Dolphins               47.51     X43.26  
+ -- Leahy, Danny              15 Dolphins               48.47     X44.98  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Natalie         8 Dolphins               23.92      22.71    5  
+  2 Ley, Isla                  7 Dolphins               27.01      27.41    3  
+  3 Rank, Riley                8 Heart                  30.13      27.88    2  
+  4 Walker, Madison            8 Dolphins               32.21     x27.98  
+  5 Murphy, Maeve              8 Heart                  27.14      28.19    1  
+  6 Wilcox, Megan              8 Heart                  30.62     x29.92  
+ -- Kavanaugh, Clare           8 Heart                  36.95     X27.24  
+ -- Farr, Juliet               7 Heart                  31.43     X29.03  
+ -- Alstead, Mackenzie         7 Heart                  34.60     X29.67  
+ -- Villajuan, Ellory          7 Dolphins               34.74     X31.33  
+ -- Nagy, Amelia               8 Heart                  35.60     X31.71  
+ -- Rapetti, Claudia           7 Heart                  29.18     X33.10  
+ -- Mclachlan, Lilly           7 Dolphins               41.79     X34.68  
+ -- Garn, Skylar               6 Dolphins               34.33     X35.28  
+ -- Smith, Brooklyn            8 Dolphins               35.23     X37.26  
+ -- Walker, Olivia             8 Dolphins               39.25     X37.88  
+ -- Schaffner, Lilyana         6 Heart                  41.56     X39.45  
+ -- Wellington, Katelyn        7 Heart                  46.46     X40.09  
+ -- Dobski, Loren              7 Dolphins               42.91     X42.16  
+ -- Rieger, Olivia             7 Heart                  40.32     X42.25  
+ -- Husman, Lilly              6 Heart                     NT     X42.70  
+ -- Alstead, Caroline          4 Heart                  53.68   X1:25.74  
+ -- Bauman, Kayla              7 Heart                     NT   X2:24.97  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Kyle              8 Dolphins               23.72      23.37    5  
+  2 Quitmeyer, William         8 Heart                  30.00      24.90    3  
+  3 Nori, Gianni               8 Heart                  25.91      26.25    2  
+  4 Walgren, Desmond           8 Dolphins               28.47      27.00    1  
+  5 Bloyer, Colin              7 Dolphins               29.53     x30.86  
+  6 Sears, Mark                6 Heart                  32.07     x34.48  
+ -- Brown, CJ                  8 Dolphins               35.38     X32.92  
+ -- Schultz, Cooper            8 Heart                  37.70     X33.18  
+ -- Bakeman, Brett             8 Heart                  36.18     X37.18  
+ -- Sarris, Chase              6 Heart                     NT     X37.64  
+ -- Ellis, Keaton              8 Heart                     NT     X40.35  
+ -- Campbell, Elijah           6 Heart                  51.31     X40.99  
+ -- Sarris, Jake               6 Heart                     NT     X41.21  
+ -- Smith, Jackson             7 Dolphins                  NT     X41.43  
+ -- Bloyer, Ryan               6 Dolphins             1:01.00     X43.41  
+ -- Buchanan, Andrew           7 Heart                  49.12     X43.54  
+ -- Kratz, Trent               8 Heart                  39.36     X46.65  
+ -- Dillingham, Jaime          5 Dolphins             1:02.60     X51.48  
+ -- Rank, Finn                 6 Heart                1:03.93   X1:00.51  
+ -- Wilcox, Lucas              7 Heart                2:00.26   X1:05.17  
+ -- Damico, Vincenzo           6 Heart                1:06.50   X1:13.93  
+ -- Kalef, Kasen               6 Heart                4:00.94   X3:16.11  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Max, Emma                 10 Heart                  43.34      43.37    5  
+  2 Layer, Sophie             10 Dolphins               59.13      46.81    3  
+  3 Antwan, Lilly             10 Dolphins               53.78      50.44    2  
+  4 Kraytem, Leena            10 Dolphins               55.75     x50.76  
+  5 Murphy, MacKenna          10 Heart                  55.83      55.34    1  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Smith, Dylan               9 Dolphins                  NT      49.25    5  
+  2 Layer, Dylan              10 Dolphins             1:03.76      51.55    3  
+  3 Nagy, Luke                10 Heart                  57.14    1:00.27    2  
+  4 Villajuan, Auggie         10 Dolphins             1:09.16   x1:04.19  
+  5 Jarvis, Drew              10 Heart                1:00.99    1:05.50    1  
+ -- Pfeiffer, Calvin          10 Dolphins             1:17.09   X1:07.18  
+ -- Sarris, Grant              9 Heart                1:10.56   X1:07.87  
+ -- Ley, Roman                 9 Dolphins             1:21.65   X1:18.45  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 McCauslin, Riley          11 Heart                  32.46      33.09    5  
+  2 Landers, Olivia           11 Heart                  34.06      34.07    3  
+  3 Shelton, Maya             11 Dolphins               40.06      35.91    2  
+  4 Dehko, Grace              11 Dolphins               39.87      39.15    1  
+  5 Bahorski, Isabelle        11 Heart                  40.57     x40.19  
+  6 DeKruif, Kaitlin          12 Dolphins               40.56     x42.20  
+ -- Jehle, Emma               12 Heart                  35.90     X35.57  
+ -- Zaleski, Caterina         12 Heart                  37.07     X36.26  
+ -- Fraser, Avery             12 Heart                  38.22     X36.80  
+ -- Teknos, Eva               11 Heart                  39.98     X38.17  
+ -- Max, Alice                11 Heart                  38.02     X38.78  
+ -- Denhof, Julia             12 Dolphins               42.20     X40.19  
+ -- Schultz, Vivian           11 Heart                  46.40     X40.45  
+ -- Quitmeyer, Olivia         12 Heart                  42.28     X42.08  
+ -- Kamoo, Talia              12 Dolphins               45.06     X42.27  
+ -- Tafel, Ava                11 Heart                  44.82     X44.99  
+ -- Gittner, Olivia           11 Heart                  49.27     X50.68  
+ -- Cosnowski, Ariel          11 Heart                   6.30     X51.37  
+ -- Beltran, Olivia           11 Heart                1:22.68   X1:15.96  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Whan, Ian                 11 Dolphins               29.90      30.30    5  
+  2 Hosch, Lucas              12 Heart                  33.51      32.03    3  
+  3 Rheault, Drew             11 Heart                  34.44      34.33    2  
+  4 Santella, Charlie         12 Heart                  35.90     x36.28  
+  5 Antwan, Noah              11 Dolphins               47.94      40.69    1  
+ -- Bayne, Charlie            12 Heart                  36.98     X37.87  
+ -- Agius, Michael            11 Heart                  39.42     X39.63  
+ -- McCardell, Lucky          12 Heart                  45.07     X40.20  
+ -- Kavanaugh, Luke           11 Heart                  44.22     X41.07  
+ -- Brown, Drew               11 Heart                  41.21     X41.08  
+ -- Dotson, Cameron           11 Heart                  41.41     X44.52  
+ -- Palazzolo, Anthony        11 Heart                  46.43     X45.56  
+ -- Moriarty, Ryan            11 Heart                  51.67     X46.87  
+ -- Vollmayer, Vincent        11 Heart                  49.80     X50.15  
+ -- Beltran, Jorge            12 Heart                1:01.62   X1:00.32  
+ -- DeWitt, Dillon            11 Heart                  53.56   X1:00.64  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Delaere, Megan            14 Heart                  33.49      36.64    5  
+  2 McKenney, Lena            13 Dolphins               40.72      36.74    3  
+  3 Rheault, Lauren           13 Heart                  42.03      41.33    2  
+  4 Mays, Harriet             14 Dolphins               50.38      48.42    1  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bautista, Carlo           14 Dolphins               44.06      37.26    5  
+  2 Brown, Drew               11 Heart                  54.74      53.38    3  
+  3 Leahy, Sean               13 Dolphins               57.00      57.58    2  
+ -- Edrisinha, Nahil          11 Heart                1:07.61         DQ  
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gordon, Paige             15 Heart                  35.16      36.29    5  
+  2 Marchiando, Leah          16 Dolphins               35.68      36.34    3  
+  3 McKenney, Ella            16 Dolphins               37.00      36.87    2  
+  4 Agius, Mikayla            17 Heart                  38.34      37.95    1  
+  5 Layer, Ella               15 Dolphins               38.84     x39.64  
+  6 Gruden, Elizabeth         15 Heart                  36.22     x39.69  
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 VanHowe, Jack             15 Heart                  30.57      30.19    5  
+  2 Flater, John              15 Heart                  31.67      30.72    3  
+  3 Branch, Patrick           15 Dolphins               33.22      31.82    2  
+  4 Knoper, Jack              15 Dolphins               34.14      33.83    1  
+  5 Drake, Noah               15 Dolphins               39.38     x37.26  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Garn, Payton               8 Dolphins               19.84      18.22    5  
+  2 Phillips, Emma             8 Heart                  20.49      21.57    3  
+  3 Wilcox, Megan              8 Heart                  22.79      22.77    2  
+  4 Haenggi, Reagan            8 Dolphins               22.28      23.26    1  
+  5 Villajuan, Ellory          7 Dolphins               23.13     x24.79  
+  6 Rank, Riley                8 Heart                  26.42     x31.49  
+ -- Kavanaugh, Clare           8 Heart                  28.49     X25.35  
+ -- Van Drie, MacKenzie        7 Heart                  32.71     X25.98  
+ -- Farr, Juliet               7 Heart                  25.93     X26.98  
+ -- Rapetti, Claudia           7 Heart                  27.49     X27.29  
+ -- Dillingham, Grace          8 Dolphins               28.44     X27.80  
+ -- Freels, Claire             8 Heart                  35.55     X28.84  
+ -- Nagy, Amelia               8 Heart                  34.40     X30.01  
+ -- Dobski, Loren              7 Dolphins               38.83     X35.53  
+ -- Kreger, Kennedy            7 Dolphins               37.87     X35.94  
+ -- Gough, Claire              7 Dolphins               35.11     X36.78  
+ -- Rieger, Olivia             7 Heart                  42.14     X40.15  
+ -- Alstead, Mackenzie         7 Heart                  31.02     X41.53  
+ -- Husman, Lilly              6 Heart                  34.51     X42.44  
+ -- Schaffner, Lilyana         6 Heart                  44.96     X46.26  
+ -- Wellington, Katelyn        7 Heart                  42.85     X47.79  
+ -- Stein, Halle               6 Dolphins               42.99     X50.20  
+ -- Kraytem, Emilee            5 Dolphins                  NT     X56.21  
+ -- Bauman, Kayla              7 Heart                1:20.97   X1:12.54  
+ -- Alstead, Caroline          4 Heart                  56.66   X1:13.85  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Della-Torre Woolley, Max   8 Dolphins               21.94      19.37    5  
+  2 Shelton, Myles             8 Dolphins               24.54      19.90    3  
+  3 Brown, Emmett              8 Heart                  19.64      20.42    2  
+  4 Michalski, Leo             8 Heart                  22.33      22.49    1  
+  5 Waterhouse, Cooper         8 Dolphins               22.23     x22.57  
+  6 Quitmeyer, William         8 Heart                  24.61     x25.81  
+ -- Nori, Gianni               8 Heart                  22.47     X22.35  
+ -- Schultz, Cooper            8 Heart                  27.82     X24.18  
+ -- Mays, William              8 Dolphins               28.32     X25.86  
+ -- Dehko, Jagger              8 Dolphins               29.04     X30.48  
+ -- Antaki, Nabeel             8 Dolphins               23.52     X31.09  
+ -- Kratz, Trent               8 Heart                  30.50     X31.74  
+ -- Bakeman, Brett             8 Heart                  29.56     X31.81  
+ -- Campbell, Lucas            8 Heart                  39.97     X32.42  
+ -- Sears, Mark                6 Heart                  33.12     X32.42  
+ -- Sarris, Chase              6 Heart                  42.48     X33.60  
+ -- Ellis, Keaton              8 Heart                     NT     X35.11  
+ -- Campbell, Elijah           6 Heart                  35.56     X35.96  
+ -- Sarris, Jake               6 Heart                     NT     X38.93  
+ -- Bloyer, Ryan               6 Dolphins               38.22     X39.33  
+ -- Rank, Finn                 6 Heart                  45.62     X41.69  
+ -- Boggemes, Jack             7 Dolphins               58.63     X42.52  
+ -- Dillingham, Jaime          5 Dolphins               45.90     X45.32  
+ -- Dobski, Chase              7 Dolphins               47.06     X48.04  
+ -- Stein, Jake                6 Dolphins               47.34     X53.68  
+ -- Wilcox, Lucas              7 Heart                  55.90     X53.99  
+ -- Damico, Vincenzo           6 Heart                  52.30     X56.53  
+ -- Kalef, Kasen               6 Heart                3:17.69   X1:32.32  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Layer, Sophie             10 Dolphins               49.28      46.91    5  
+  2 Max, Emma                 10 Heart                  49.01      47.66    3  
+  3 Kratz, Brooke             10 Heart                  51.41      49.01    2  
+  4 Zalewski, Francesca        9 Dolphins               59.77      57.67    1  
+  5 Swaffield, Lily           10 Heart                1:01.98   x1:00.72  
+ -- Farr, Grace               10 Heart                1:09.75   X1:06.86  
+ -- Hamway, Jojo               9 Dolphins                  NT   X1:09.42  
+ -- Silbert, Mairin            9 Dolphins                  NT   X1:20.22  
+ -- Antwan, Lilly             10 Dolphins             1:06.36         DQ  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Villajuan, Auggie         10 Dolphins             1:06.77    1:01.04    5  
+  2 Drake, Xavier             10 Dolphins                  NT    1:04.37    3  
+  3 Heitchue, Nate            10 Heart                1:08.58    1:06.18    2  
+  4 Teknos, Ari               10 Heart                1:08.20    1:07.61    1  
+  5 McLachlan, Aidan          10 Dolphins             1:23.01   x1:10.00  
+ -- Weber, Ethan               9 Dolphins                  NT   X1:10.23  
+ -- Ley, Roman                 9 Dolphins             1:33.69   X1:15.28  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 VanHowe, Sydney           12 Heart                1:23.07    1:20.80    5  
+  2 Jehle, Emma               12 Heart                1:34.05    1:31.32    3  
+  3 Keenan, Elena             12 Dolphins             1:41.40    1:39.64    2  
+  4 Shelton, Maya             11 Dolphins                  NT    1:39.99    1  
+  5 Kamoo, Talia              12 Dolphins             1:56.02   x1:50.21  
+ -- Larson, Bella             11 Dolphins                  NT   X2:10.24  
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Reif, Bobby               12 Heart                1:28.05    1:26.14    5  
+  2 Louton, Andrew            12 Heart                1:26.40    1:28.18    3  
+  3 Prindle, Matteo           11 Dolphins             1:53.75    1:43.80    2  
+  4 Antwan, Noah              11 Dolphins                  NT    1:52.19    1  
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Erin             12 Dolphins               42.44     J41.02    5  
+  2 McKenney, Lena            13 Dolphins               43.13     J42.08    3  
+  3 Murphy, Margaret          14 Heart                  44.16     J44.02    2  
+  4 Schultz, Aurora           13 Heart                  48.08     J44.01    1  
+  5 Layer, Mia                13 Dolphins               47.05     x45.29  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Chutkow, Zane             14 Dolphins               37.78      36.46    5  
+  2 Brennan, Michael          13 Dolphins               48.62      45.51    3  
+  3 Bergmann, Maximilian      14 Dolphins               44.56     x46.83  
+  4 Rivera, Adam              14 Heart                  55.73      51.25    2  
+  5 MacLean, Tim              14 Heart                  58.91    1:02.95    1  
+ -- Connolly, Parker          13 Dolphins                  NT   X1:11.80  
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Thor, Victoria            17 Heart                1:01.39    1:02.21    5  
+  2 Smythe, Sophie            18 Heart                1:07.49    1:08.56    3  
+  3 Agius, Mikayla            17 Heart                1:08.85  xJ1:09.94  
+  4 Backus, Virginia          17 Dolphins             1:02.44   J1:09.54    0.5
+  5 Leahy, Erin               16 Dolphins             1:09.70    1:10.94    0.5
+  6 Marchiando, Leah          16 Dolphins             1:13.02   x1:16.02  
+ -- Hrynkiw, Jessica          15 Heart                1:10.11   X1:09.25  
+ -- Gruden, Elizabeth         15 Heart                1:16.07   X1:14.27  
+ -- Gielow, Shannon           17 Heart                1:10.49   X1:14.90  
+ -- Rinke, Catherine          18 Heart                1:08.92   X1:16.21  
+ -- Layer, Ella               15 Dolphins                  NT   X1:17.59  
+ -- Rieger, Madison           16 Heart                1:11.72   X1:21.16  
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Corsetti, Peter           18 Heart                  52.49      54.62    5  
+  2 Chutkow, Tate             16 Dolphins                  NT      59.24    3  
+  3 English, Spencer          15 Heart                  59.61      59.60    2  
+  4 Flater, John              15 Heart                  59.11   x1:00.79  
+  5 Drake, Noah               15 Dolphins                  NT    1:02.98    1  
+  6 Prindle, Rocco            16 Dolphins             1:02.91   x1:03.22  
+ -- VanHowe, Jack             15 Heart                1:01.25   X1:00.34  
+ -- Reif, Wesley              15 Heart                1:05.42   X1:04.11  
+ -- Louton, Tyler             15 Heart                1:08.44   X1:04.48  
+ -- Forlines, Joe             17 Heart                1:04.38   X1:08.07  
+ -- Witten, Thomas            15 Heart                1:08.65   X1:08.45  
+ -- Bogaerts, Nikolai         15 Dolphins                  NT   X1:10.87  
+ -- Walter, Benjamin          15 Dolphins                  NT   X1:12.37  
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Natalie         8 Dolphins               24.81      21.69    5  
+  2 Phillips, Emma             8 Heart                  25.27      22.67    3  
+  3 Murphy, Maeve              8 Heart                  28.96      27.02    2  
+  4 Ley, Isla                  7 Dolphins               39.59      34.00    1  
+  5 Stien, Ella                7 Dolphins               39.80     x38.38  
+ -- Garn, Skylar               6 Dolphins               45.71     X32.70  
+ -- Dillingham, Grace          8 Dolphins               40.68     X39.58  
+ -- Smith, Brooklyn            8 Dolphins                  NT     X43.02  
+ -- Gough, Claire              7 Dolphins                  NT     X43.94  
+ -- Stein, Halle               6 Dolphins                  NT     X49.27  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Max, Joey                  8 Heart                  20.57      20.58    5  
+  2 Della-Torre Woolley, Max   8 Dolphins               26.31      23.19    3  
+  3 Brown, Emmett              8 Heart                  25.07      26.55    2  
+  4 Shelton, Myles             8 Dolphins               28.55      30.59    1  
+  5 Dehko, Jagger              8 Dolphins               35.30     x38.59  
+ -- Mays, William              8 Dolphins               44.91     X42.67  
+ -- Smith, Jackson             7 Dolphins                  NT     X45.86  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kratz, Brooke             10 Heart                  49.52      46.22    5  
+  2 Dobski, Brooke             9 Dolphins               57.43      56.77    3  
+  3 Fandakly, Mena            10 Heart                1:02.28      57.17    2  
+  4 Vollmayer, Ella            9 Heart                  59.23   x1:03.56  
+  5 Silbert, Mairin            9 Dolphins             1:14.12    1:08.60    1  
+ -- Schultz, Evelyn           10 Heart                     NT     X53.11  
+ -- Gittner, Morgan            9 Heart                  54.64     X53.33  
+ -- Bayne, Rebecca             9 Heart                1:06.71   X1:01.27  
+ -- Dotson, Emily             10 Heart                1:08.54   X1:05.10  
+ -- McCauslin, Sidney          9 Heart                1:10.28   X1:07.69  
+ -- Wilcox, Mia                9 Heart                     NT   X1:09.94  
+ -- Copland, Mia              10 Heart                1:16.91   X1:10.84  
+ -- Damico, Basia             10 Heart                1:17.17   X1:11.96  
+ -- Buckheim, Molly Anne       9 Heart                1:18.44   X1:12.04  
+ -- Beltran, Ana               9 Heart                     NT   X1:32.98  
+ -- Hamway, Jojo               9 Dolphins                  NT         DQ  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Drew             10 Dolphins               40.21      40.74    5  
+  2 Cichocki, Connor          10 Heart                  58.87      53.06    3  
+  3 Ferrara, Luca             10 Heart                1:00.99      57.10    2  
+  4 Phillips, Bryce           10 Heart                  57.34   x1:00.98  
+ -- Chamberlin, Zachary        9 Heart                1:03.93     X59.27  
+ -- Quitmeyer, Nicholas        9 Heart                1:09.64   X1:02.37  
+ -- Hosch, Connor             10 Heart                1:05.66   X1:09.56  
+ -- Nijem, Georgie             9 Heart                     NT   X1:10.63  
+ -- Sarris, Grant              9 Heart                1:19.14   X1:10.63  
+ -- Pfeiffer, Calvin          10 Dolphins             1:20.06   X1:11.41  
+ -- Weber, Ethan               9 Dolphins                  NT   X1:13.11  
+ -- Gumz, Aiden                9 Heart                1:59.17   X1:20.16  
+ -- Damman, Jake               9 Dolphins             1:46.41   X1:25.09  
+ -- Drake, Xavier             10 Dolphins                  NT         DQ  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 VanHowe, Sydney           12 Heart                  36.32      35.81    5  
+  2 Zaleski, Caterina         12 Heart                  45.16      40.73    3  
+  3 Della- Torre Woolley, Al  12 Dolphins               48.38      43.53    2  
+  4 Dehko, Grace              11 Dolphins               44.37      43.81    1  
+  5 Knoper, Libby             11 Dolphins               53.66     x49.17  
+  6 Schultz, Vivian           11 Heart                1:01.32     x53.04  
+ -- Maxwell, Annie            11 Dolphins             1:21.50   X1:06.58  
+ -- Damman, Claire            11 Dolphins                  NT   X1:06.90  
+ -- Merlo, Giana              11 Dolphins             1:29.38   X1:20.32  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hosch, Lucas              12 Heart                  35.66      34.91    5  
+  2 Whan, Ian                 11 Dolphins               37.74      34.96    3  
+  3 Reif, Bobby               12 Heart                  36.94      35.88    2  
+  4 Walgren, Graham           11 Dolphins             1:03.07      57.11    1  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Erin             12 Dolphins               37.03      36.65    5  
+  2 Darby, Ella               13 Dolphins               47.84      43.95    3  
+  3 Schultz, Aurora           13 Heart                  35.66      45.23    2  
+  4 McCardell, Lucy           13 Heart                     NT      59.27    1  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rivera, Adam              14 Heart                  50.80      48.72    5  
+  2 Leahy, Sean               13 Dolphins               54.83      54.74    3  
+  3 Connolly, Parker          13 Dolphins               55.53    1:02.75    2  
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Peil, Michaela            18 Dolphins             1:13.05    1:15.81    5  
+  2 Evans, Kendall            17 Heart                1:20.59    1:19.24    3  
+  3 Morris, Lilly             16 Dolphins             1:24.40    1:24.10    2  
+  4 Gordon, Paige             15 Heart                1:21.43    1:24.17    1  
+  5 Rheault, Ryann            15 Heart                1:24.00   x1:25.72  
+  6 Pfeiffer, Lila            15 Dolphins             1:20.46   x1:26.89  
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Helton, David             18 Dolphins             1:06.01    1:08.15    5  
+  2 Steenson, Isaac           18 Heart                1:06.14    1:10.23    3  
+  3 Prindle, Rocco            16 Dolphins             1:12.04    1:11.67    2  
+  4 English, Spencer          15 Heart                1:12.80    1:11.76    1  
+  5 Knoper, Jack              15 Dolphins             1:12.42   x1:13.47  
+  6 Forlines, Joe             17 Heart                1:14.51   x1:19.83  
+ -- Austin, Tyler             17 Dolphins             1:16.04   X1:16.85  
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Garn, Payton               8 Dolphins               27.47      26.45    5  
+  2 Haenggi, Reagan            8 Dolphins               37.04      33.62    3  
+  3 Freels, Claire             8 Heart                  38.13      34.33    2  
+  4 Van Drie, MacKenzie        7 Heart                  37.44      34.39    1  
+  5 Stien, Ella                7 Dolphins               42.51     x37.68  
+ -- Walker, Madison            8 Dolphins                  NT     X32.51  
+ -- Walker, Olivia             8 Dolphins                  NT     X40.33  
+ -- Kreger, Kennedy            7 Dolphins             1:09.82     X49.50  
+ -- Mclachlan, Lilly           7 Dolphins               43.91     X52.70  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Kyle              8 Dolphins               24.53      23.84    5  
+  2 Max, Joey                  8 Heart                  26.85      25.93    3  
+  3 Walgren, Desmond           8 Dolphins               33.69      29.22    2  
+  4 Waterhouse, Cooper         8 Dolphins               32.24     x31.10  
+  5 Michalski, Leo             8 Heart                  31.56      31.95    1  
+  6 Campbell, Lucas            8 Heart                  40.50     x41.72  
+ -- Brown, CJ                  8 Dolphins                  NT     X37.73  
+ -- Bloyer, Colin              7 Dolphins                  NT     X43.69  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Kraytem, Leena            10 Dolphins               37.18      38.06    5  
+  2 Swaffield, Lily           10 Heart                  43.48      42.83    3  
+  3 Zalewski, Francesca        9 Dolphins               48.81      44.42    2  
+  4 Gittner, Morgan            9 Heart                  45.49      45.18    1  
+  5 Murphy, MacKenna          10 Heart                  46.76     x46.78  
+ -- Schultz, Evelyn           10 Heart                     NT     X43.99  
+ -- Fandakly, Mena            10 Heart                  58.32     X48.67  
+ -- McCauslin, Sidney          9 Heart                  50.79     X49.98  
+ -- Wilcox, Mia                9 Heart                     NT     X50.10  
+ -- Vollmayer, Ella            9 Heart                  56.20     X55.85  
+ -- Dotson, Emily             10 Heart                1:04.24     X57.26  
+ -- Copland, Mia              10 Heart                  59.89     X58.06  
+ -- Bayne, Rebecca             9 Heart                  56.08   X1:00.98  
+ -- Buckheim, Molly Anne       9 Heart                1:21.37   X1:04.75  
+ -- Farr, Grace               10 Heart                1:10.26   X1:14.75  
+ -- Damico, Basia             10 Heart                  54.94   X1:14.92  
+ -- Beltran, Ana               9 Heart                1:41.67   X1:41.58  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Madigan, Drew             10 Dolphins               33.56      34.70    5  
+  2 Layer, Dylan              10 Dolphins               44.22      40.55    3  
+  3 Smith, Dylan               9 Dolphins                  NT     x43.31  
+  4 Cichocki, Connor          10 Heart                  47.12      46.16    2  
+  5 Nagy, Luke                10 Heart                  47.79      48.49    1  
+  6 Jarvis, Drew              10 Heart                  49.57     x50.27  
+ -- Phillips, Bryce           10 Heart                  44.55     X46.56  
+ -- Quitmeyer, Nicholas        9 Heart                  54.19     X47.71  
+ -- Chamberlin, Zachary        9 Heart                  49.37     X48.30  
+ -- Ferrara, Luca             10 Heart                  57.26     X49.17  
+ -- Teknos, Ari               10 Heart                  53.33     X50.18  
+ -- Heitchue, Nate            10 Heart                  50.92     X51.23  
+ -- McLachlan, Aidan          10 Dolphins               56.58     X51.93  
+ -- Nijem, Georgie             9 Heart                     NT     X58.65  
+ -- Hosch, Connor             10 Heart                1:03.13   X1:04.72  
+ -- Damman, Jake               9 Dolphins             1:16.88   X1:14.49  
+ -- Gumz, Aiden                9 Heart                1:24.57   X1:16.94  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rapetti, Gabriella        12 Heart                  38.51      37.71    5  
+  2 Landers, Olivia           11 Heart                  44.52      43.20    3  
+  3 Della- Torre Woolley, Al  12 Dolphins               44.37      44.69    2  
+  4 Brown, Brooke             11 Dolphins               50.13      50.45    1  
+  5 Denhof, Julia             12 Dolphins               54.88     x52.84  
+  6 Max, Alice                11 Heart                  54.37     x53.36  
+ -- Quitmeyer, Olivia         12 Heart                1:04.74   X1:03.09  
+ -- Larson, Bella             11 Dolphins             1:27.18   X1:05.75  
+ -- Damman, Claire            11 Dolphins                  NT   X1:06.68  
+ -- Maxwell, Annie            11 Dolphins             1:30.21   X1:13.90  
+ -- Merlo, Giana              11 Dolphins             1:26.00   X1:23.80  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Rijnovean, Elliot         11 Dolphins               43.33      42.41    5  
+  2 Moffitt, Kevin            11 Heart                  50.35      46.11    3  
+  3 McCardell, Lucky          12 Heart                  55.38      52.52    2  
+  4 Walgren, Graham           11 Dolphins               55.13      56.00    1  
+ -- Bergmann, Alexander       12 Dolphins             1:00.46         DQ  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Murphy, Margaret          14 Heart                  34.54      34.18    5  
+  2 Rheault, Lauren           13 Heart                  33.97      35.56    3  
+  3 Murphy, Mary              13 Heart                  35.79     x37.77  
+  4 Knoper, Libby             11 Dolphins               40.94      39.78    2  
+  5 Mays, Harriet             14 Dolphins               44.20      40.18    1  
+ -- McCardell, Lucy           13 Heart                     NT     X46.88  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Chutkow, Zane             14 Dolphins               30.37      28.91    5  
+  2 Bergmann, Maximilian      14 Dolphins               33.76      34.52    3  
+  3 McIntyre, Diego           13 Dolphins               38.22     x34.56  
+  4 MacLean, Tim              14 Heart                1:00.14      56.22    2  
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Thor, Victoria            17 Heart                  30.67      31.86    5  
+  2 Peil, Michaela            18 Dolphins               33.08      34.13    3  
+  3 Pfeiffer, Lila            15 Dolphins               33.36      36.66    2  
+  4 Rheault, Ryann            15 Heart                  35.28      37.26    1  
+  5 Gielow, Shannon           17 Heart                  35.99     x37.51  
+ -- Hrynkiw, Jessica          15 Heart                  37.95     X37.15  
+ -- Agius, Grace              15 Heart                  39.00     X37.78  
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Corsetti, Peter           18 Heart                  28.11      27.99    5  
+  2 Helton, David             18 Dolphins               28.33      29.13    3  
+  3 Branch, Patrick           15 Dolphins               31.18      30.15    2  
+  4 French, Ryan              15 Dolphins               32.39     x31.51  
+  5 Reif, Wesley              15 Heart                  33.06      33.63    1  
+  6 Witten, Thomas            15 Heart                  36.06     x35.73  
+ -- Austin, Tyler             17 Dolphins               33.84     X34.78  
+ -- Zalewski, Max             16 Dolphins               36.95     X35.28  
+ -- Leahy, Danny              15 Dolphins               44.05     X40.88  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Cranbook SwimClub  'A'                            2:30.00    2:24.59    8  
+     1) Madigan, Erin W12               2) Madigan, Kyle M8               
+     3) Madigan, Drew M10               4) Layer, Sophie W10              
+  2 Cranbook SwimClub  'B'                            2:54.87   x2:45.75  
+     1) Dehko, Grace W11                2) Garn, Payton W8                
+     3) Villajuan, Auggie M10           4) Shelton, Maya W11              
+  3 Heart of the Hills  'A'                           2:42.48    2:50.31    4  
+     1) Gittner, Morgan W9              2) Max, Alice W11                 
+     3) Murphy, MacKenna W10            4) Phillips, Bryce M10            
+  4 Heart of the Hills  'B'                           3:02.33   x3:16.71  
+     1) Brown, Emmett M8                2) Max, Joey M8                   
+     3) Phillips, Emma W8               4) Wilcox, Megan W8               
+  5 Heart of the Hills  'C'                           3:10.33   x3:45.32  
+     1) Jarvis, Drew M10                2) Teknos, Ari M10                
+     3) Damico, Basia W10               4) Ferrara, Luca M10              
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Cranbook SwimClub  'A'                            3:06.25    3:08.25    8  
+     1) Whan, Ian M11                   2) Layer, Dylan M10               
+     3) Drake, Xavier M10               4) Shelton, Myles M8              
+  2 Cranbook SwimClub  'B'                            3:20.00   x3:14.09  
+     1) Rijnovean, Natalie W8           2) Brennan, Michael M13           
+     3) Zalewski, Francesca W9          4) Della-Torre Woolley, Max M8    
+  3 Heart of the Hills  'A'                           3:15.79    3:23.80    4  
+     1) Schultz, Evelyn W10             2) Kratz, Brooke W10              
+     3) Swaffield, Lily W10             4) Cichocki, Connor M10           
+  4 Heart of the Hills  'B'                           3:30.23   x3:57.73  
+     1) Vollmayer, Ella W9              2) Nagy, Luke M10                 
+     3) Heitchue, Nate M10              4) Fandakly, Mena W10             
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Heart of the Hills  'A'                           2:09.07    2:26.98    8  
+     1) Schultz, Aurora 13              2) Rapetti, Gabriella 12          
+     3) VanHowe, Sydney 12              4) Rheault, Ryann 15              
+  2 Cranbook SwimClub  'A'                            2:35.17    2:33.89    4  
+     1) Marchiando, Leah 16             2) Della- Torre Woolley, Alexandra
+     3) McKenney, Lena 13               4) Brown, Brooke 11               
+  3 Heart of the Hills  'B'                                NT   x2:40.25  
+     1) Murphy, Mary 13                 2) Landers, Olivia 11             
+     3) Murphy, Margaret 14             4) Zaleski, Caterina 12           
+  4 Cranbook SwimClub  'B'                            2:52.61   x2:53.39  
+     1) Keenan, Elena 12                2) Layer, Mia 13                  
+     3) Darby, Ella 13                  4) Kraytem, Leena 10              
+  5 Heart of the Hills  'C'                                NT   x3:48.51  
+     1) Schultz, Vivian 11              2) Quitmeyer, Olivia 12           
+     3) Gittner, Olivia 11              4) McCardell, Lucy 13             
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Cranbook SwimClub  'A'                            2:20.52    2:20.43    8  
+     1) Chutkow, Zane 14                2) French, Ryan 15                
+     3) Rijnovean, Elliot 11            4) Prindle, Matteo 11             
+  2 Heart of the Hills  'A'                           2:26.63    2:32.03    4  
+     1) Moffitt, Kevin 11               2) Louton, Andrew 12              
+     3) Hosch, Lucas 12                 4) Rheault, Drew 11               
+  3 Cranbook SwimClub  'B'                            2:36.00   x2:40.17  
+     1) Bautista, Carlo 14              2) Bergmann, Maximilian 14        
+     3) Knoper, Jack 15                 4) Smith, Dylan 9                 
+  4 Heart of the Hills  'B'                           2:52.10   x2:40.26  
+     1) Santella, Charlie 12            2) English, Ben 12                
+     3) Reif, Bobby 12                  4) Rivera, Adam 14                
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Heart of the Hills  'A'                           1:51.89    1:59.19    8  
+     1) Thor, Victoria 17               2) Smythe, Sophie 18              
+     3) Hrynkiw, Jessica 15             4) Delaere, Megan 14              
+  2 Cranbook SwimClub  'A'                            2:07.00    2:06.72    4  
+     1) Peil, Michaela 18               2) Pfeiffer, Lila 15              
+     3) Leahy, Erin 16                  4) Backus, Virginia 17            
+  3 Heart of the Hills  'B'                           2:10.05   x2:08.85  
+     1) Agius, Mikayla 17               2) Gielow, Shannon 17             
+     3) Agius, Grace 15                 4) Gordon, Paige 15               
+  4 Heart of the Hills  'C'                           2:15.21   x2:16.11  
+     1) Evans, Kendall 17               2) Rheault, Lauren 13             
+     3) Rinke, Catherine 18             4) Gruden, Elizabeth 15           
+  5 Cranbook SwimClub  'B'                            2:26.31   x2:26.72  
+     1) McKenney, Ella 16               2) Layer, Ella 15                 
+     3) Mays, Harriet 14                4) Morris, Lilly 16               
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Heart of the Hills  'A'                           1:50.26    1:45.88    8  
+     1) Corsetti, Peter 18              2) English, Spencer 15            
+     3) Flater, John 15                 4) Steenson, Isaac 18             
+  2 Cranbook SwimClub  'A'                            1:57.00    1:46.47    4  
+     1) Chutkow, Tate 16                2) Drake, Noah 15                 
+     3) Branch, Patrick 15              4) Helton, David 18               
+  3 Heart of the Hills  'B'                           1:59.35   x1:54.92  
+     1) Reif, Wesley 15                 2) VanHowe, Jack 15               
+     3) Louton, Tyler 15                4) Forlines, Joe 17               
+  4 Cranbook SwimClub  'B'                            2:15.24   x2:03.41  
+     1) Austin, Tyler 17                2) Walter, Benjamin 15            
+     3) Prindle, Rocco 16               4) Zalewski, Max 16               
+  5 Heart of the Hills  'C'                           2:46.36   x2:47.77  
+     1) Agius, Michael 11               2) Witten, Thomas 15              
+     3) Bayne, Charlie 12               4) MacLean, Tim 14                

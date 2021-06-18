@@ -1,0 +1,689 @@
+Event 1  Girls 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Saum, Ellie               11 Woodbrooke Hills-MI    39.19      40.33    5  
+  2 Wright, Lexie K           11 Woodbrooke Hills-MI    40.26      41.01    3  
+  3 Gardner, Paige L          11 SURF-NL                48.08      43.57    2  
+  4 Archer, Brynn I           11 SURF-NL                44.61      45.39    1  
+  5 Smith, Campbell           12 Woodbrooke Hills-MI    44.81     x46.15  
+ -- Thurmon, Roz M            11 Woodbrooke Hills-MI    46.05     X42.54  
+ -- Gray, Chloe               11 Woodbrooke Hills-MI    47.69     X47.30  
+ -- Lyons, Kate               12 Woodbrooke Hills-MI       NT     X49.70  
+ -- Labourdette, Mady         11 Woodbrooke Hills-MI       NT   X1:21.30  
+ 
+Event 2  Boys 11-12 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Zidar, Owen J             11 SURF-NL                44.30      46.20    5  
+  2 Ilyasov, Jacob            11 Woodbrooke Hills-MI    49.19      48.87    3  
+  3 Parsons, Payton N         12 SURF-NL                52.11      49.51    2  
+  4 Valente, Dominic          12 Woodbrooke Hills-MI    53.58      50.00    1  
+  5 Kruse, Chris G            11 SURF-NL                53.42     x57.67  
+  6 Buckhave, Tommy E         12 Woodbrooke Hills-MI    57.35     x59.08  
+ 
+Event 3  Girls 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Campbell, Avery Q         14 Woodbrooke Hills-MI  1:23.88    1:21.35    5  
+  2 Fanning, Emily C          14 SURF-NL              1:28.85    1:23.18    3  
+  3 Fitzsimons, Michaela M    14 Woodbrooke Hills-MI  1:29.48    1:24.15    2  
+  4 James, Caoilainn G        13 SURF-NL              1:40.78    1:46.61    1  
+ 
+Event 4  Boys 13-14 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Guettler, Nick J          13 SURF-NL              1:25.54    1:23.39    5  
+  2 Smith, Foster             14 Woodbrooke Hills-MI  1:45.01    1:35.76    3  
+  3 Woodruff, Campbell        14 Woodbrooke Hills-MI  1:50.48    1:44.75    2  
+  4 Hunt, Ben T               14 SURF-NL              1:49.89    1:45.98    1  
+ 
+Event 5  Women 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gidley, Greta K           16 Woodbrooke Hills-MI    35.53      37.13    5  
+  2 East, Aubrey C            18 Woodbrooke Hills-MI    35.46      37.30    3  
+  3 MacDonald, Lauren         15 Woodbrooke Hills-MI    38.42     x38.80  
+  4 Sweetwood, Claire E       15 SURF-NL                41.74      41.64    2  
+  5 Harris, Ella D            15 SURF-NL                44.73      43.66    1  
+  6 Kalusniak, Sarah          15 SURF-NL                45.57     x50.56  
+ -- Kuhnhenn, Jasmine A       16 Woodbrooke Hills-MI    42.29     X44.56  
+ -- Harvath, Kelsey           18 Woodbrooke Hills-MI    42.23     X45.27  
+ -- Ndrejaj, Rozi             16 Woodbrooke Hills-MI    46.91     X48.06  
+ 
+Event 6  Men 15-18 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 East, Conor H             17 Woodbrooke Hills-MI    36.39      33.26    5  
+  2 Brucki, Zachary J         15 Woodbrooke Hills-MI    33.72      34.65    3  
+  3 Lockwood, Scott           17 SURF-NL                35.80      36.14    2  
+  4 Nowakowski, Declan T      16 SURF-NL                38.81      40.55    1  
+  5 Price, Jacob              18 Woodbrooke Hills-MI  1:00.87   x1:05.70  
+ 
+Event 7  Girls 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Smith, Piper               8 Woodbrooke Hills-MI    25.13      21.05    5  
+  2 Reddy, Reya                8 SURF-NL                28.88      25.23    3  
+  3 Kruse, Kiersten T          7 SURF-NL                31.84      29.01    2  
+  4 Buckhave, Grace            7 Woodbrooke Hills-MI    31.30      30.31    1  
+  5 Angle, Elyse G             7 SURF-NL                29.66     x31.24  
+  6 Chapman, Laura             8 Woodbrooke Hills-MI    35.49     x38.97  
+ -- MacNeill, Lochlyn A        7 SURF-NL                   NT     X27.33  
+ -- Bluethmann, Annabelle M    6 SURF-NL                34.56     X31.70  
+ -- Durren, Ava J              6 SURF-NL                43.38     X39.16  
+ -- Beyer, Lulu I              7 SURF-NL                39.85     X39.94  
+ -- Urbance, Natalie           7 Woodbrooke Hills-MI    33.97     X40.65  
+ -- Doshi, Sofia S             6 SURF-NL                36.66     X40.78  
+ -- Clinton, Julianna C        6 SURF-NL                46.01     X46.26  
+ 
+Event 8  Boys 8 & Under 25 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bachmann, Gabriel A        7 SURF-NL                22.89      23.69    5  
+  2 Skinner, William J         8 SURF-NL                30.78      28.73    3  
+  3 Olsen, Kodiak              7 Woodbrooke Hills-MI    28.51      30.99    2  
+  4 Najarian, Luca M           8 SURF-NL                33.81     x31.96  
+  5 Chapman, William           6 Woodbrooke Hills-MI    46.29      40.04    1  
+  6 Labourdette, Levi          6 Woodbrooke Hills-MI       NT   x1:01.32  
+ -- Hurnevich, Colin J         7 SURF-NL                34.10     X31.89  
+ -- Dronzkowski, Steven E      8 SURF-NL                34.02     X33.51  
+ -- Reamer, Gabe L             7 SURF-NL                41.15     X36.69  
+ -- Polis, Aiden W             8 SURF-NL                   NT     X45.82  
+ -- Young, Levi H              6 SURF-NL                59.29     X48.61  
+ -- Boudreau, Christian J      7 SURF-NL                43.57     X57.67  
+ 
+Event 9  Girls 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hurnevich, Carissa N      10 SURF-NL                43.16      41.98    5  
+  2 Bachmann, Kailey L        10 SURF-NL                46.34      42.23    3  
+  3 Tarraf, Mira L             9 SURF-NL                43.85     x45.37  
+  4 Karoub, Samantha g        10 Woodbrooke Hills-MI       NT      47.12    2  
+  5 Saum, Addison             10 Woodbrooke Hills-MI    53.67      52.56    1  
+ -- Slazinski, Chloe L        10 SURF-NL                58.73     X52.60  
+ -- Roumayah, Julia M          9 SURF-NL                52.83     X57.51  
+ -- Conroy, Katie A           10 SURF-NL                58.94   X1:01.36  
+ -- Curcuru, Avery A           9 SURF-NL                58.25   X1:04.65  
+ -- Beyer, Lydia E             9 SURF-NL              1:19.31   X1:22.33  
+ 
+Event 10  Boys 9-10 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Lewis, Trae               10 Woodbrooke Hills-MI    43.67      39.43    5  
+  2 Marx, Miles W             10 SURF-NL                59.88      46.34    3  
+  3 Conroy, Jack M            10 SURF-NL                51.18      52.49    2  
+  4 Elder, Jameson            10 Woodbrooke Hills-MI    53.05      56.60    1  
+  5 Callahan, Reese M          9 SURF-NL              1:06.59   x1:08.21  
+ -- Dronzkowski, Joshua C     10 SURF-NL              1:14.29   X1:03.81  
+ 
+Event 11  Girls 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Saleh, Emily M            11 Woodbrooke Hills-MI    34.00      35.07    5  
+  2 Wright, Lexie K           11 Woodbrooke Hills-MI    35.70      35.81    3  
+  3 Gardner, Paige L          11 SURF-NL                36.12      35.99    2  
+  4 Thurmon, Roz M            11 Woodbrooke Hills-MI    37.74     x36.51  
+  5 Kruse, Juliana F          12 SURF-NL                38.30      37.49    1  
+ -- Rogan, Claire             12 Woodbrooke Hills-MI    41.18     X37.13  
+ -- Gray, Chloe               11 Woodbrooke Hills-MI       NT     X38.25  
+ -- Smith, Campbell           12 Woodbrooke Hills-MI    38.99     X38.78  
+ -- Labourdette, Mady         11 Woodbrooke Hills-MI       NT     X56.09  
+ 
+Event 12  Boys 11-12 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Harris, Evan L            11 SURF-NL                30.90      32.21    5  
+  2 Ilyasov, Alex             11 Woodbrooke Hills-MI    35.54      35.13    3  
+  3 Campbell, Griffin D       12 Woodbrooke Hills-MI    38.15      36.67    2  
+  4 Sharp, Aidan H            12 Woodbrooke Hills-MI    39.18     x39.74  
+  5 Kruse, Chris G            11 SURF-NL                41.06      41.90    1  
+ -- Walby, James              12 Woodbrooke Hills-MI    48.09     X42.31  
+ -- Riordan, Andrew E         12 Woodbrooke Hills-MI    42.16     X42.97  
+ -- Buckhave, Tommy E         12 Woodbrooke Hills-MI    49.73     X49.69  
+ 
+Event 13  Girls 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Fanning, Emily C          14 SURF-NL                35.40      35.34    5  
+  2 Zanoli, Emmakate          13 SURF-NL                35.38      36.12    3  
+  3 Zidar, Anna               13 SURF-NL                40.51     x39.80  
+  4 Elder, Sydney             14 Woodbrooke Hills-MI    49.62      40.76    2  
+ -- Kruse, Katie M            14 SURF-NL                41.89     X41.82  
+ -- Derian, Lora M            13 SURF-NL                45.78     X46.65  
+ 
+Event 14  Boys 13-14 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Szachta, Andrew F         13 SURF-NL                29.81      29.51    5  
+  2 Smith, Samuel J           14 Woodbrooke Hills-MI    35.76      34.30    3  
+  3 Frost, Paul J             14 SURF-NL                45.33      43.15    2  
+  4 Gray, Colin J             14 Woodbrooke Hills-MI    52.43      49.55    1  
+ 
+Event 15  Women 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Penner, Evie              16 Woodbrooke Hills-MI    32.69      33.76    5  
+  2 Branford, Sabine          15 Woodbrooke Hills-MI    34.51      35.56    3  
+  3 Marshall, Erin E          16 SURF-NL                35.38      38.93    2  
+  4 Branford, Lauren          18 Woodbrooke Hills-MI    35.38     x39.62  
+  5 Kruse, Veronica A         16 SURF-NL                42.57      44.00    1  
+  6 Kalusniak, Sarah          15 SURF-NL                47.33     x49.06  
+ -- George, Lucy E            15 Woodbrooke Hills-MI    35.62     X36.29  
+ -- Fitzgerald, Erin E        15 Woodbrooke Hills-MI    39.36     X39.78  
+ -- George, Ella J            17 Woodbrooke Hills-MI    37.54     X39.91  
+ 
+Event 16  Men 15-18 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hoag, Joe H               15 SURF-NL                33.34      33.17    5  
+  2 Kish, Andrew G            16 Woodbrooke Hills-MI    37.78      37.22    3  
+  3 Kruse, Aidan P            17 SURF-NL                38.07      37.96    2  
+  4 Andonyan, Evan            15 Woodbrooke Hills-MI       NT      40.91    1  
+ -- Derian, Van V             15 SURF-NL                46.04     X49.10  
+ 
+Event 17  Girls 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Reddy, Reya                8 SURF-NL                21.99      21.74    5  
+  2 MacNeill, Lochlyn A        7 SURF-NL                22.89      23.46    3  
+  3 Hurnevich, Alina N         7 SURF-NL                27.97     x27.19  
+  4 Buckhave, Grace            7 Woodbrooke Hills-MI    34.65      31.00    2  
+  5 Saum, Emily                6 Woodbrooke Hills-MI    33.07      35.29    1  
+ -- Kontos, Eva K              8 SURF-NL                30.89     X27.80  
+ -- Cooper, Maren L            5 SURF-NL                34.65     X28.21  
+ -- Pierce, Brie C             8 SURF-NL                   NT     X31.81  
+ -- Marx, Val A                7 SURF-NL                29.78     X32.14  
+ -- Beyer, Lulu I              7 SURF-NL                33.63     X33.66  
+ -- Bluethmann, Annabelle M    6 SURF-NL                35.39     X35.56  
+ -- Clinton, Julianna C        6 SURF-NL                41.56     X38.85  
+ -- Doshi, Sofia S             6 SURF-NL                38.08     X39.39  
+ -- Durren, Grace M            6 SURF-NL                51.52     X45.45  
+ 
+Event 18  Boys 8 & Under 25 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Young, Ari R               8 SURF-NL                28.07      21.60    5  
+  2 Skinner, William J         8 SURF-NL                27.75      25.07    3  
+  3 Eisenscher, Ami            7 Woodbrooke Hills-MI    25.76      27.30    2  
+  4 Hurnevich, Colin J         7 SURF-NL                30.17     x27.79  
+  5 Labourdette, Levi          6 Woodbrooke Hills-MI       NT      36.53    1  
+ -- Bluethmann, Brendan W      8 SURF-NL                38.12     X25.18  
+ -- VanGemert, Dash T          7 SURF-NL                33.38     X28.78  
+ -- Spence, Tristan M          6 SURF-NL                33.38     X29.93  
+ -- Boudreau, Christian J      7 SURF-NL                34.00     X34.61  
+ -- Young, Levi H              6 SURF-NL                42.27     X35.15  
+ -- Polis, Aiden W             8 SURF-NL                   NT     X35.82  
+ -- Reamer, Gabe L             7 SURF-NL                40.63     X36.62  
+ 
+Event 19  Girls 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Hurnevich, Carissa N      10 SURF-NL                53.34      51.31    5  
+  2 Bachmann, Kailey L        10 SURF-NL                48.06      52.37    3  
+  3 VanGemert, Vivienne M     10 SURF-NL                55.64     x56.04  
+  4 Saum, Addison             10 Woodbrooke Hills-MI  1:06.17      59.18    2  
+  5 Neathamer, Lidia R        10 Woodbrooke Hills-MI  1:05.61    1:03.66    1  
+  6 Kesner, Willa              9 Woodbrooke Hills-MI  1:12.02   x1:10.92  
+ -- Karoub, Samantha g        10 Woodbrooke Hills-MI  1:14.21     X57.47  
+ -- Monroe, Samantha A        10 SURF-NL              1:00.44     X57.64  
+ -- Reddy, Diya               10 SURF-NL              1:06.81     X57.73  
+ -- Slazinski, Chloe L        10 SURF-NL              1:02.18   X1:01.61  
+ -- Beyer, Lydia E             9 SURF-NL              1:16.06   X1:09.86  
+ -- Woodruff, Charlotte        9 Woodbrooke Hills-MI       NT   X1:09.89  
+ -- Freeman, Maggie J          9 Woodbrooke Hills-MI  1:13.66   X1:09.92  
+ -- Aguilar, Violetta         10 SURF-NL              1:11.15   X1:14.45  
+ -- Spence, Anna V             9 SURF-NL              1:23.80   X1:16.61  
+ -- Neathamer, Ellie M         9 Woodbrooke Hills-MI  1:16.71   X1:16.80  
+ -- Bewick, Raegan             9 SURF-NL              1:19.68   X1:24.76  
+ -- Kruse, Michaela R          9 SURF-NL              1:31.99   X1:24.91  
+ 
+Event 20  Boys 9-10 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Antone, Will T            10 SURF-NL                49.18      46.24    5  
+  2 Ilyasov, Brandon           9 Woodbrooke Hills-MI    49.15      47.48    3  
+  3 Callahan, Reese M          9 SURF-NL              1:07.34    1:05.90    2  
+  4 Ohm, Alex                  9 Woodbrooke Hills-MI  1:06.29    1:06.05    1  
+  5 Desai, Roshan S            9 SURF-NL              1:11.27   x1:09.27  
+  6 Olson, Teddy              10 Woodbrooke Hills-MI  1:13.48   x1:11.85  
+ -- Caulfield, Caeden          9 Woodbrooke Hills-MI  1:30.42   X1:18.37  
+ 
+Event 21  Girls 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bushey, Mackenzie         12 Woodbrooke Hills-MI  1:17.46    1:13.67    5  
+  2 Gray, Leah                12 Woodbrooke Hills-MI  1:29.15    1:26.10    3  
+  3 Saum, Ellie               11 Woodbrooke Hills-MI  1:27.89   x1:29.64  
+  4 Archer, Brynn I           11 SURF-NL              1:47.98    1:44.84    2  
+  5 Wilcox, Chelsea I         11 SURF-NL                   NT    2:05.99    1  
+ -- LaPorte, Isabelle G       11 Woodbrooke Hills-MI  1:36.23   X1:37.80  
+ 
+Event 22  Boys 11-12 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Harris, Evan L            11 SURF-NL              1:22.50    1:23.25    5  
+  2 Ilyasov, Alex             11 Woodbrooke Hills-MI  1:45.25    1:33.66    3  
+  3 Zidar, Owen J             11 SURF-NL              1:50.18    1:44.96    2  
+  4 Valente, Dominic          12 Woodbrooke Hills-MI  2:07.45    1:53.99    1  
+  5 Guettler, Ben J           11 SURF-NL                   NT   x2:06.18  
+ 
+Event 23  Girls 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Zanoli, Emmakate          13 SURF-NL                37.59      38.95    5  
+  2 Campbell, Avery Q         14 Woodbrooke Hills-MI    41.90      42.66    3  
+  3 Nelson, Annaliese         13 Woodbrooke Hills-MI    48.30      46.14    2  
+  4 Collins, Corrina J        13 Woodbrooke Hills-MI    51.68     x52.24  
+  5 James, Caoilainn G        13 SURF-NL                54.50      57.12    1  
+  6 Wilcox, Lily T            14 SURF-NL                   NT   x1:03.60  
+ 
+Event 24  Boys 13-14 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Guettler, Nick J          13 SURF-NL                38.95      41.59    5  
+  2 Olson, Joshua             13 Woodbrooke Hills-MI    48.28      45.74    3  
+  3 Castro, Braylen D         13 SURF-NL                   NT      49.44    2  
+  4 Woodruff, Campbell        14 Woodbrooke Hills-MI    49.49      50.64    1  
+  5 Collins, Cameron J        13 Woodbrooke Hills-MI    54.62     x51.82  
+ 
+Event 25  Women 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Smith, Mattie J           15 Woodbrooke Hills-MI  1:06.15    1:03.37    5  
+  2 Sweetwood, Claire E       15 SURF-NL              1:04.62    1:06.01    3  
+  3 MacDonald, Lauren         15 Woodbrooke Hills-MI  1:08.15    1:08.59    2  
+  4 Pierce, Adrie N           15 SURF-NL              1:13.76    1:11.61    1  
+  5 Branford, Lauren          18 Woodbrooke Hills-MI  1:10.15   x1:16.43  
+ -- Fitzgerald, Erin E        15 Woodbrooke Hills-MI  1:14.51   X1:12.78  
+ -- Green, Sadie              16 Woodbrooke Hills-MI  1:14.14   X1:13.11  
+ -- Ndrejaj, Rozi             16 Woodbrooke Hills-MI  1:16.36   X1:16.66  
+ -- George, Ella J            17 Woodbrooke Hills-MI  1:10.91   X1:17.51  
+ -- Kuhnhenn, Jasmine A       16 Woodbrooke Hills-MI  1:16.00   X1:18.32  
+ 
+Event 26  Men 15-18 100 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Brucki, Zachary J         15 Woodbrooke Hills-MI  1:00.74    1:00.53    5  
+  2 Roberge, Michael          17 SURF-NL                55.84    1:01.52    3  
+  3 Nowakowski, Declan T      16 SURF-NL              1:11.99    1:10.34    2  
+  4 Kish, Andrew G            16 Woodbrooke Hills-MI  1:11.70    1:10.38    1  
+  5 Nagel, Michael A          15 SURF-NL              1:10.40   x1:11.90  
+  6 Price, Jacob              18 Woodbrooke Hills-MI  2:01.53   x2:04.01  
+ 
+Event 27  Girls 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Smith, Piper               8 Woodbrooke Hills-MI    18.86      19.66    5  
+  2 Cooper, Loghan J           8 SURF-NL                39.85      24.71    3  
+  3 Schepper, Paige E          8 SURF-NL                38.78      32.77    2  
+  4 Chapman, Laura             8 Woodbrooke Hills-MI       NT      36.06    1  
+  5 Hurnevich, Alina N         7 SURF-NL                37.56     x39.92  
+ -- Kruse, Kiersten T          7 SURF-NL                40.60     X43.65  
+ 
+Event 28  Boys 8 & Under 25 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Young, Ari R               8 SURF-NL                27.00      27.51    5  
+  2 Dronzkowski, Steven E      8 SURF-NL                30.98     J34.18    3  
+  3 Eisenscher, Ami            7 Woodbrooke Hills-MI    29.75     J34.05    2  
+  4 Bluethmann, Brendan W      8 SURF-NL                37.65     x35.05  
+  5 Olsen, Kodiak              7 Woodbrooke Hills-MI       NT      37.60    1  
+ -- Spence, Tristan M          6 SURF-NL                43.19     X38.45  
+ -- VanGemert, Dash T          7 SURF-NL                50.38     X44.96  
+ 
+Event 29  Girls 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bluethmann, Meghan K      10 SURF-NL                41.72      40.88    5  
+  2 Lyons, Joy                10 Woodbrooke Hills-MI    40.89      42.30    3  
+  3 Tarraf, Mira L             9 SURF-NL                47.54      44.90    2  
+  4 George, Chloe A           10 Woodbrooke Hills-MI    58.24      51.79    1  
+  5 Monroe, Madison L         10 SURF-NL                51.55     x54.04  
+  6 Woodruff, Charlotte        9 Woodbrooke Hills-MI    58.96   x1:00.96  
+ -- Holland, Grace            10 Woodbrooke Hills-MI  1:02.28     X52.14  
+ -- Conroy, Katie A           10 SURF-NL                54.67     X52.26  
+ -- Lanivich, Lilla J          9 SURF-NL                57.97     X58.89  
+ -- Guettler, Tori I           9 SURF-NL              1:07.35   X1:00.65  
+ -- Neathamer, Ellie M         9 Woodbrooke Hills-MI  1:04.86   X1:06.29  
+ -- VanNorwick, Faith E        9 SURF-NL              1:27.03   X1:09.02  
+ -- Hanley, Nora               9 Woodbrooke Hills-MI  1:14.78   X1:09.40  
+ 
+Event 30  Boys 9-10 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Lewis, Trae               10 Woodbrooke Hills-MI    44.15      44.72    5  
+  2 Antone, Will T            10 SURF-NL                46.81      47.11    3  
+  3 Conroy, Jack M            10 SURF-NL                47.58      53.46    2  
+  4 Elder, Jameson            10 Woodbrooke Hills-MI    51.89      53.76    1  
+  5 Dronzkowski, Joshua C     10 SURF-NL              1:02.48   x1:02.39  
+ -- LaPorte, Matthew A         9 Woodbrooke Hills-MI       NT     X58.02  
+ -- Desai, Roshan S            9 SURF-NL              1:04.26   X1:04.96  
+ -- Parsons, Louis E          10 SURF-NL              1:07.50   X1:14.93  
+ -- Boudreau, August M        10 SURF-NL              1:07.16   X1:17.14  
+ -- Atto, Jonathan A           9 SURF-NL              1:28.21   X1:20.39  
+ -- Walby, Tommy               9 Woodbrooke Hills-MI  1:20.02   X1:24.98  
+ -- VanNorwick, Noah A         9 SURF-NL              1:42.21   X1:29.16  
+ -- Hunt, Josh L              10 SURF-NL              1:26.94   X1:30.56  
+ 
+Event 31  Girls 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gray, Leah                12 Woodbrooke Hills-MI    37.11      38.96    5  
+  2 Saleh, Emily M            11 Woodbrooke Hills-MI    42.23      40.72    3  
+  3 Roumayah, Jenna E         11 SURF-NL                43.97      43.09    2  
+  4 LaPorte, Isabelle G       11 Woodbrooke Hills-MI    48.19     x45.51  
+  5 Wilcox, Chelsea I         11 SURF-NL              1:06.09    1:03.82    1  
+ -- Schroeder, Mel-Mel K      11 Woodbrooke Hills-MI    54.22     X46.41  
+ 
+Event 32  Boys 11-12 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Campbell, Griffin D       12 Woodbrooke Hills-MI    39.82      40.77    5  
+  2 Sharp, Aidan H            12 Woodbrooke Hills-MI    49.31      46.23    3  
+  3 Guettler, Ben J           11 SURF-NL              1:04.11    1:04.86    2  
+  4 Atto, Matthew J           11 SURF-NL              1:22.02    1:10.46    1  
+ 
+Event 33  Girls 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Franklin, Ellie M         13 SURF-NL                34.49      37.28    5  
+  2 Fitzsimons, Michaela M    14 Woodbrooke Hills-MI    39.91      40.03    3  
+  3 Anger, Sofia M            13 SURF-NL                38.91      40.06    2  
+  4 Winter, Sydney P          14 Woodbrooke Hills-MI    43.18      41.81    1  
+  5 Zidar, Anna               13 SURF-NL                42.16     x42.47  
+ 
+Event 34  Boys 13-14 50 SC Meter Backstroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Smith, Samuel J           14 Woodbrooke Hills-MI    40.23      38.12    5  
+  2 Smith, Foster             14 Woodbrooke Hills-MI    44.93      44.99    3  
+  3 Frost, Paul J             14 SURF-NL                48.15      45.39    2  
+  4 Hunt, Ben T               14 SURF-NL                59.34      49.49    1  
+  5 Collins, Cameron J        13 Woodbrooke Hills-MI    54.69     x51.43  
+ 
+Event 35  Women 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Gidley, Greta K           16 Woodbrooke Hills-MI  1:07.79    1:11.78    5  
+  2 East, Aubrey C            18 Woodbrooke Hills-MI  1:11.37    1:15.56    3  
+  3 Branford, Sabine          15 Woodbrooke Hills-MI  1:14.65   x1:17.68  
+  4 Kruse, Veronica A         16 SURF-NL              1:30.49    1:30.34    2  
+ -- George, Lucy E            15 Woodbrooke Hills-MI  1:22.49   X1:20.55  
+ -- Green, Sadie              16 Woodbrooke Hills-MI  1:26.02   X1:27.86  
+ 
+Event 36  Men 15-18 100 SC Meter IM
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 East, Conor H             17 Woodbrooke Hills-MI  1:02.41    1:04.02    5  
+  2 Quirolo, Gavin J          16 Woodbrooke Hills-MI  1:14.33    1:11.04    3  
+  3 Lockwood, Scott           17 SURF-NL              1:11.26    1:11.58    2  
+  4 Kruse, Aidan P            17 SURF-NL              1:21.55    1:19.59    1  
+ 
+Event 37  Girls 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Cooper, Loghan J           8 SURF-NL                29.99      32.31    5  
+  2 Marx, Val A                7 SURF-NL                39.17      32.52    3  
+  3 Schepper, Paige E          8 SURF-NL                37.49     x39.49  
+  4 Urbance, Natalie           7 Woodbrooke Hills-MI    45.32      39.74    2  
+  5 Saum, Emily                6 Woodbrooke Hills-MI    49.49      45.72    1  
+ -- Kontos, Eva K              8 SURF-NL                52.82     X46.25  
+ -- Angle, Elyse G             7 SURF-NL                49.19     X47.72  
+ 
+Event 38  Boys 8 & Under 25 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bachmann, Gabriel A        7 SURF-NL                26.84      26.58    5  
+  2 Najarian, Luca M           8 SURF-NL                39.77      32.30    3  
+  3 Chapman, William           6 Woodbrooke Hills-MI       NT      53.67    2  
+ 
+Event 39  Girls 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bluethmann, Meghan K      10 SURF-NL                37.20      35.36    5  
+  2 Lyons, Joy                10 Woodbrooke Hills-MI    36.49      35.70    3  
+  3 George, Chloe A           10 Woodbrooke Hills-MI    42.79     J41.29    2  
+  4 Monroe, Samantha A        10 SURF-NL                45.48     J41.25    1  
+  5 Monroe, Madison L         10 SURF-NL                44.69     x46.76  
+  6 Holland, Grace            10 Woodbrooke Hills-MI    51.26     x48.59  
+ -- Reddy, Diya               10 SURF-NL                   NT     X44.23  
+ -- Curcuru, Avery A           9 SURF-NL                49.45     X45.07  
+ -- Roumayah, Julia M          9 SURF-NL                46.66     X46.31  
+ -- VanGemert, Vivienne M     10 SURF-NL                47.24     X47.71  
+ -- Freeman, Maggie J          9 Woodbrooke Hills-MI       NT     X47.76  
+ -- Aguilar, Violetta         10 SURF-NL                51.33     X49.37  
+ -- Guettler, Tori I           9 SURF-NL                56.10     X51.86  
+ -- Lanivich, Lilla J          9 SURF-NL                54.73     X53.38  
+ -- Kesner, Willa              9 Woodbrooke Hills-MI    54.61     X55.16  
+ -- Neathamer, Lidia R        10 Woodbrooke Hills-MI    58.20     X57.03  
+ -- Spence, Anna V             9 SURF-NL                58.57     X58.66  
+ -- Hanley, Nora               9 Woodbrooke Hills-MI  1:02.66   X1:02.63  
+ -- Bewick, Raegan             9 SURF-NL                56.89   X1:03.43  
+ -- Kruse, Michaela R          9 SURF-NL              1:05.95   X1:06.22  
+ -- VanNorwick, Faith E        9 SURF-NL              1:49.35   X1:27.99  
+ 
+Event 40  Boys 9-10 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ilyasov, Brandon           9 Woodbrooke Hills-MI    35.52      36.08    5  
+  2 Marx, Miles W             10 SURF-NL                38.64      37.26    3  
+  3 LaPorte, Matthew A         9 Woodbrooke Hills-MI    56.73      48.03    2  
+  4 Olson, Teddy              10 Woodbrooke Hills-MI    54.82     x49.64  
+  5 Atto, Jonathan A           9 SURF-NL                58.14      52.90    1  
+  6 Boudreau, August M        10 SURF-NL              1:03.50   x1:02.29  
+ -- Ohm, Alex                  9 Woodbrooke Hills-MI       NT     X52.48  
+ -- Caulfield, Caeden          9 Woodbrooke Hills-MI  1:02.32     X59.59  
+ -- Urbance, Ryan             10 Woodbrooke Hills-MI  1:08.81   X1:00.64  
+ -- Parsons, Louis E          10 SURF-NL              1:11.24   X1:04.84  
+ -- Hunt, Josh L              10 SURF-NL              1:12.67   X1:12.36  
+ -- Walby, Tommy               9 Woodbrooke Hills-MI  1:13.90   X1:17.57  
+ -- VanNorwick, Noah A         9 SURF-NL              1:28.55   X1:20.00  
+ 
+Event 41  Girls 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Bushey, Mackenzie         12 Woodbrooke Hills-MI    37.96      37.73    5  
+  2 Schroeder, Mel-Mel K      11 Woodbrooke Hills-MI    47.20      47.10    3  
+  3 Rogan, Claire             12 Woodbrooke Hills-MI    53.19     x50.77  
+  4 Kruse, Juliana F          12 SURF-NL                52.12      50.92    2  
+  5 Roumayah, Jenna E         11 SURF-NL                54.06      51.55    1  
+ -- Lyons, Kate               12 Woodbrooke Hills-MI       NT   X1:04.04  
+ 
+Event 42  Boys 11-12 50 SC Meter Breaststroke
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Ilyasov, Jacob            11 Woodbrooke Hills-MI    48.82      47.18    5  
+  2 Walby, James              12 Woodbrooke Hills-MI    54.50      53.01    3  
+  3 Atto, Matthew J           11 SURF-NL              1:06.55    1:03.41    2  
+  4 Parsons, Payton N         12 SURF-NL              1:19.72    1:14.28    1  
+ 
+Event 43  Girls 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Franklin, Ellie M         13 SURF-NL                31.49      31.87    5  
+  2 Anger, Sofia M            13 SURF-NL                32.58      33.99    3  
+  3 Piper, Kayli              13 Woodbrooke Hills-MI    35.02      34.83    2  
+  4 Elder, Sydney             14 Woodbrooke Hills-MI    36.03      36.76    1  
+  5 Winter, Sydney P          14 Woodbrooke Hills-MI    36.14     x38.06  
+  6 Kruse, Katie M            14 SURF-NL                36.59     x46.36  
+ -- Stanczak, Natalie R       13 SURF-NL                   NT     X35.18  
+ -- Derian, Lora M            13 SURF-NL                38.17     X37.95  
+ -- Nelson, Annaliese         13 Woodbrooke Hills-MI    41.92     X37.99  
+ -- Collins, Corrina J        13 Woodbrooke Hills-MI    39.60     X40.33  
+ -- Wilcox, Lily T            14 SURF-NL                45.24     X43.96  
+ 
+Event 44  Boys 13-14 50 SC Meter Freestyle
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Szachta, Andrew F         13 SURF-NL                28.50      27.77    5  
+  2 Gray, Colin J             14 Woodbrooke Hills-MI    37.48      33.71    3  
+  3 Castro, Braylen D         13 SURF-NL                33.63      33.76    2  
+  4 Olson, Joshua             13 Woodbrooke Hills-MI    50.78      36.53    1  
+ 
+Event 45  Women 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Penner, Evie              16 Woodbrooke Hills-MI    30.15      31.12    5  
+  2 Smith, Mattie J           15 Woodbrooke Hills-MI    32.20      32.03    3  
+  3 Marshall, Erin E          16 SURF-NL                32.54      34.94    2  
+  4 Pierce, Adrie N           15 SURF-NL                32.87      35.06    1  
+  5 Harris, Ella D            15 SURF-NL                39.13     x36.27  
+  6 Harvath, Kelsey           18 Woodbrooke Hills-MI    35.94     x39.93  
+ 
+Event 46  Men 15-18 50 SC Meter Butterfly
+===============================================================================
+    Name                     Age Team                    Seed     Finals Points 
+===============================================================================
+  1 Quirolo, Gavin J          16 Woodbrooke Hills-MI    30.27      29.95    5  
+  2 Roberge, Michael          17 SURF-NL                28.13      30.15    3  
+  3 Hoag, Joe H               15 SURF-NL                34.24      33.33    2  
+  4 Andonyan, Evan            15 Woodbrooke Hills-MI       NT      35.40    1  
+  5 Nagel, Michael A          15 SURF-NL                42.46     x35.68  
+ -- Derian, Van V             15 SURF-NL                43.51     X40.39  
+ 
+Event 47  Mixed 40 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Woodbrooke Hills Swim & Tennis-MI  'A'            2:22.18    2:22.80    8  
+     1) Bushey, Mackenzie W12           2) Ilyasov, Brandon M9            
+     3) Ilyasov, Alex M11               4) Smith, Piper W8                
+  2 Bloomfield Hills Swim and Tenn-NL  'A'            2:33.19    2:31.47    4  
+     1) Bluethmann, Meghan K W10        2) Marx, Miles W M10              
+     3) Antone, Will T M10              4) Hurnevich, Carissa N W10       
+  3 Bloomfield Hills Swim and Tenn-NL  'B'            2:54.38   x2:51.80  
+     1) Roumayah, Jenna E W11           2) Monroe, Madison L W10          
+     3) Monroe, Samantha A W10          4) Callahan, Reese M M9           
+  4 Bloomfield Hills Swim and Tenn-NL  'C'            3:04.05   x3:07.64  
+     1) Desai, Roshan S M9              2) Roumayah, Julia M W9           
+     3) Guettler, Ben J M11             4) Kruse, Chris G M11             
+  5 Woodbrooke Hills Swim & Tennis-MI  'C'                 NT   x3:38.81  
+     1) Lyons, Kate W12                 2) Neathamer, Lidia R W10         
+     3) Kesner, Willa W9                4) Hanley, Nora W9                
+  6 Woodbrooke Hills Swim & Tennis-MI  'B'                 NT   x3:44.93  
+     1) Gray, Chloe W11                 2) Labourdette, Mady W11          
+     3) Neathamer, Ellie M W9           4) Woodruff, Charlotte W9         
+ 
+Event 48  Mixed 40 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Woodbrooke Hills Swim & Tennis-MI  'A'               3.59    2:57.59    8  
+     1) Lyons, Joy W10                  2) Ilyasov, Jacob M11             
+     3) Lewis, Trae M10                 4) Freeman, Maggie J W9           
+  2 Bloomfield Hills Swim and Tenn-NL  'A'            2:59.39    2:58.75    4  
+     1) Archer, Brynn I W11             2) Bachmann, Kailey L W10         
+     3) Tarraf, Mira L W9               4) Conroy, Jack M M10             
+  3 Woodbrooke Hills Swim & Tennis-MI  'B'                 NT   x3:39.33  
+     1) George, Chloe A W10             2) Elder, Jameson M10             
+     3) Saum, Addison W10               4) Holland, Grace W10             
+ 
+Event 49  Women 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Bloomfield Hills Swim and Tenn-NL  'A'            2:21.07    2:24.34    8  
+     1) Franklin, Ellie M 13            2) Zanoli, Emmakate 13            
+     3) Pierce, Adrie N 15              4) Gardner, Paige L 11            
+  2 Woodbrooke Hills Swim & Tennis-MI  'A'            2:06.16    2:26.73    4  
+     1) Saum, Ellie 11                  2) MacDonald, Lauren 15           
+     3) Campbell, Avery Q 14            4) Gray, Leah 12                  
+  3 Woodbrooke Hills Swim & Tennis-MI  'B'                 NT   x2:36.56  
+     1) Wright, Lexie K 11              2) East, Aubrey C 18              
+     3) Saleh, Emily M 11               4) Thurmon, Roz M 11              
+  4 Woodbrooke Hills Swim & Tennis-MI  'C'                 NT   x2:46.31  
+     1) Fitzsimons, Michaela M 14       2) Schroeder, Mel-Mel K 11        
+     3) LaPorte, Isabelle G 11          4) Green, Sadie 16                
+  5 Bloomfield Hills Swim and Tenn-NL  'B'            2:58.07   x2:55.37  
+     1) Zidar, Anna 13                  2) Kruse, Juliana F 12            
+     3) Derian, Lora M 13               4) James, Caoilainn G 13          
+ 
+Event 50  Men 52 & Under 200 SC Meter Medley Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Bloomfield Hills Swim and Tenn-NL  'A'            2:13.00    2:14.78    8  
+     1) Hoag, Joe H 15                  2) Guettler, Nick J 13            
+     3) Szachta, Andrew F 13            4) Harris, Evan L 11              
+  2 Woodbrooke Hills Swim & Tennis-MI  'A'            1:57.46    2:43.87    4  
+     1) Smith, Samuel J 14              2) Olson, Joshua 13               
+     3) Campbell, Griffin D 12          4) Sharp, Aidan H 12              
+  3 Woodbrooke Hills Swim & Tennis-MI  'B'                 NT   x3:17.36  
+     1) Smith, Foster 14                2) Collins, Cameron J 13          
+     3) Gray, Colin J 14                4) Myers, Devin 12                
+  4 Woodbrooke Hills Swim & Tennis-MI  'C'                 NT   x3:37.60  
+     1) Woodruff, Campbell 14           2) Buckhave, Tommy E 12           
+     3) Walby, James 12                 4) Valente, Dominic 12            
+ 
+Event 51  Women 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Woodbrooke Hills Swim & Tennis-MI  'A'            1:55.15    1:54.60    8  
+     1) Gidley, Greta K 16              2) Penner, Evie 16                
+     3) Branford, Sabine 15             4) Smith, Mattie J 15             
+  2 Bloomfield Hills Swim and Tenn-NL  'A'            2:05.06    2:09.28    4  
+     1) Sweetwood, Claire E 15          2) Fanning, Emily C 14            
+     3) Anger, Sofia M 13               4) Marshall, Erin E 16            
+  3 Woodbrooke Hills Swim & Tennis-MI  'B'                 NT   x2:15.05  
+     1) George, Lucy E 15               2) Fitzgerald, Erin E 15          
+     3) Kuhnhenn, Jasmine A 16          4) Ndrejaj, Rozi 16               
+  4 Woodbrooke Hills Swim & Tennis-MI  'C'                 NT   x2:26.12  
+     1) Harvath, Kelsey 18              2) George, Ella J 17              
+     3) Branford, Lauren 18             4) Collins, Corrina J 13          
+ 
+Event 52  Men 66 & Under 200 SC Meter Freestyle Relay
+===============================================================================
+    Team                                                 Seed     Finals Points 
+===============================================================================
+  1 Woodbrooke Hills Swim & Tennis-MI  'A'            1:38.27    1:49.48    8  
+     1) Brucki, Zachary J 15            2) Quirolo, Gavin J 16            
+     3) Andonyan, Evan 15               4) East, Conor H 17               
+  2 Bloomfield Hills Swim and Tenn-NL  'A'            2:06.11    1:53.23    4  
+     1) Roberge, Michael 17             2) Kruse, Aidan P 17              
+     3) Nagel, Michael A 15             4) Lockwood, Scott 17             
